@@ -26,8 +26,8 @@ As a young researcher, your interest and kind citation will definitely mean a lo
 
 # 🔥 News
 <!-- - [*2023*] ![new paper](/images/new.gif) One paper is accepted to DASFAA 2023, about table-and-text question answering. -->
-- [*2023*] ![new paper](/images/new.gif) Our new preprints, [Multi-modal Prompt Learning](https://arxiv.org/pdf/2212.09335.pdf) for vision-language foundation models is out!
-- [*2023*] ![new paper](/images/new.gif) Our new preprints, [Collaborative Distillation](https://arxiv.org/pdf/2212.09335.pdf) so that multiple pre-trainings complement each other is out!
+- [*2023*] ![new paper](/images/new.gif) Our new preprint, [Multi-modal Prompt Learning](https://arxiv.org/pdf/2212.09335.pdf) for vision-language foundation models is out!
+- [*2023*] ![new paper](/images/new.gif) Our new preprint, [Collaborative Distillation](https://arxiv.org/pdf/2212.09335.pdf) so that multiple pre-trainings complement each other is out!
 - [*2022*] One paper is accepted to ECCV 2022, about efficient adaptation of VLP.
 
 
@@ -49,12 +49,13 @@ In Proc. of **arXiv preprint 2023**
 
 
 ### 📒 Topic: Vision-Language-Audio Pre-trainings with Strong Generalization but Low Costs
-1. [Long-Document Cross-Lingual Summarization](https://arxiv.org/abs/2212.00586) \| [[Data](https://github.com/LearnItBoy/Perseus)] \| [[Report](https://mp.weixin.qq.com/s/klalyNLgNRx6-cvxtTJ3OA)]    
-Shaohui Zheng, Zhixu Li, **Jiaan Wang**, Jianfeng Qu, An Liu, Lei Zhao and Zhigang Chen  
-To appear in **WSDM 2023** (full paper)  
-1. A Joint Link-Retrieve Framework for Open Table-and-Text Question Answering  
-Jian Zou, **Jiaan Wang**, Ying He, Jianfeng Qu, Zhixu Li, Pengpeng Zhao, An Liu and Lei Zhao  
-To appear in **DASFAA 2023** (full paper)
+1. [Exploiting Transformation Invariance and Equivariance for Self-supervised Sound Localisation](https://arxiv.org/pdf/2206.12772.pdf)  \|  [[Code](https://github.com/jinxiang-liu/SSL-TIE)] \| [[Project](https://jinxiang-liu.github.io/SSL-TIE/)] \|  [[Demo](https://www.bilibili.com/video/BV1Dt4y1t7PM/?zw)]       
+Jinxiang Liu, **Chen Ju**, Weidi Xie and Ya Zhang         
+In Proc. of **ACM Multimedia 2022**   
+
+1. [Quadruple Constraint Learning for Partially-Supervised Temporal Sentence Grounding](https://arxiv.org/pdf/2212.09335.pdf)   \|  [[Project](https://ju-chen.github.io/efficient-prompt/)]    
+**Chen Ju**, Haicheng Wang, Jinxiang Liu, Chaofan Ma, Ya Zhang, Peisen Zhao, Jianlong Chang and Qi Tian          
+In Proc. of **arXiv preprint 2023** 
 
 
 ### 📒 Topic: Freeze Pre-trainings, Downstream Video Understanding with Limited Annotation & Supervision
