@@ -37,9 +37,10 @@ My primary research interests lie in Vision-Language-Audio Multi-modal Learning,
 Please feel free to drop me an email for any suggestions or potential collaborations.
 
 
+
 # 📝 Publications 
 ### 📒 Topic: Efficiently Adapt Multi-modal Foundation Models to Unify/Generalize Downstream Tasks
-1. [Prompting Visual-Language Models for Efficient Video Understanding](https://arxiv.org/pdf/2112.04478.pdf) \| [[Code & Data](https://github.com/ju-chen/Efficient-Prompt)]  \|  [[Project](https://ju-chen.github.io/efficient-prompt/)]  \| [[Report](https://mp.weixin.qq.com/s/F8RGa0IQyljfue3fAxvATw)]        
+1. [Prompting Visual-Language Models for Efficient Video Understanding](https://arxiv.org/pdf/2112.04478.pdf) \| [[Code & Data](https://github.com/ju-chen/Efficient-Prompt)]  \|  [[Project](https://ju-chen.github.io/efficient-prompt/)]  \| [[Report](https://mp.weixin.qq.com/s/F8RGa0IQyljfue3fAxvATw)]  \| [[Bibtex](./CITE/cite_prompt.txt)]                                 
 **Chen Ju**, Tengda Han, Kunhao Zheng, Ya Zhang and Weidi Xie  
 In Proc. of **ECCV 2022**  
 
