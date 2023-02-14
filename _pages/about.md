@@ -44,7 +44,7 @@ Please feel free to drop me an email for any suggestions or potential collaborat
 **Chen Ju**, Tengda Han, Kunhao Zheng, Ya Zhang and Weidi Xie  
 In Proc. of **ECCV 2022**  
 
-1. [Distilling Vision-Language Pre-training to Collaborate with Weakly-Supervised Temporal Action Localization](https://arxiv.org/pdf/2212.09335.pdf)  \|  [[Project](https://ju-chen.github.io/efficient-prompt/)]  \| [[Bibtex](./CITE/cite_distilling.txt)]                                 
+1. [Distilling Vision-Language Pre-training to Collaborate with Weakly-Supervised Video Understanding](https://arxiv.org/pdf/2212.09335.pdf)  \|  [[Project](https://ju-chen.github.io/efficient-prompt/)]  \| [[Bibtex](./CITE/cite_distilling.txt)]                                 
 **Chen Ju**, Kunhao Zheng, Jinxiang Liu, Peisen Zhao, Ya Zhang, Jianlong Chang, Yanfeng Wang and Qi Tian    
 In Proc. of **arXiv preprint 2023** 
 
