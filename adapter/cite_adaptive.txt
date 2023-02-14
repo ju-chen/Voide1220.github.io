@@ -1,0 +1,7 @@
+@article{ju2022adaptive,
+  title={Adaptive mutual supervision for weakly-supervised temporal action localization},
+  author={Ju, Chen and Zhao, Peisen and Chen, Siheng and Zhang, Ya and Zhang, Xiaoyun and Wang, Yanfeng and Tian, Qi},
+  journal={IEEE Transactions on Multimedia},
+  year={2022},
+  publisher={IEEE}
+}
