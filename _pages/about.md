@@ -34,7 +34,7 @@ As a young researcher, your interest and kind citation will definitely mean a lo
 # 📝 Publications 
 Please feel free to drop me an email for any suggestions or potential collaborations.
 ### Topic: Efficiently Adapt Multi-modal Foundation Models to Unify/Generalize Downstream Tasks
-1. [Prompting Visual-Language Models for Efficient Video Understanding](https://arxiv.org/pdf/2112.04478.pdf) \| [[Code](https://github.com/ju-chen/Efficient-Prompt)]  \| [[Data](https://github.com/ju-chen/Efficient-Prompt/tree/main/datasplits/)]  \|  [[Project](https://ju-chen.github.io/efficient-prompt/)]
+1. [Prompting Visual-Language Models for Efficient Video Understanding](https://arxiv.org/pdf/2112.04478.pdf) \| [[Code & Data](https://github.com/ju-chen/Efficient-Prompt)]  \|  [[Project](https://ju-chen.github.io/efficient-prompt/)]  \| [[Report](https://github.com/ju-chen/Efficient-Prompt/tree/main/datasplits/)]        
 **Chen Ju**, Tengda Han, Kunhao Zheng, Ya Zhang and Weidi Xie  
 In Proc. of **ECCV 2022**  
 
@@ -61,7 +61,7 @@ To appear in **DASFAA 2023** (full paper)
 1. [A Survey on Cross-Lingual Summarization](https://arxiv.org/abs/2203.12515) \| [[Report](https://mp.weixin.qq.com/s/OL6-Yp4NgnTsvXMCHOJMog)]    
 **Jiaan Wang**, Fandong Meng<sup>*</sup>, Duo Zheng, Yunlong Liang, Zhixu Li<sup>*</sup>, Jianfeng Qu and Jie Zhou   
 In Proc. of **TACL 2022**   
-1. [ClidSum: A Benchmark Dataset for Cross-Lingual Dialogue Summarization](https://arxiv.org/abs/2202.05599) \| [[Data&Code](https://github.com/krystalan/ClidSum)] \| [[Models](https://huggingface.co/Krystalan)] \| [[Report](https://mp.weixin.qq.com/s/M8BR3MySZBuu7ixdFi_SRQ)]  
+1. [ClidSum: A Benchmark Dataset for Cross-Lingual Dialogue Summarization](https://arxiv.org/abs/2202.05599) \| [[Data&Code](https://github.com/krystalan/ClidSum)] \| [[Models](https://huggingface.co/Krystalan)] \| [[Report](https://mp.weixin.qq.com/s/M8BR3MySZBuu7ixdFi_SRQ)]   
 **Jiaan Wang**, Fandong Meng<sup>*</sup>, Ziyao Lu, Duo Zheng, Zhixu Li, Jianfeng Qu and Jie Zhou   
 In Proc. of **EMNLP 2022** (full paper) 
 1. [Towards Unifying Reference Expression Generation and Comprehension](https://arxiv.org/abs/2210.13076) \| [[Code](https://github.com/zd11024/UniRef)] \| [[Report](https://mp.weixin.qq.com/s/jwiDN9N_sgs32Wjt2-a-kg)]    
