@@ -26,7 +26,7 @@ As a young researcher, your interest and kind citation will definitely mean a lo
 <!-- - [*2023*] ![new paper](/images/new.gif) One paper is accepted to DASFAA 2023, about table-and-text question answering. -->
 - [*2023*] ![new paper](/images/new.gif) Our new preprint, [Multi-modal Prompt Learning](https://arxiv.org/pdf/2212.09335.pdf) for vision-language foundation models is out!
 - [*2023*] ![new paper](/images/new.gif) Our new preprint, [Collaborative Distillation](https://arxiv.org/pdf/2212.09335.pdf) so that multiple pre-trainings complement each other is out!
-- [*2022*] One paper is accepted to ECCV 2022, about efficient adaptation for VLP.
+- [*2022*] One paper is accepted to ECCV 2022, about efficient adaptation for vision-language foundation models.
 
 
 
