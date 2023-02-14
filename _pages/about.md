@@ -105,7 +105,7 @@ Ya Zhang, **<u>Chen Ju</u>**, Yanfeng Wang.
 
 
 # 📖 Educations
-- *2018.09 - Now *, PhD, Shanghai Jiao Tong University, Shanghai, China
+- *2018.09 - Now*, PhD, Shanghai Jiao Tong University, Shanghai, China
 - *2014.09 - 2018.06*, Undergraduate, University Of Electronic Science And Technology Of China, Chengdu, China
 
 
