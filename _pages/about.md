@@ -26,7 +26,7 @@ As a young researcher, your interest and kind citation will definitely mean a lo
 <!-- - [*2023*] ![new paper](/images/new.gif) One paper is accepted to DASFAA 2023, about table-and-text question answering. -->
 - [*2023*] ![new paper](/images/new.gif) Our new preprint, [Multi-modal Prompt Learning](https://arxiv.org/pdf/2212.09335.pdf) for vision-language foundation models is out!
 - [*2023*] ![new paper](/images/new.gif) Our new preprint, [Collaborative Distillation](https://arxiv.org/pdf/2212.09335.pdf) so that multiple pre-trainings complement each other is out!
-- [*2022*] One paper is accepted to ECCV 2022, about efficient adaptation of VLP.
+- [*2022*] One paper is accepted to ECCV 2022, about efficient adaptation for VLP.
 
 
 
@@ -40,7 +40,7 @@ My primary research interests lie in Vision-Language-Audio Multi-modal Learning,
 # 📝 Publications 
 Please feel free to drop me an email for any suggestions or potential collaborations.
 ### 📒 Topic: Efficiently Adapt Multi-modal Foundation Models to Unify/Generalize Downstream Tasks
-1. [Prompting Visual-Language Models for Efficient Video Understanding](https://arxiv.org/pdf/2112.04478.pdf) \| [[Code & Data](https://github.com/ju-chen/Efficient-Prompt)]  \|  [[Project](https://ju-chen.github.io/efficient-prompt/)]  \| [[Report](https://github.com/ju-chen/Efficient-Prompt/tree/main/datasplits/)]        
+1. [Prompting Visual-Language Models for Efficient Video Understanding](https://arxiv.org/pdf/2112.04478.pdf) \| [[Code & Data](https://github.com/ju-chen/Efficient-Prompt)]  \|  [[Project](https://ju-chen.github.io/efficient-prompt/)]  \| [[Report](https://mp.weixin.qq.com/s/F8RGa0IQyljfue3fAxvATw)]        
 **Chen Ju**, Tengda Han, Kunhao Zheng, Ya Zhang and Weidi Xie  
 In Proc. of **ECCV 2022**  
 
@@ -59,23 +59,23 @@ Low-Shot Video Understanding](https://arxiv.org/pdf/2212.09335.pdf)   \|  [[Proj
 Jinxiang Liu, **Chen Ju**, Weidi Xie and Ya Zhang         
 In Proc. of **ACM Multimedia 2022**   
 
-1. [Quadruple Constraint Learning for Partially-Supervised Temporal Sentence Grounding](https://arxiv.org/pdf/2212.09335.pdf)   \|  [[Project](https://ju-chen.github.io/efficient-prompt/)]    
+1. [Quadruple Constraint Learning for Partially-Supervised Temporal Sentence Grounding](https://arxiv.org/pdf/2212.09335.pdf)  \| [[Bibtex](https://ju-chen.github.io/efficient-prompt/)]    
 **Chen Ju**, Haicheng Wang, Jinxiang Liu, Chaofan Ma, Ya Zhang, Peisen Zhao, Jianlong Chang and Qi Tian          
 **arXiv preprint 2023** 
 
 
 ### 📒 Topic: Freeze Pre-trainings, Downstream Video Understanding with Limited Annotation & Supervision
-1. [Divide and Conquer for Single-frame Temporal Action Localization](https://openaccess.thecvf.com/content/ICCV2021/papers/Ju_Divide_and_Conquer_for_Single-Frame_Temporal_Action_Localization_ICCV_2021_paper.pdf)   \|  [[Project](https://ju-chen.github.io/efficient-prompt/)]    
+1. [Divide and Conquer for Single-frame Temporal Action Localization](https://openaccess.thecvf.com/content/ICCV2021/papers/Ju_Divide_and_Conquer_for_Single-Frame_Temporal_Action_Localization_ICCV_2021_paper.pdf)   \|  [[Bibtex](https://ju-chen.github.io/efficient-prompt/)]    
 **Chen Ju**, Peisen Zhao, Siheng Chen, Ya Zhang, Yanfeng Wang and Qi Tian                
 In Proc. of **ICCV 2021** 
 
 1. [Bottom-Up Temporal Action Localization with
-Mutual Regularization](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530528.pdf)   \|  [[Code](https://github.com/PeisenZhao/Bottom-Up-TAL-with-MR)]    
+Mutual Regularization](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530528.pdf) \| [[Code](https://github.com/PeisenZhao/Bottom-Up-TAL-with-MR)]    
 Peisen Zhao, Lingxi Xie, **Chen Ju**, Ya Zhang, Yanfeng Wang and Qi Tian               
 In Proc. of **ECCV 2020** 
 
 1. [Adaptive Mutual Supervision for
-Weakly-Supervised Temporal Action Localization](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9920676)   \|  [[Project](https://ju-chen.github.io/efficient-prompt/)]    
+Weakly-Supervised Temporal Action Localization](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9920676)   \|  [[Bibtex](https://ju-chen.github.io/efficient-prompt/)]    
 **Chen Ju**, Peisen Zhao, Siheng Chen, Ya Zhang, Xiaoyun Zhang and Qi Tian               
 **IEEE Transactions on Multimedia** 
 
