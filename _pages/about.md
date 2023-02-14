@@ -49,7 +49,7 @@ In Proc. of **ECCV 2022**
 In Proc. of **arXiv preprint 2023** 
 
 1. [Multi-modal Prompt Learning to Bridge Optical Flow for
-Low-Shot Video Understanding](https://arxiv.org/pdf/2212.09335.pdf)   \|  [[Project](https://ju-chen.github.io/efficient-prompt/)]   \| [[Bibtex](./CITE/cite_map.txt)]                                                        
+Open-Vocabulary Video Understanding](https://arxiv.org/pdf/2212.09335.pdf)   \|  [[Project](https://ju-chen.github.io/efficient-prompt/)]   \| [[Bibtex](./CITE/cite_map.txt)]                                                        
 **Chen Ju**, Zeqian Li, Peisen Zhao, Ya Zhang, Qi Tian and Weidi Xie     
 **arXiv preprint 2023** 
 
