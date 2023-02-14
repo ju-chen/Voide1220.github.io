@@ -32,7 +32,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=b2jNn10AAAAJ&hl=zh-CN&oi=ao"
   email            : "ju_chen@sjtu.edu.cn"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -44,17 +44,17 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
-  linkedin         : #"%E4%BD%B3%E5%AE%89-%E7%8E%8B-1662341a4"
+  linkedin         : 
   dblp             : https://dblp1.uni-trier.de/pid/221/1300.html
-  orcid            : #"https://orcid.org/0000-0002-2587-7648"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : #"jiaanwang98"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
