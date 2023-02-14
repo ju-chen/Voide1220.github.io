@@ -75,7 +75,7 @@ Peisen Zhao, Lingxi Xie, **Chen Ju**, Ya Zhang, Yanfeng Wang and Qi Tian
 In Proc. of **ECCV 2020** 
 
 1. [Adaptive Mutual Supervision for
-Weakly-Supervised Temporal Action Localization](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9920676)  \|  [[Demo](https://www.bilibili.com/video/BV1Dt4y1t7PM/?zw)]  \|   [[Bibtex](./CITE/cite_adaptive.txt)]            
+Weakly-Supervised Temporal Action Localization](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9920676)  \|  [[Project & Demo](https://voide1220.github.io/adapter/)]  \|   [[Bibtex](./CITE/cite_adaptive.txt)]            
 **Chen Ju**, Peisen Zhao, Siheng Chen, Ya Zhang, Xiaoyun Zhang and Qi Tian               
 **IEEE Transactions on Multimedia** 
 
