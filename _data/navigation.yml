@@ -9,14 +9,11 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "Internships"
-    url: "/#-internships"
+  - title: "Researches"
+    url: "/#-Researches"
 
   - title: "Publications"
     url: "/#-publications"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
-
-#   - title: "Blog (Chinese)"
-#     url: "https://blog.wangjiaan.cn/"
