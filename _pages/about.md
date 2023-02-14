@@ -44,44 +44,44 @@ Please feel free to drop me an email for any suggestions or potential collaborat
 **Chen Ju**, Tengda Han, Kunhao Zheng, Ya Zhang and Weidi Xie  
 In Proc. of **ECCV 2022**  
 
-1. [Distilling Vision-Language Pre-training to Collaborate with Weakly-Supervised Temporal Action Localization](https://arxiv.org/pdf/2212.09335.pdf)  \|  [[Project](https://ju-chen.github.io/efficient-prompt/)]     
+1. [Distilling Vision-Language Pre-training to Collaborate with Weakly-Supervised Temporal Action Localization](https://arxiv.org/pdf/2212.09335.pdf)  \|  [[Project](https://ju-chen.github.io/efficient-prompt/)]  \| [[Bibtex](./CITE/cite_distilling.txt)]                                 
 **Chen Ju**, Kunhao Zheng, Jinxiang Liu, Peisen Zhao, Ya Zhang, Jianlong Chang, Yanfeng Wang and Qi Tian    
 In Proc. of **arXiv preprint 2023** 
 
 1. [Multi-modal Prompt Learning to Bridge Optical Flow for
-Low-Shot Video Understanding](https://arxiv.org/pdf/2212.09335.pdf)   \|  [[Project](https://ju-chen.github.io/efficient-prompt/)]    
+Low-Shot Video Understanding](https://arxiv.org/pdf/2212.09335.pdf)   \|  [[Project](https://ju-chen.github.io/efficient-prompt/)]   \| [[Bibtex](./CITE/cite_map.txt)]                                                        
 **Chen Ju**, Zeqian Li, Peisen Zhao, Ya Zhang, Qi Tian and Weidi Xie     
 **arXiv preprint 2023** 
 
 
 ### 📒 Topic: Vision-Language-Audio Pre-trainings with Strong Generalization but Low Costs
-1. [Exploiting Transformation Invariance and Equivariance for Self-supervised Sound Localisation](https://arxiv.org/pdf/2206.12772.pdf)  \|  [[Code](https://github.com/jinxiang-liu/SSL-TIE)] \| [[Project](https://jinxiang-liu.github.io/SSL-TIE/)] \|  [[Demo](https://www.bilibili.com/video/BV1Dt4y1t7PM/?zw)]       
+1. [Exploiting Transformation Invariance and Equivariance for Self-supervised Sound Localisation](https://arxiv.org/pdf/2206.12772.pdf)  \|  [[Code](https://github.com/jinxiang-liu/SSL-TIE)] \| [[Project](https://jinxiang-liu.github.io/SSL-TIE/)] \|  [[Demo](https://www.bilibili.com/video/BV1Dt4y1t7PM/?zw)]    \| [[Bibtex](./CITE/cite_audio.txt)]                                                           
 Jinxiang Liu, **Chen Ju**, Weidi Xie and Ya Zhang         
 In Proc. of **ACM Multimedia 2022**   
 
-1. [Quadruple Constraint Learning for Partially-Supervised Temporal Sentence Grounding](https://arxiv.org/pdf/2212.09335.pdf)  \| [[Bibtex](https://ju-chen.github.io/efficient-prompt/)]    
+1. [Quadruple Constraint Learning for Partially-Supervised Temporal Sentence Grounding](https://arxiv.org/pdf/2212.09335.pdf)  \| [[Bibtex](./CITE/cite_partial.txt)]            
 **Chen Ju**, Haicheng Wang, Jinxiang Liu, Chaofan Ma, Ya Zhang, Peisen Zhao, Jianlong Chang and Qi Tian          
 **arXiv preprint 2023** 
 
 
 ### 📒 Topic: Freeze Pre-trainings, Downstream Video Understanding with Limited Annotation & Supervision
-1. [Divide and Conquer for Single-frame Temporal Action Localization](https://openaccess.thecvf.com/content/ICCV2021/papers/Ju_Divide_and_Conquer_for_Single-Frame_Temporal_Action_Localization_ICCV_2021_paper.pdf)   \|  [[Bibtex](https://ju-chen.github.io/efficient-prompt/)]    
+1. [Divide and Conquer for Single-frame Temporal Action Localization](https://openaccess.thecvf.com/content/ICCV2021/papers/Ju_Divide_and_Conquer_for_Single-Frame_Temporal_Action_Localization_ICCV_2021_paper.pdf)   \|  [[Bibtex](./CITE/cite_divide.txt)]             
 **Chen Ju**, Peisen Zhao, Siheng Chen, Ya Zhang, Yanfeng Wang and Qi Tian                
 In Proc. of **ICCV 2021** 
 
 1. [Bottom-Up Temporal Action Localization with
-Mutual Regularization](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530528.pdf) \| [[Code](https://github.com/PeisenZhao/Bottom-Up-TAL-with-MR)]    
+Mutual Regularization](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530528.pdf) \| [[Code](https://github.com/PeisenZhao/Bottom-Up-TAL-with-MR)]   \|  [[Bibtex](./CITE/cite_bottom.txt)]               
 Peisen Zhao, Lingxi Xie, **Chen Ju**, Ya Zhang, Yanfeng Wang and Qi Tian               
 In Proc. of **ECCV 2020** 
 
 1. [Adaptive Mutual Supervision for
-Weakly-Supervised Temporal Action Localization](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9920676)   \|  [[Bibtex](https://ju-chen.github.io/efficient-prompt/)]    
+Weakly-Supervised Temporal Action Localization](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9920676)   \|  [[Bibtex](./CITE/cite_adaptive.txt)]            
 **Chen Ju**, Peisen Zhao, Siheng Chen, Ya Zhang, Xiaoyun Zhang and Qi Tian               
 **IEEE Transactions on Multimedia** 
 
 
 ### 📒 Topic: AIGC (Stable Diffusion for Video Generation and Music Composition)
-1. Adapting Diffusion Models Towards Unsupervised Salient Object Detection         
+1. Adapting Diffusion Models Towards Unsupervised Salient Object Detection      \|  [[Bibtex](./CITE/cite_diffusion.txt)]              
 Chaofan Ma, Yuhuan Yang, **Chen Ju**, Jinxiang Liu, Yanfeng Wang, Ya Zhang and Yu Wang       
 In Proc. of **arXiv preprint 2023**   
 
