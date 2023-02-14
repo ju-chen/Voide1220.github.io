@@ -10,7 +10,7 @@ locale                   : "zh-CN"
 title                    : "Chen Ju (鞠陈)"
 title_separator          : "-"
 name                     : "Chen Ju (鞠陈)"
-description              : "PhD candidate at Shanghai Jiao Tong University."
+description              : "PhD Candidate"
 repository               : "krystalan/krystalan.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,14 +24,14 @@ baidu_site_verification  :
 
 # Site Author
 author:
-  name             : "Jiaan Wang"
+  name             : "Chen Ju"
   avatar           : "images/me.jpeg"
-  bio              : # "Soochow University"
+  bio              : "Shanghai Jiao Tong University"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=5S8h7qAAAAAJ"
-  email            : "jawang1@stu.suda.edu.cn"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=b2jNn10AAAAJ&hl=zh-CN&oi=ao"
+  email            : "ju_chen@sjtu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -46,9 +46,9 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "%E4%BD%B3%E5%AE%89-%E7%8E%8B-1662341a4"
+  linkedin         : #"%E4%BD%B3%E5%AE%89-%E7%8E%8B-1662341a4"
   dblp             : 
-  orcid            : "https://orcid.org/0000-0002-2587-7648"
+  orcid            : #"https://orcid.org/0000-0002-2587-7648"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
