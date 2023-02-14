@@ -11,7 +11,7 @@ title                    : "Chen Ju (鞠陈)"
 title_separator          : "-"
 name                     : "Chen Ju (鞠陈)"
 description              : "PhD Candidate"
-repository               : "krystalan/krystalan.github.io"
+repository               : "Voide1220/Voide1220.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -40,21 +40,21 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "krystalan"
+  github           : "Voide1220"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : #"%E4%BD%B3%E5%AE%89-%E7%8E%8B-1662341a4"
-  dblp             : 
+  dblp             : https://dblp1.uni-trier.de/pid/221/1300.html
   orcid            : #"https://orcid.org/0000-0002-2587-7648"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "jiaanwang98"
+  twitter          : #"jiaanwang98"
   vine             :
   weibo            :
   xing             :
