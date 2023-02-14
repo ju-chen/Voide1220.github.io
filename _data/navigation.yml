@@ -1,7 +1,5 @@
 # main links links
 main:
-#   - title: "CV"
-#     url: "https://wangjiaan.cn/files/cv_jiaanwang.pdf"
 
   - title: "About Me"
     url: "/#about-me"
@@ -10,7 +8,7 @@ main:
     url: "/#-news"
 
   - title: "Researches"
-    url: "/#-Researches"
+    url: "/#-researches"
 
   - title: "Publications"
     url: "/#-publications"
