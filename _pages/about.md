@@ -12,7 +12,7 @@ redirect_from:
 
 Hello! I’m Chen Ju (鞠陈).
 
-I'm a PhD candidate at MediaBrain Group, Cooperative Medianet Innovation Center, Shanghai Jiao Tong University, supervised by <a href="https://sites.google.com/site/zhixuli">Prof. Ya Zhang</a>, also advised by <a href="https://galina0217.github.io/">Prof. Weidi Xie</a> and <a href="http://web.suda.edu.cn/jjf2/">Prof. Siheng Chen</a>.  
+I'm a PhD candidate at <a href="https://mediabrain.sjtu.edu.cn/">MediaBrain Group</a>, Cooperative Medianet Innovation Center, Shanghai Jiao Tong University, supervised by <a href="https://mediabrain.sjtu.edu.cn/yazhang/">Prof. Ya Zhang</a>, also advised by <a href="https://weidixie.github.io/">Prof. Weidi Xie</a> and <a href="https://siheng-chen.github.io/">Prof. Siheng Chen</a>.  
 
 Currently, I closely collaborate with researchers from Huawei Cloud: <a href="https://scholar.google.com/citations?user=61b6eYkAAAAJ">Prof. Qi Tian</a>, <a href="https://scholar.google.com.hk/citations?user=Ud6aBAcAAAAJ&hl=zh-CN&oi=ao">Dr. Xiaopeng Zhang</a>, <a href="https://scholar.google.com.hk/citations?user=RDwnNsQAAAAJ&hl=zh-CN&oi=ao">Dr. Jianlong Chang</a>, and <a href="https://scholar.google.com.hk/citations?user=hCr8Km8AAAAJ&hl=zh-CN&oi=ao">Dr. Peisen Zhao</a>.
 
@@ -70,13 +70,13 @@ In Proc. of **ECCV 2020**
 
 1. [Adaptive Mutual Supervision for
 Weakly-Supervised Temporal Action Localization](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9920676)   \|  [[Project](https://ju-chen.github.io/efficient-prompt/)]    
-**Chen Ju**, Peisen Zhao, Siheng Chen, Ya Zhang, Xiaoyun Zhang and Qi Tian             
+**Chen Ju**, Peisen Zhao, Siheng Chen, Ya Zhang, Xiaoyun Zhang and Qi Tian               
 **IEEE Transactions on Multimedia** 
 
 
 ### 📒 Topic: AIGC (Stable Diffusion for Video Generation and Music Composition)
 1. Adapting Diffusion Models Towards Unsupervised Salient Object Detection
-Chaofan Ma, Yuhuan Yang, **Chen Ju**, Jinxiang Liu, Yanfeng Wang, Ya Zhang and Yu Wang 
+Chaofan Ma, Yuhuan Yang, **Chen Ju**, Jinxiang Liu, Yanfeng Wang, Ya Zhang and Yu Wang       
 In Proc. of **arXiv preprint 2023**   
 
 
