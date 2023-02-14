@@ -93,7 +93,7 @@ In Proc. of **arXiv preprint 2023**
 
 
 # 📄 Patents
-- Ya Zhang, **<u>Chen Ju</u>**, Haicheng Wang, Jinxiang Liu, Chaofan Ma, Yanfeng Wang. [《局部监督长视频时序文本检索方法及系统》](https://cprs.patentstar.com.cn/Search/Detail?ANE=9HEE9IFE9GDC9FDB5AEA9IDC9HHF9CIG7FCA9AFF9EDE9IBD) CN202211581256.7
+- CN202211581256.7 [《局部监督长视频时序文本检索方法及系统》](https://cprs.patentstar.com.cn/Search/Detail?ANE=9HEE9IFE9GDC9FDB5AEA9IDC9HHF9CIG7FCA9AFF9EDE9IBD)  Ya Zhang, **<u>Chen Ju</u>**, Haicheng Wang, Jinxiang Liu, Chaofan Ma, Yanfeng Wang. 
 - Ya Zhang, **<u>Chen Ju</u>**, Kunhao Zheng, Jinxiang Liu, Weidi Xie, Yanfeng Wang. [《弱监督视频时序动作检测与分类方法及系统》](https://cprs.patentstar.com.cn/Search/Detail?ANE=9HEE9IFE9GDC9FDB5AEA9IDC9HHF9CIG7FCA9AFF9EDE9IBD) CN202211056034.3
 - Ya Zhang, **<u>Chen Ju</u>**, Peisen Zhao, Siheng Chen, Xiaoyun Zhang, Yanfeng Wang. [《一种单帧监督视频时序动作检测与分类的方法及系统》](https://cprs.patentstar.com.cn/Search/Detail?ANE=9HEE9IFE9GDC9FDB5AEA9IDC9HHF9CIG7FCA9AFF9EDE9IBD) CN202111190861.7
 - Ya Zhang, **<u>Chen Ju</u>**, Yanfeng Wang. [《一种弱监督视频时序动作检测与类别预测的方法及系统》](https://cprs.patentstar.com.cn/Search/Detail?ANE=9HEE9IFE9GDC9FDB5AEA9IDC9HHF9CIG7FCA9AFF9EDE9IBD) CN202010403823.4
