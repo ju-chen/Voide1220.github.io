@@ -14,7 +14,7 @@ Hello! I’m Chen Ju (鞠陈).
 
 I'm a PhD candidate at MediaBrain Group, Cooperative Medianet Innovation Center, Shanghai Jiao Tong University, supervised by <a href="https://sites.google.com/site/zhixuli">Prof. Ya Zhang</a>, also advised by <a href="https://galina0217.github.io/">Prof. Weidi Xie</a> and <a href="http://web.suda.edu.cn/jjf2/">Prof. Siheng Chen</a>.  
 
-Currently, I also collaborate with researchers from Huawei Cloud: <a href="https://scholar.google.com/citations?user=61b6eYkAAAAJ">Prof. Qi Tian</a>, <a href="https://scholar.google.com.hk/citations?user=Ud6aBAcAAAAJ&hl=zh-CN&oi=ao">Dr. Xiaopeng Zhang</a>, <a href="https://scholar.google.com.hk/citations?user=RDwnNsQAAAAJ&hl=zh-CN&oi=ao">Dr. Jianlong Chang</a>, and <a href="https://scholar.google.com.hk/citations?user=hCr8Km8AAAAJ&hl=zh-CN&oi=ao">Dr. Peisen Zhao</a> closely.
+Currently, I closely collaborate with researchers from Huawei Cloud: <a href="https://scholar.google.com/citations?user=61b6eYkAAAAJ">Prof. Qi Tian</a>, <a href="https://scholar.google.com.hk/citations?user=Ud6aBAcAAAAJ&hl=zh-CN&oi=ao">Dr. Xiaopeng Zhang</a>, <a href="https://scholar.google.com.hk/citations?user=RDwnNsQAAAAJ&hl=zh-CN&oi=ao">Dr. Jianlong Chang</a>, and <a href="https://scholar.google.com.hk/citations?user=hCr8Km8AAAAJ&hl=zh-CN&oi=ao">Dr. Peisen Zhao</a>.
 
 My primary research interests lie in Vision-Language-Audio Multi-modal Learning, Video Understanding/Generation, and Music Composition.
 
@@ -23,25 +23,16 @@ As a young researcher, your interest and kind citation will definitely mean a lo
 **Email:** ju_chen[at]sjtu[dot]edu[dot]cn / cju[dot]void[at]gmail[dot]com    
  
 
+
 # 🔥 News
-- [*2023.01*] ![new paper](/images/new.gif) One paper is accepted to DASFAA 2023, about table-and-text question answering.
-- [*2022.12*] ![new paper](/images/new.gif) Our new preprints, [SOV-MAS](https://arxiv.org/abs/2212.07672) for multilingual multimodal summarization and [Understanding Translationese in Cross-Lingual Summarization](https://arxiv.org/abs/2212.07220) are out!
-- [*2022.10*] One paper is accepted to WSDM 2023, about cross-lingual summarization.
-- [*2022.10*] Two papers are accepted to EMNLP 2022 (main conference), about cross-lingual summarization and reference expression.
-- [*2022.10*] China National Scholarship.
-- [*2022.08*] One paper is accepted to COLING 2022, about parameter efficiency.
-- [*2022.08*] One paper is accepted to TACL, about cross-lingual summarization.
-- [*2022.07*] One paper is accepted to ISWC 2022, about dialogue system.
-
-
-
-
-
+<!-- - [*2023*] ![new paper](/images/new.gif) One paper is accepted to DASFAA 2023, about table-and-text question answering. -->
+- [*2023*] ![new paper](/images/new.gif) Our new preprints, [Multi-modal Prompt Learning](https://arxiv.org/abs/2212.07672) for vision-language foundation models is out!
+- [*2023*] ![new paper](/images/new.gif) Our new preprints, [Collaborative Distillation](https://arxiv.org/pdf/2212.09335.pdf) so that multiple pre-trainings complement each other is out!
+- [*2022*] One paper is accepted to ECCV 2022, about efficient adaptation of VLP.
 
 
 # 📝 Publications 
-*: Corresponding Author(s)   
-Please feel free to drop me an email for any suggestions.
+Please feel free to drop me an email for any suggestions or potential collaborations.
 ### Preprint
 1. [Understanding Translationese in Cross-Lingual Summarization](https://arxiv.org/abs/2212.07220)  
 **Jiaan Wang**, Fandong Meng, Tingyi Zhang, Yunlong Liang, Jiarong Xu, Zhixu Li and Jie Zhou  
@@ -55,6 +46,7 @@ Jiarong Xu, Zenan Zhou, **Jiaan Wang** and Tian Lu
 1. [GOAL: Towards Benchmarking Few-Shot Sports Game Summarization](https://arxiv.org/abs/2207.08635) \| [[Data&Code](https://github.com/krystalan/goal)]    
 **Jiaan Wang**<sup>*</sup>, Tingyi Zhang and Haoxiang Shi      
 **arXiv preprint 2022**   
+
 
 ### 2023
 1. [Long-Document Cross-Lingual Summarization](https://arxiv.org/abs/2212.00586) \| [[Data](https://github.com/LearnItBoy/Perseus)] \| [[Report](https://mp.weixin.qq.com/s/klalyNLgNRx6-cvxtTJ3OA)]    
@@ -107,8 +99,10 @@ Duo Zheng, Zipeng Xu, Fandong Meng, Xiaojie Wang<sup>*</sup>, **Jiaan Wang** and
 In Proc. of **EMNLP 2021 Findings** (full paper)   
 
 
+
 # 🗞️ Academic Services
 - PC Member & Reviewer: ICCV 2023, CVPR 2023, AAAI 2023, ECCV 2022
+
 
 
 # 📄 Patents
@@ -118,9 +112,11 @@ In Proc. of **EMNLP 2021 Findings** (full paper)
 - Ya Zhang, **<u>Chen Ju</u>**, Yanfeng Wang. [《一种弱监督视频时序动作检测与类别预测的方法及系统》](https://cprs.patentstar.com.cn/Search/Detail?ANE=9HEE9IFE9GDC9FDB5AEA9IDC9HHF9CIG7FCA9AFF9EDE9IBD) CN202010403823.4
 
 
+
 # 📖 Educations
 - *2018.09 - Now *, PhD, Shanghai Jiao Tong University, Shanghai, China
 - *2014.09 - 2018.06*, Undergraduate, University Of Electronic Science And Technology Of China, Chengdu, China
+
 
 
 # 🎖 Honors and Awards
