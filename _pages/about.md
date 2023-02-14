@@ -55,7 +55,7 @@ Open-Vocabulary Video Understanding](https://arxiv.org/pdf/2212.09335.pdf)   \| 
 
 
 ### 📒 Topic: Vision-Language-Audio Pre-trainings with Strong Generalization but Low Costs
-1. [Exploiting Transformation Invariance and Equivariance for Self-supervised Sound Localisation](https://arxiv.org/pdf/2206.12772.pdf)  \|  [[Code](https://github.com/jinxiang-liu/SSL-TIE)] \| [[Project](https://jinxiang-liu.github.io/SSL-TIE/)] \|  [[Demo](https://www.bilibili.com/video/BV1Dt4y1t7PM/?zw)]    \| [[Bibtex](./CITE/cite_audio.txt)]                                                           
+1. [Exploiting Transformation Invariance and Equivariance for Self-supervised Sound Localisation](https://arxiv.org/pdf/2206.12772.pdf)  \|  [[Code](https://github.com/jinxiang-liu/SSL-TIE)] \| [[Project & Demo](https://jinxiang-liu.github.io/SSL-TIE/)]  \| [[Bibtex](./CITE/cite_audio.txt)]                                                           
 Jinxiang Liu, **Chen Ju**, Weidi Xie and Ya Zhang         
 In Proc. of **ACM Multimedia 2022**   
 
