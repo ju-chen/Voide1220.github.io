@@ -35,26 +35,7 @@ As a young researcher, your interest and kind citation will definitely mean a lo
 
 
 
-# 💻 Internships
-**Anti-Entropy (逆熵) AI Group, miHoYo Inc (Shanghai)**. *As NLP R&D Intern. 2022.06 - Present (full time)*
-- Mentors: [Dr. Jun Xing](https://junxnui.github.io/) and [Dr. Yan Wang](https://libertywing.github.io/yanwang.github.io/).
-- Research on digital human, i.e., Lumi(鹿鸣) \| [[Youtube](https://www.youtube.com/c/LumiN0vaDesktop)] \| [[bilibili](https://space.bilibili.com/488836173/)].
 
-**Pattern Recognition Center, WeChat AI, Tencent Inc (Beijing)**. *As NLP Research Intern. 2021.09 - 2022.06 (full time), 2022.06 - Present (by courtesy)*
-- Advised by [Dr. Fandong Meng](http://fandongmeng.github.io/).
-- Research on dialogue summarization, cross-lingual summarization and machine translation.
-
-**KW-DEMI Lab, Fudan University (Shanghai)**. *As Student Researcher. 2021.09 - Present (by courtesy)*
-- Advised by [Prof. Zhixu Li](https://sites.google.com/site/zhixuli).
-- Research on knowledge graph and sports game summarization.
-
-**Fuxi (伏羲) AI Lab, NetEase Game (Hangzhou)**. *As NLP Engineering Intern. 2021.06 - 2021.09 (full time)*
-- Mentor: Cong Zhang.
-- Research on dialogue systems and NLP4Game.
-
-**iFLYTEK AI Research (Suzhou)**. *As NLP Research Intern. 2019.10 - 2020.08 (full time), 2021.03 - 2021.06 (full time)*
-- Advised by [Prof. Zhixu Li](https://sites.google.com/site/zhixuli).
-- Research on machine reading comprehension and text summarization.
 
 
 
@@ -127,25 +108,14 @@ In Proc. of **EMNLP 2021 Findings** (full paper)
 
 
 # 🗞️ Academic Services
-- PC Member & Reviewer: ACL Rolling Review (2022-2023), ACL 2023, KDD 2023, EMNLP 2022, COLING 2022, ICANN 2021
-
-<!-- # 🏗️ Student Collaborators
-- PhD: [Yunlong Liang](https://scholar.google.com/citations?user=P5iDDGIAAAAJ&hl=en) (BJTU), [Zipeng Xu](https://zipengxuc.github.io/) (UniTrento), [Haoxiang Shi](https://www.linkedin.com/in/haoxiang-%E3%82%B7-a07805150/) (Waseda), [Binbin Gu](https://tuzijun111.github.io/) (UCI), [Qiang Yang](https://scholar.google.com/citations?user=hDCsypAAAAAJ&hl=en) (KAUST)
-- MS: [Duo Zheng](https://zd11024.github.io/) (BUPT), [Beiqi Zou](https://github.com/BQZic) (Princeton) -->
+- PC Member & Reviewer: ICCV 2023, CVPR 2023, AAAI 2023, ECCV 2022
 
 
 # 📄 Patents
-- Linjian Zhang, **<u>Jiaan Wang</u>**, Beiqi Zou, Cong Zhang, Shuopeng Wang, Youwei Song, Changjie Fan, Zhipeng Hu. [《剧情文本生成的方法、装置、终端和存储介质》](https://cprs.patentstar.com.cn/Search/Detail?ANE=9HEE9IFE9GDC9FDB5AEA9IDC9HHF9CIG7FCA9AFF9EDE9IBD) CN114416921A
-- Linjian Zhang, **<u>Jiaan Wang</u>**, Beiqi Zou, Cong Zhang, Shuopeng Wang, Youwei Song, Changjie Fan, Zhipeng Hu. [《意图识别的方法、装置及电子设备》](https://cprs.patentstar.com.cn/Search/Detail?ANE=9FFD9HIG9HCC7CDA9DGB2BBA8HAA6DDA8CEABEGA7FBA9ECG) CN114429142A
-- Linjian Zhang, Beiqi Zou, **<u>Jiaan Wang</u>**, Zerui Cai, Cong Zhang, Shuopeng Wang, Youwei Song, Changjie Fan, Zhipeng Hu. [《人机交互方法、装置、电子设备及存储介质》](https://cprs.patentstar.com.cn/Search/Detail?ANE=9DIE2ACA7DCA3BAA9HCB4AEA9HDC9HAA6CCA9IFF9FAC9FCG) CN114461775A
-- **<u>Jiaan Wang</u>**, Zhixu Li, Zhigang Chen, Ying He, Xin Zheng. [《一种体育文本摘要提取方法、装置、存储介质及设备》](https://cprs.patentstar.com.cn/Search/Detail?ANE=6CCA9GGD6EAA9IIH8GBA1ABACDIA9DIG6CAA7ECAEEIA9BGA) CN111708878B    
-- Ying He, Zhixu Li, Zhigang Chen, Zhaoyin Zhang, **<u>Jiaan Wang</u>**. [《文本摘要方法、装置、电子设备和存储介质》](https://cprs.patentstar.com.cn/Search/Detail?ANE=9GHG8CGA9EDA3BCA9BIB7GBA9AGC9EGD9CHA9HFH9HCF4ADA) CN111428025B
-- Zhixu Li, Xin Zheng, Hongping Zhi, **<u>Jiaan Wang</u>**. [《文本提取方法、文本提取系统、电子设备和存储装置》](https://cprs.patentstar.com.cn/Search/Detail?ANE=5BCA9IBA8AGA9CIC9FHE9IDD9CHA8EAA9FEC9IEF9DCF9EGD) CN113505218B
- 
-<!-- 
-# 📒 Projects
-- [Summarization-Papers](https://github.com/xcfcode/Summarization-Papers) (Organized by [Xiachong Feng](http://xcfeng.net/)) [![](https://img.shields.io/github/stars/xcfcode/Summarization-Papers?style=social&label=Stars)](https://github.com/xcfcode/Summarization-Papers)
-- [Multi-Hop Reading Comprehension Paper List](https://github.com/krystalan/Multi-hopRC) [![](https://img.shields.io/github/stars/krystalan/Multi-hopRC?style=social&label=Stars)](https://github.com/krystalan/Multi-hopRC) -->
+- Ya Zhang, **<u>Chen Ju</u>**, Haicheng Wang, Jinxiang Liu, Chaofan Ma, Yanfeng Wang. [《局部监督长视频时序文本检索方法及系统》](https://cprs.patentstar.com.cn/Search/Detail?ANE=9HEE9IFE9GDC9FDB5AEA9IDC9HHF9CIG7FCA9AFF9EDE9IBD) CN202211581256.7
+- Ya Zhang, **<u>Chen Ju</u>**, Kunhao Zheng, Jinxiang Liu, Weidi Xie, Yanfeng Wang. [《弱监督视频时序动作检测与分类方法及系统》](https://cprs.patentstar.com.cn/Search/Detail?ANE=9HEE9IFE9GDC9FDB5AEA9IDC9HHF9CIG7FCA9AFF9EDE9IBD) CN202211056034.3
+- Ya Zhang, **<u>Chen Ju</u>**, Peisen Zhao, Siheng Chen, Xiaoyun Zhang, Yanfeng Wang. [《一种单帧监督视频时序动作检测与分类的方法及系统》](https://cprs.patentstar.com.cn/Search/Detail?ANE=9HEE9IFE9GDC9FDB5AEA9IDC9HHF9CIG7FCA9AFF9EDE9IBD) CN202111190861.7
+- Ya Zhang, **<u>Chen Ju</u>**, Yanfeng Wang. [《一种弱监督视频时序动作检测与类别预测的方法及系统》](https://cprs.patentstar.com.cn/Search/Detail?ANE=9HEE9IFE9GDC9FDB5AEA9IDC9HHF9CIG7FCA9AFF9EDE9IBD) CN202010403823.4
 
 
 # 📖 Educations
@@ -157,7 +127,6 @@ In Proc. of **EMNLP 2021 Findings** (full paper)
 - [*2020 & 2022*] CMIC Outstanding Scholarship at SJTU
 - [*2018*] Outstanding Graduates of Sichuan Province
 - [*2016 & 2017*] Undergraduate National Scholarship at UESTC
-
 
 
 
