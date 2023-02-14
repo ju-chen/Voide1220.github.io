@@ -12,14 +12,16 @@ redirect_from:
 
 Hello! I’m Chen Ju (鞠陈).
 
-I am a PhD candidate at MediaBrain group, Cooperative Medianet Innovation Center, Shanghai Jiao Tong University, supervised by <a href="https://sites.google.com/site/zhixuli">Prof. Ya Zhang</a>, also advised by <a href="https://galina0217.github.io/">Prof. Weidi Xie</a> and <a href="http://web.suda.edu.cn/jjf2/">Prof. Siheng Chen</a>.  
+I'm a PhD candidate at MediaBrain Group, Cooperative Medianet Innovation Center, Shanghai Jiao Tong University, supervised by <a href="https://sites.google.com/site/zhixuli">Prof. Ya Zhang</a>, also advised by <a href="https://galina0217.github.io/">Prof. Weidi Xie</a> and <a href="http://web.suda.edu.cn/jjf2/">Prof. Siheng Chen</a>.  
 
+Currently, I also collaborate with researchers from Huawei Cloud: <a href="https://scholar.google.com/citations?user=61b6eYkAAAAJ">Prof. Qi Tian</a>, <a href="https://scholar.google.com.hk/citations?user=Ud6aBAcAAAAJ&hl=zh-CN&oi=ao">Dr. Xiaopeng Zhang</a>, <a href="https://scholar.google.com.hk/citations?user=RDwnNsQAAAAJ&hl=zh-CN&oi=ao">Dr. Jianlong Chang</a>, and <a href="https://scholar.google.com.hk/citations?user=hCr8Km8AAAAJ&hl=zh-CN&oi=ao">Dr. Peisen Zhao</a> closely.
 
-My primary research interests lie in Natural Language Processing, Data Mining and Knowledge Graphs. I am particularly interested in various Natural Language Generation tasks (such as abstractive summarization, dialogue generation and story generation). As a young researcher, your interest and kind citation will definitely mean a lot for me and my collaborators.  
+My primary research interests lie in Vision-Language-Audio Multi-modal Learning, Video Understanding/Generation, and Music Composition.
 
-**Email:** jawang1[at]stu.suda.edu.cn / jawang.nlp[at]gmail.com    
-**Personal:** [[Google Scholar](https://scholar.google.com/citations?user=5S8h7qAAAAAJ&hl=en)] [[Semantic Scholar](https://www.semanticscholar.org/author/2118328782)] 
+As a young researcher, your interest and kind citation will definitely mean a lot for me and my collaborators.
 
+**Email:** ju_chen[at]sjtu[dot]edu[dot]cn / cju[dot]void[at]gmail[dot]com    
+ 
 
 # 🔥 News
 - [*2023.01*] ![new paper](/images/new.gif) One paper is accepted to DASFAA 2023, about table-and-text question answering.
@@ -31,9 +33,7 @@ My primary research interests lie in Natural Language Processing, Data Mining an
 - [*2022.08*] One paper is accepted to TACL, about cross-lingual summarization.
 - [*2022.07*] One paper is accepted to ISWC 2022, about dialogue system.
 
-# 📖 Educations
-- *2020.09 - 2023.06 (Expected)*, Master, Soochow Univeristy, Suzhou, China
-- *2016.09 - 2020.06*, Undergraduate, Soochow Univeristy, Suzhou, China
+
 
 # 💻 Internships
 **Anti-Entropy (逆熵) AI Group, miHoYo Inc (Shanghai)**. *As NLP R&D Intern. 2022.06 - Present (full time)*
@@ -148,15 +148,15 @@ In Proc. of **EMNLP 2021 Findings** (full paper)
 - [Multi-Hop Reading Comprehension Paper List](https://github.com/krystalan/Multi-hopRC) [![](https://img.shields.io/github/stars/krystalan/Multi-hopRC?style=social&label=Stars)](https://github.com/krystalan/Multi-hopRC) -->
 
 
+# 📖 Educations
+- *2018.09 - Now *, PhD, Shanghai Jiao Tong University, Shanghai, China
+- *2014.09 - 2018.06*, Undergraduate, University Of Electronic Science And Technology Of China, Chengdu, China
+
+
 # 🎖 Honors and Awards
-- [*2022.12*] Suzhou Industrial Park Scholarship (Rank: 1<sup>st</sup>/400+)
-- [*2022.10*] China National Scholarship (Rank: 5<sup>th</sup>/400+)
-- [*2021.12*] CCKS Best Paper Nominee
-- [*2021.10*] China National Scholarship (Rank: 1<sup>st</sup>/190+)
-- [*2020.10*] Grand Prize Scholarship at Soochow Univ. (Rank: 1<sup>st</sup>/190+)
-- [*2019.09*] Postgraduate Recommendation Qualification at Soochow Univ. (Rank: 8<sup>th</sup>/200+)
-- [*2015*] Provincial First Prize at Chinese Mathematics Olympiad (Rank: 42<sup>nd</sup> in Shaanxi province) 
-- [*2014*] Provincial First Prize at Chinese Mathematics Olympiad (Rank: 16<sup>th</sup> in Shaanxi province)
+- [*2020 & 2022*] CMIC Outstanding Scholarship at SJTU
+- [*2018*] Outstanding Graduates of Sichuan Province
+- [*2016 & 2017*] Undergraduate National Scholarship at UESTC
 
 
 
