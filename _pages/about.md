@@ -16,8 +16,6 @@ I'm a PhD candidate at <a href="https://mediabrain.sjtu.edu.cn/">MediaBrain Grou
 
 Currently, I closely collaborate with researchers from Huawei Cloud: <a href="https://scholar.google.com/citations?user=61b6eYkAAAAJ">Prof. Qi Tian</a>, <a href="https://scholar.google.com.hk/citations?user=Ud6aBAcAAAAJ&hl=zh-CN&oi=ao">Dr. Xiaopeng Zhang</a>, <a href="https://scholar.google.com.hk/citations?user=RDwnNsQAAAAJ&hl=zh-CN&oi=ao">Dr. Jianlong Chang</a>, and <a href="https://scholar.google.com.hk/citations?user=hCr8Km8AAAAJ&hl=zh-CN&oi=ao">Dr. Peisen Zhao</a>.
 
-My primary research interests lie in Vision-Language-Audio Multi-modal Learning, Video Understanding/Generation, and Music Composition.
-
 As a young researcher, your interest and kind citation will definitely mean a lot for me and my collaborators.
 
 **Email:** ju_chen[at]sjtu[dot]edu[dot]cn / cju[dot]void[at]gmail[dot]com    
@@ -29,6 +27,14 @@ As a young researcher, your interest and kind citation will definitely mean a lo
 - [*2023*] ![new paper](/images/new.gif) Our new preprint, [Multi-modal Prompt Learning](https://arxiv.org/pdf/2212.09335.pdf) for vision-language foundation models is out!
 - [*2023*] ![new paper](/images/new.gif) Our new preprint, [Collaborative Distillation](https://arxiv.org/pdf/2212.09335.pdf) so that multiple pre-trainings complement each other is out!
 - [*2022*] One paper is accepted to ECCV 2022, about efficient adaptation of VLP.
+
+
+
+# 💻 Researches
+
+My primary research interests lie in Vision-Language-Audio Multi-modal Learning, Video Understanding/Generation, and Music Composition.
+
+
 
 
 # 📝 Publications 
