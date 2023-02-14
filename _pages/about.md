@@ -75,7 +75,7 @@ Weakly-Supervised Temporal Action Localization](https://ieeexplore.ieee.org/stam
 
 
 ### 📒 Topic: AIGC (Stable Diffusion for Video Generation and Music Composition)
-1. Adapting Diffusion Models Towards Unsupervised Salient Object Detection
+1. Adapting Diffusion Models Towards Unsupervised Salient Object Detection         
 Chaofan Ma, Yuhuan Yang, **Chen Ju**, Jinxiang Liu, Yanfeng Wang, Ya Zhang and Yu Wang       
 In Proc. of **arXiv preprint 2023**   
 
