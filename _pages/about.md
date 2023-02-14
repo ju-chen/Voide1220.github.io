@@ -33,10 +33,10 @@ As a young researcher, your interest and kind citation will definitely mean a lo
 
 # 📝 Publications 
 Please feel free to drop me an email for any suggestions or potential collaborations.
-### Preprint
-1. [Understanding Translationese in Cross-Lingual Summarization](https://arxiv.org/abs/2212.07220)  
+### Topic: Efficiently Adapt Multi-modal Foundation Models to Unify/Generalize Downstream Tasks
+1. [Prompting Visual-Language Models for Efficient Video Understanding](https://arxiv.org/pdf/2112.04478.pdf)  
 **Jiaan Wang**, Fandong Meng, Tingyi Zhang, Yunlong Liang, Jiarong Xu, Zhixu Li and Jie Zhou  
-**arXiv preprint 2022**  
+In Proc. of **ECCV 2022**  
 1. [Summary-Oriented Vision Modeling for Multimodal Abstractive Summarization](https://arxiv.org/abs/2212.07672)  
 Yunlong Liang, Fandong Meng, Jinan Xu, **Jiaan Wang**, Yufeng Chen and Jie Zhou   
 **arXiv preprint 2022** 
