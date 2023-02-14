@@ -39,12 +39,12 @@ Please feel free to drop me an email for any suggestions or potential collaborat
 In Proc. of **ECCV 2022**  
 
 1. [Distilling Vision-Language Pre-training to Collaborate with Weakly-Supervised Temporal Action Localization](https://arxiv.org/pdf/2212.09335.pdf)  \|  [[Project](https://ju-chen.github.io/efficient-prompt/)]     
-**Chen Ju**, Kunhao Zheng, Jinxiang Liu, Peisen Zhao, Ya Zhang, Jianlong Chang, Yanfeng Wang and Qi Tian 
+**Chen Ju**, Kunhao Zheng, Jinxiang Liu, Peisen Zhao, Ya Zhang, Jianlong Chang, Yanfeng Wang and Qi Tian    
 In Proc. of **arXiv preprint 2023** 
 
 1. [Multi-modal Prompt Learning to Bridge Optical Flow for
 Low-Shot Video Understanding](https://arxiv.org/pdf/2212.09335.pdf)   \|  [[Project](https://ju-chen.github.io/efficient-prompt/)]    
-**Chen Ju**, Zeqian Li, Peisen Zhao, Ya Zhang, Qi Tian and Weidi Xie
+**Chen Ju**, Zeqian Li, Peisen Zhao, Ya Zhang, Qi Tian and Weidi Xie     
 In Proc. of **arXiv preprint 2023** 
 
 
