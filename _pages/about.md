@@ -65,7 +65,7 @@ In Proc. of **ACM Multimedia 2022**
 
 
 ### 📒 Topic: Freeze Pre-trainings, Downstream Video Understanding with Limited Annotation & Supervision
-1. [Divide and Conquer for Single-frame Temporal Action Localization](https://openaccess.thecvf.com/content/ICCV2021/papers/Ju_Divide_and_Conquer_for_Single-Frame_Temporal_Action_Localization_ICCV_2021_paper.pdf)   \|  [[Bibtex](./CITE/cite_divide.txt)]             
+1. [Divide and Conquer for Single-frame Temporal Action Localization](https://openaccess.thecvf.com/content/ICCV2021/papers/Ju_Divide_and_Conquer_for_Single-Frame_Temporal_Action_Localization_ICCV_2021_paper.pdf)  \|  [[Demo](https://www.bilibili.com/video/BV1Dt4y1t7PM/?zw)]   \|  [[Bibtex](./CITE/cite_divide.txt)]             
 **Chen Ju**, Peisen Zhao, Siheng Chen, Ya Zhang, Yanfeng Wang and Qi Tian                
 In Proc. of **ICCV 2021** 
 
@@ -75,7 +75,7 @@ Peisen Zhao, Lingxi Xie, **Chen Ju**, Ya Zhang, Yanfeng Wang and Qi Tian
 In Proc. of **ECCV 2020** 
 
 1. [Adaptive Mutual Supervision for
-Weakly-Supervised Temporal Action Localization](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9920676)   \|  [[Bibtex](./CITE/cite_adaptive.txt)]            
+Weakly-Supervised Temporal Action Localization](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9920676)  \|  [[Demo](https://www.bilibili.com/video/BV1Dt4y1t7PM/?zw)]  \|   [[Bibtex](./CITE/cite_adaptive.txt)]            
 **Chen Ju**, Peisen Zhao, Siheng Chen, Ya Zhang, Xiaoyun Zhang and Qi Tian               
 **IEEE Transactions on Multimedia** 
 
