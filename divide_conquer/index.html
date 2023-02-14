@@ -164,7 +164,7 @@
   }
 </style>
 
-	<title>Prompting Visual-Language Models for Efficient Video Understanding</title>
+	<title>Divide and Conquer for Single-frame Temporal Action Localization</title>
 </head>
 
 <body>
@@ -262,6 +262,20 @@
               </td>
             </tr></tbody>
       </table>
+
+	
+
+      <br><hr>
+        <table align=center width=850px>
+	<center><h1>Abstract</h1></center>
+	<tr>
+		<td>
+			Single-frame temporal action localization (STAL) aims to localize actions in untrimmed videos with only one timestamp annotation for each action instance. Existing methods adopt the one-stage framework but couple the counting goal and the localization goal. This paper proposes a novel two-stage framework for the STAL task with the spirit of divide and conquer. The instance counting stage leverages the location supervision to determine the number of action instances and divide a whole video into multiple video clips, so that each video clip contains only one complete action instance; and the location estimation stage leverages the category supervision to localize the action instance in each video clip. To efficiently represent the action instance in each video clip, we introduce the proposal-based representation, and design a novel differentiable mask generator to enable the end-to-end training supervised by category labels. On THUMOS14, GTEA, and BEOID datasets, our method outperforms state-of-the-art methods by 3.5%, 2.7%, 4.8% mAP on average. And extensive experiments verify the effectiveness of our method.
+		</td>
+	</tr>
+	</table>
+	<br><hr>
+	
 	
       <br><hr>
       <br>
@@ -278,16 +292,7 @@
       </center>
 	
 		
-      <br><hr>
-	<table align=center width=850px>
-	<center><h1>Abstract</h1></center>
-	<tr>
-		<td>
-			Image-based visual-language (I-VL) pre-training has shown great success for learning joint visual-textual representations from large-scale web data, revealing remarkable ability for zero-shot generalisation. This paper presents a simple but strong baseline to efficiently adapt the pre-trained I-VL model, and exploit its powerful ability for resource-hungry video understanding tasks, with minimal training. Specifically, we propose to optimise a few random vectors, termed as continuous prompt vectors, that convert video-related tasks into the same format as the pre-training objectives. In addition, to bridge the gap between static images and videos, temporal information is encoded with lightweight Transformers stacking on top of frame-wise visual features. Experimentally, we conduct extensive ablation studies to analyse the critical components. On 10 public benchmarks of action recognition, action localisation, and text-video retrieval, across closed-set, few-shot, and zero-shot scenarios, we achieve competitive or state-of-the-art performance to existing methods, despite optimising significantly fewer parameters.
-		</td>
-	</tr>
-	</table>
-	<br><hr>
+
 	
 	
        <center><h1>Results</h1></center>
@@ -306,20 +311,12 @@
 	<p><b> Text-Video Retrieval Results </b> </p>
        <p><img class="center"  src="./images/retrieval.PNG" width="800px"></p>
 	
-	<br><hr>
-	<center><h1>Dataset Splits</h1></center>
-	<p>We initiate several dataset splits for training and testing, under different scenarios, namely, few-shot action recognition, zero-shot action recognition, zero-shot temporal action localisation.</p>
-	<p>For details on the dataset splits, please check <a href="https://github.com/ju-chen/Efficient-Prompt/tree/main/datasplits/">here</a>.
-	</p>
-	
-	
-	
+
       <br>
       <hr>
       <center> <h1> Acknowledgements </h1> </center>
 	<p>
-		This research is supported by the National Key Research and Development Program of China (No. 2020YFB1406801), 111 plan (No. BP0719010), STCSM (No. 18DZ2270700), State Key Laboratory of UHD Video and Audio Production and Presentation.
-		Tengda Han is supported by a Google-DeepMind Graduate Scholarship. Weidi Xie is supported by the UK EPSRC Programme Grant Visual AI (EP/T028572/1). He would like to acknowledge the generous support of Yimeng Long and Yike Xie in enabling his contribution.
+		This work is supported by the National Key Research and Development Program of China (No. 2019YFB1804304), National Natural Science Foundation of China (No. 61771306), SHEITC (No. 2018-RGZN-02046), 111 plan (No. BP0719010), and STCSM (No. 18DZ2270700), and State Key Laboratory of UHD Video and Audio Production and Presentation.
 	</p>
   
       <br>
