@@ -34,11 +34,10 @@ As a young researcher, your interest and kind citation will definitely mean a lo
 
 My primary research interests lie in Vision-Language-Audio Multi-modal Learning, Video Understanding/Generation, and Music Composition.
 
-
+Please feel free to drop me an email for any suggestions or potential collaborations.
 
 
 # 📝 Publications 
-Please feel free to drop me an email for any suggestions or potential collaborations.
 ### 📒 Topic: Efficiently Adapt Multi-modal Foundation Models to Unify/Generalize Downstream Tasks
 1. [Prompting Visual-Language Models for Efficient Video Understanding](https://arxiv.org/pdf/2112.04478.pdf) \| [[Code & Data](https://github.com/ju-chen/Efficient-Prompt)]  \|  [[Project](https://ju-chen.github.io/efficient-prompt/)]  \| [[Report](https://mp.weixin.qq.com/s/F8RGa0IQyljfue3fAxvATw)]        
 **Chen Ju**, Tengda Han, Kunhao Zheng, Ya Zhang and Weidi Xie  
