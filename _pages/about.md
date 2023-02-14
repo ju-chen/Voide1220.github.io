@@ -33,22 +33,22 @@ As a young researcher, your interest and kind citation will definitely mean a lo
 
 # 📝 Publications 
 Please feel free to drop me an email for any suggestions or potential collaborations.
-### Topic: Efficiently Adapt Multi-modal Foundation Models to Unify/Generalize Downstream Tasks
+### 📒 Topic: Efficiently Adapt Multi-modal Foundation Models to Unify/Generalize Downstream Tasks
 1. [Prompting Visual-Language Models for Efficient Video Understanding](https://arxiv.org/pdf/2112.04478.pdf) \| [[Code & Data](https://github.com/ju-chen/Efficient-Prompt)]  \|  [[Project](https://ju-chen.github.io/efficient-prompt/)]  \| [[Report](https://github.com/ju-chen/Efficient-Prompt/tree/main/datasplits/)]        
 **Chen Ju**, Tengda Han, Kunhao Zheng, Ya Zhang and Weidi Xie  
 In Proc. of **ECCV 2022**  
 
-1. [Distilling Vision-Language Pre-training to Collaborate with Weakly-Supervised Temporal Action Localization](https://arxiv.org/pdf/2212.09335.pdf)  
+1. [Distilling Vision-Language Pre-training to Collaborate with Weakly-Supervised Temporal Action Localization](https://arxiv.org/pdf/2212.09335.pdf)  \|  [[Project](https://ju-chen.github.io/efficient-prompt/)]     
 **Chen Ju**, Kunhao Zheng, Jinxiang Liu, Peisen Zhao, Ya Zhang, Jianlong Chang, Yanfeng Wang and Qi Tian 
 In Proc. of **arXiv preprint 2023** 
 
 1. [Multi-modal Prompt Learning to Bridge Optical Flow for
-Low-Shot Video Understanding](https://arxiv.org/pdf/2212.09335.pdf)  
+Low-Shot Video Understanding](https://arxiv.org/pdf/2212.09335.pdf)   \|  [[Project](https://ju-chen.github.io/efficient-prompt/)]    
 **Chen Ju**, Zeqian Li, Peisen Zhao, Ya Zhang, Qi Tian and Weidi Xie
 In Proc. of **arXiv preprint 2023** 
 
 
-### Topic: Vision-Language-Audio Pre-trainings with Strong Generalization but Low Costs
+### 📒 Topic: Vision-Language-Audio Pre-trainings with Strong Generalization but Low Costs
 1. [Long-Document Cross-Lingual Summarization](https://arxiv.org/abs/2212.00586) \| [[Data](https://github.com/LearnItBoy/Perseus)] \| [[Report](https://mp.weixin.qq.com/s/klalyNLgNRx6-cvxtTJ3OA)]    
 Shaohui Zheng, Zhixu Li, **Jiaan Wang**, Jianfeng Qu, An Liu, Lei Zhao and Zhigang Chen  
 To appear in **WSDM 2023** (full paper)  
@@ -57,7 +57,7 @@ Jian Zou, **Jiaan Wang**, Ying He, Jianfeng Qu, Zhixu Li, Pengpeng Zhao, An Liu 
 To appear in **DASFAA 2023** (full paper)
 
 
-### Freeze Pre-trainings, Downstream Video Understanding with Limited Annotation & Supervision
+### 📒 Topic: Freeze Pre-trainings, Downstream Video Understanding with Limited Annotation & Supervision
 1. [A Survey on Cross-Lingual Summarization](https://arxiv.org/abs/2203.12515) \| [[Report](https://mp.weixin.qq.com/s/OL6-Yp4NgnTsvXMCHOJMog)]    
 **Jiaan Wang**, Fandong Meng<sup>*</sup>, Duo Zheng, Yunlong Liang, Zhixu Li<sup>*</sup>, Jianfeng Qu and Jie Zhou   
 In Proc. of **TACL 2022**   
@@ -84,7 +84,7 @@ Tingyi Zhang, Zhixu Li, **Jiaan Wang**, Jianfeng Qu<sup>*</sup>, Lin Yuan, An Li
 In Proc. of **DASFAA 2022** (full paper)
 
 
-### 2021
+### 📒 2021
 1. [SportsSum2.0: Generating High-Quality Sports News from Live Text Commentary](http://arxiv.org/abs/2110.05750) \| [[Data](https://github.com/krystalan/SportsSum2.0)]   
 **Jiaan Wang**, Zhixu Li<sup>*</sup>, Qiang Yang, Jianfeng Qu, Zhigang Chen, Qingsheng Liu and Guoping Hu   
 In Proc. of **CIKM 2021** (short paper)    
