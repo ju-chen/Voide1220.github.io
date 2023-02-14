@@ -26,7 +26,7 @@ As a young researcher, your interest and kind citation will definitely mean a lo
 
 # 🔥 News
 <!-- - [*2023*] ![new paper](/images/new.gif) One paper is accepted to DASFAA 2023, about table-and-text question answering. -->
-- [*2023*] ![new paper](/images/new.gif) Our new preprints, [Multi-modal Prompt Learning](https://arxiv.org/abs/2212.07672) for vision-language foundation models is out!
+- [*2023*] ![new paper](/images/new.gif) Our new preprints, [Multi-modal Prompt Learning](https://arxiv.org/pdf/2212.09335.pdf) for vision-language foundation models is out!
 - [*2023*] ![new paper](/images/new.gif) Our new preprints, [Collaborative Distillation](https://arxiv.org/pdf/2212.09335.pdf) so that multiple pre-trainings complement each other is out!
 - [*2022*] One paper is accepted to ECCV 2022, about efficient adaptation of VLP.
 
@@ -34,21 +34,21 @@ As a young researcher, your interest and kind citation will definitely mean a lo
 # 📝 Publications 
 Please feel free to drop me an email for any suggestions or potential collaborations.
 ### Topic: Efficiently Adapt Multi-modal Foundation Models to Unify/Generalize Downstream Tasks
-1. [Prompting Visual-Language Models for Efficient Video Understanding](https://arxiv.org/pdf/2112.04478.pdf)  
-**Jiaan Wang**, Fandong Meng, Tingyi Zhang, Yunlong Liang, Jiarong Xu, Zhixu Li and Jie Zhou  
+1. [Prompting Visual-Language Models for Efficient Video Understanding](https://arxiv.org/pdf/2112.04478.pdf) \| [[Code](https://github.com/ju-chen/Efficient-Prompt)]  \| [[Data](https://github.com/ju-chen/Efficient-Prompt/tree/main/datasplits/)]  \|  [[Project](https://ju-chen.github.io/efficient-prompt/)]
+**Chen Ju**, Tengda Han, Kunhao Zheng, Ya Zhang and Weidi Xie  
 In Proc. of **ECCV 2022**  
-1. [Summary-Oriented Vision Modeling for Multimodal Abstractive Summarization](https://arxiv.org/abs/2212.07672)  
-Yunlong Liang, Fandong Meng, Jinan Xu, **Jiaan Wang**, Yufeng Chen and Jie Zhou   
-**arXiv preprint 2022** 
-1. [Ethically Responsible Graph Information Sharing for Business Purposes: A Privacy-preserving Graph Pre-training Model](https://www.researchgate.net/publication/366028783_Ethically_Responsible_Graph_Information_Sharing_for_Business_Purposes_A_Privacy-preserving_Graph_Pre-training_Model)   
-**ResearchGate preprint 2022**   
-Jiarong Xu, Zenan Zhou, **Jiaan Wang** and Tian Lu
-1. [GOAL: Towards Benchmarking Few-Shot Sports Game Summarization](https://arxiv.org/abs/2207.08635) \| [[Data&Code](https://github.com/krystalan/goal)]    
-**Jiaan Wang**<sup>*</sup>, Tingyi Zhang and Haoxiang Shi      
-**arXiv preprint 2022**   
+
+1. [Distilling Vision-Language Pre-training to Collaborate with Weakly-Supervised Temporal Action Localization](https://arxiv.org/pdf/2212.09335.pdf)  
+**Chen Ju**, Kunhao Zheng, Jinxiang Liu, Peisen Zhao, Ya Zhang, Jianlong Chang, Yanfeng Wang and Qi Tian 
+In Proc. of **arXiv preprint 2023** 
+
+1. [Multi-modal Prompt Learning to Bridge Optical Flow for
+Low-Shot Video Understanding](https://arxiv.org/pdf/2212.09335.pdf)  
+**Chen Ju**, Zeqian Li, Peisen Zhao, Ya Zhang, Qi Tian and Weidi Xie
+In Proc. of **arXiv preprint 2023** 
 
 
-### 2023
+### Topic: Vision-Language-Audio Pre-trainings with Strong Generalization but Low Costs
 1. [Long-Document Cross-Lingual Summarization](https://arxiv.org/abs/2212.00586) \| [[Data](https://github.com/LearnItBoy/Perseus)] \| [[Report](https://mp.weixin.qq.com/s/klalyNLgNRx6-cvxtTJ3OA)]    
 Shaohui Zheng, Zhixu Li, **Jiaan Wang**, Jianfeng Qu, An Liu, Lei Zhao and Zhigang Chen  
 To appear in **WSDM 2023** (full paper)  
@@ -57,7 +57,7 @@ Jian Zou, **Jiaan Wang**, Ying He, Jianfeng Qu, Zhixu Li, Pengpeng Zhao, An Liu 
 To appear in **DASFAA 2023** (full paper)
 
 
-### 2022
+### Freeze Pre-trainings, Downstream Video Understanding with Limited Annotation & Supervision
 1. [A Survey on Cross-Lingual Summarization](https://arxiv.org/abs/2203.12515) \| [[Report](https://mp.weixin.qq.com/s/OL6-Yp4NgnTsvXMCHOJMog)]    
 **Jiaan Wang**, Fandong Meng<sup>*</sup>, Duo Zheng, Yunlong Liang, Zhixu Li<sup>*</sup>, Jianfeng Qu and Jie Zhou   
 In Proc. of **TACL 2022**   
