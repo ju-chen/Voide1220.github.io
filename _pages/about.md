@@ -70,7 +70,7 @@ In Proc. of **ACM Multimedia 2022**
 In Proc. of **ICCV 2021** 
 
 1. [Bottom-Up Temporal Action Localization with
-Mutual Regularization](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530528.pdf) \| [[Code](https://github.com/PeisenZhao/Bottom-Up-TAL-with-MR)]   \|  [[Bibtex](./CITE/cite_bottom.txt)]               
+Mutual Regularization](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530528.pdf) \| [[Code](https://github.com/PeisenZhao/Bottom-Up-TAL-with-MR)]  \|  [[Demo](https://voide1220.github.io/adapter/)]  \|  [[Bibtex](./CITE/cite_bottom.txt)]               
 Peisen Zhao, Lingxi Xie, **Chen Ju**, Ya Zhang, Yanfeng Wang and Qi Tian               
 In Proc. of **ECCV 2020** 
 
