@@ -19,7 +19,7 @@ Currently, I collaborate with researchers from Huawei Cloud: <a href="https://sc
 As a young researcher, your interest and kind citation will definitely mean a lot for me and my collaborators.
 
 **Email:** ju_chen[at]sjtu[dot]edu[dot]cn / cju[dot]void[at]gmail[dot]com    
- 
+
 
 
 # 🔥 News
@@ -52,7 +52,7 @@ In Proc. of **arXiv preprint 2023**
 1. [Multi-modal Prompt Learning to Bridge Optical Flow for
 Open-Vocabulary Video Understanding](https://arxiv.org/pdf/2212.09335.pdf)   \|  [[Project](https://ju-chen.github.io/efficient-prompt/)]   \| [[Bibtex](./CITE/cite_map.txt)]                                                        
 **Chen Ju**, Zeqian Li, Peisen Zhao, Ya Zhang, Qi Tian and Weidi Xie     
-**arXiv preprint 2023** 
+arXiv preprint 2023
 
 
 ### 📒 Topic: Vision-Language-Audio Pre-trainings with Strong Generalization but Low Costs
