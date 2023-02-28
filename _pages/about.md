@@ -47,7 +47,7 @@ In Proc. of **ECCV 2022**
 
 1. [Distilling Vision-Language Pre-training to Collaborate with Weakly-Supervised Video Understanding](https://arxiv.org/pdf/2212.09335.pdf)  \|  [[Project](https://ju-chen.github.io/efficient-prompt/)]  \| [[Bibtex](./CITE/cite_distilling.txt)]                                 
 **Chen Ju**, Kunhao Zheng, Jinxiang Liu, Peisen Zhao, Ya Zhang, Jianlong Chang, Yanfeng Wang and Qi Tian    
-In Proc. of **arXiv preprint 2023** 
+In Proc. of **CVPR 2023** 
 
 1. [Multi-modal Prompt Learning to Bridge Optical Flow for
 Open-Vocabulary Video Understanding](https://arxiv.org/pdf/2212.09335.pdf)   \|  [[Project](https://ju-chen.github.io/efficient-prompt/)]   \| [[Bibtex](./CITE/cite_map.txt)]                                                        
