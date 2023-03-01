@@ -23,10 +23,10 @@ As a young researcher, your interest and kind citation will definitely mean a lo
 
 
 # 🔥 News
-<!-- - [*2023*] ![new paper](/images/new.gif) One paper is accepted to DASFAA 2023, about table-and-text question answering. -->
-- [*2023*] ![new paper](/images/new.gif) Our new preprint, [Multi-modal Prompt Learning](https://arxiv.org/pdf/2212.09335.pdf) for vision-language foundation models is out!
+- [*2023*] ![new paper](/images/new.gif) Our CVPR2023 paper, [Collaborative Distillation](https://arxiv.org/pdf/2212.09335.pdf) so that multiple pre-trainings complement each other is out!
+- [*2023*] ![new paper](/images/new.gif) Two papers are accepted to CVPR 2023, about efficient adaptations of multi-modal foundation models.
+<!-- - [*2023*] ![new paper](/images/new.gif) Our new preprint, [Multi-modal Prompt Learning](https://arxiv.org/pdf/2212.09335.pdf) for vision-language foundation models is out! -->
 - [*2023*] ![new paper](/images/new.gif) Our new preprint, [Partial Supervision with Quadruple Constraints](https://arxiv.org/pdf/2302.09850.pdf) for cost-effective vision-language pre-training is out!
-- [*2022*] ![new paper](/images/new.gif) Our new preprint, [Collaborative Distillation](https://arxiv.org/pdf/2212.09335.pdf) so that multiple pre-trainings complement each other is out!
 - [*2022*] One paper is accepted to ECCV 2022, about efficient adaptation for vision-language foundation models.  
 - [*2022*] One paper is accepted to ACM Multimedia 2022, about efficient pre-training for video-audio foundation models.     
 
