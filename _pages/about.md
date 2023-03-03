@@ -46,12 +46,11 @@ Please feel free to drop me an email for any suggestions or potential collaborat
 **ECCV 2022**  
 
 1. [Distilling Vision-Language Pre-training to Collaborate with Weakly-Supervised Video Understanding](https://arxiv.org/pdf/2212.09335.pdf)  \|  [[Project](https://ju-chen.github.io/efficient-prompt/)]  \| [[Bibtex](./CITE/cite_distilling.txt)]                                 
-**Chen Ju**, Kunhao Zheng, Jinxiang Liu, Peisen Zhao, Ya Zhang, Jianlong Chang, Yanfeng Wang and Qi Tian    
+**Chen Ju**, Kunhao Zheng, Jinxiang Liu, Peisen Zhao, Ya Zhang, Jianlong Chang, Qi Tian and Yanfeng Wang      
 **CVPR 2023** 
 
-1. [Multi-modal Prompt Learning to Bridge Optical Flow for
-Open-Vocabulary Video Understanding](https://arxiv.org/pdf/2212.09335.pdf)   \|  [[Project](https://ju-chen.github.io/efficient-prompt/)]   \| [[Bibtex](./CITE/cite_map.txt)]                                                        
-**Chen Ju**, Zeqian Li, Peisen Zhao, Ya Zhang, Qi Tian and Weidi Xie     
+1. [Multi-modal Prompting  for Open-Vocabulary Video Understanding](https://arxiv.org/pdf/2212.09335.pdf)   \|  [[Project](https://ju-chen.github.io/efficient-prompt/)]   \| [[Bibtex](./CITE/cite_map.txt)]                                                        
+**Chen Ju**, Zeqian Li, Peisen Zhao, Ya Zhang, Xiaopeng Zhang, Qi Tian, and Weidi Xie     
 arXiv preprint 2023
 
 
