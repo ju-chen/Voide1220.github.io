@@ -24,7 +24,7 @@ As a young researcher, your interest and kind citation will definitely mean a lo
 
 # 🔥 News
 <!-- - [*2023*] ![new paper](/images/new.gif) Our new preprint, [Multi-modal Prompt Learning](https://arxiv.org/pdf/2212.09335.pdf) for vision-language foundation models is out! -->
-- [*2023*] ![new paper](/images/new.gif) Our CVPR2023 paper, [Collaborative Distillation](https://arxiv.org/pdf/2212.09335.pdf) so that multiple pre-trainings complement each other is out!
+- [*2023*] ![new paper](/images/new.gif) Our CVPR 2023 paper, [Collaborative Distillation](https://arxiv.org/pdf/2212.09335.pdf) so that multiple pre-trainings complement each other is out!
 - [*2023*] Two papers are accepted to CVPR 2023, about efficient adaptations of multi-modal foundation models.
 - [*2023*] ![new paper](/images/new.gif) Our new preprint, [Partial Supervision with Quadruple Constraints](https://arxiv.org/pdf/2302.09850.pdf) for cost-effective vision-language pre-training is out!
 - [*2022*] One paper is accepted to ECCV 2022, about efficient adaptation for vision-language foundation models.  
@@ -82,7 +82,7 @@ Weakly-Supervised Temporal Action Localization](https://ieeexplore.ieee.org/stam
 
 
 ### 📒 Topic: AIGC (Stable Diffusion for Video Generation and Music Composition)
-1. Adapting Diffusion Models Towards Unsupervised Salient Object Detection      \|  [[Bibtex](./CITE/cite_diffusion.txt)]              
+1. Adapting Diffusion Models Towards Unsupervised Object Discovery      \|  [[Bibtex](./CITE/cite_diffusion.txt)]              
 Chaofan Ma, Yuhuan Yang, **Chen Ju**, Jinxiang Liu, Yanfeng Wang, Ya Zhang and Yu Wang            
 arXiv preprint 2023 
 
