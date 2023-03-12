@@ -41,8 +41,6 @@ My primary research interests lie in
 
 - Video Understanding: Retrieval & Caption & Summary for Trimmed Video Clips, Detection & Classification for Untrimmed Long Videos.
 
-
-
 Please feel free to drop me an email for any suggestions or potential collaborations.
 
 
@@ -57,12 +55,12 @@ Please feel free to drop me an email for any suggestions or potential collaborat
 **Chen Ju**, Kunhao Zheng, Jinxiang Liu, Peisen Zhao, Ya Zhang, Jianlong Chang, Qi Tian and Yanfeng Wang      
 **CVPR 2023** 
 
-1. [Multi-modal Prompting and GPT Descriptions for Open-Vocabulary Video Understanding](https://arxiv.org/pdf/2212.09335.pdf)   \|  [[Project](https://ju-chen.github.io/efficient-prompt/)]   \| [[Bibtex](./CITE/cite_map.txt)]                                                        
+1. [Multi-modal Prompting and ChatGPT Descriptions for Open-Vocabulary Video Understanding](https://arxiv.org/pdf/2212.09335.pdf)   \|  [[Project](https://ju-chen.github.io/efficient-prompt/)]   \| [[Bibtex](./CITE/cite_map.txt)]                                                        
 **Chen Ju**, Zeqian Li, Peisen Zhao, Ya Zhang, Xiaopeng Zhang, Qi Tian, and Weidi Xie     
 arXiv preprint 2023
 
 
-### 📒 Topic: Vision-Language-Audio Pre-trainings with Strong Generalization but Low Costs
+### 📒 Topic: Vision-Language-Audio Foundation Pre-trainings with Strong Generalization but Low Costs
 1. [Exploiting Transformation Invariance and Equivariance for Self-supervised Sound Localisation](https://arxiv.org/pdf/2206.12772.pdf)  \|  [[Code](https://github.com/jinxiang-liu/SSL-TIE)] \| [[Project & Demo](https://jinxiang-liu.github.io/SSL-TIE/)]  \| [[Bibtex](./CITE/cite_audio.txt)]                                                           
 Jinxiang Liu, **Chen Ju**, Weidi Xie and Ya Zhang         
 **ACM Multimedia 2022**   
@@ -88,7 +86,7 @@ Weakly-Supervised Temporal Action Localization](https://ieeexplore.ieee.org/stam
 **IEEE Transactions on Multimedia** 
 
 
-### 📒 Topic: AIGC for Video Editing, Music Composition, and Visual Understanding
+### 📒 Topic: AIGC for Video Editing, Music Composition, and Conversation-Driven Visual Understanding
 1. Adapting Diffusion Models Towards Unsupervised Object Discovery      \|  [[Bibtex](./CITE/cite_diffusion.txt)]              
 Chaofan Ma, Yuhuan Yang, **Chen Ju**, Jinxiang Liu, Yanfeng Wang, Ya Zhang and Yu Wang            
 arXiv preprint 2023 
