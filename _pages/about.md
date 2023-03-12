@@ -80,7 +80,7 @@ Weakly-Supervised Temporal Action Localization](https://ieeexplore.ieee.org/stam
 **IEEE Transactions on Multimedia** 
 
 
-### 📒 Topic: AIGC, Stable Diffusion for Video Editing, Music Composition, and Visual Understanding
+### 📒 Topic: AIGC for Video Editing, Music Composition, and Visual Understanding
 1. Adapting Diffusion Models Towards Unsupervised Object Discovery      \|  [[Bibtex](./CITE/cite_diffusion.txt)]              
 Chaofan Ma, Yuhuan Yang, **Chen Ju**, Jinxiang Liu, Yanfeng Wang, Ya Zhang and Yu Wang            
 arXiv preprint 2023 
