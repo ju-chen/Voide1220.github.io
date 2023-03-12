@@ -61,7 +61,7 @@ Jinxiang Liu, **Chen Ju**, Weidi Xie and Ya Zhang
 
 1. [Quadruple Constraint Learning for Partially-Supervised Temporal Sentence Grounding](https://arxiv.org/pdf/2302.09850.pdf)  \| [[Bibtex](./CITE/cite_partial.txt)]            
 **Chen Ju**, Haicheng Wang, Jinxiang Liu, Chaofan Ma, Ya Zhang, Peisen Zhao, Jianlong Chang and Qi Tian          
-arXiv preprint 2023
+**CVPR 2023** 
 
 
 ### 📒 Topic: Freeze Pre-trainings, Downstream Video Understanding with Limited Annotation & Supervision
@@ -80,7 +80,7 @@ Weakly-Supervised Temporal Action Localization](https://ieeexplore.ieee.org/stam
 **IEEE Transactions on Multimedia** 
 
 
-### 📒 Topic: AIGC (Stable Diffusion for Video Generation and Music Composition)
+### 📒 Topic: AIGC, Stable Diffusion for Video Editing, Music Composition, and Visual Understanding
 1. Adapting Diffusion Models Towards Unsupervised Object Discovery      \|  [[Bibtex](./CITE/cite_diffusion.txt)]              
 Chaofan Ma, Yuhuan Yang, **Chen Ju**, Jinxiang Liu, Yanfeng Wang, Ya Zhang and Yu Wang            
 arXiv preprint 2023 
