@@ -33,7 +33,15 @@ As a young researcher, your interest and kind citation will definitely mean a lo
 
 # 💻 Researches
 
-My primary research interests lie in Vision-Language-Audio Multi-modal Learning, Video Understanding/Generation, and Music Composition.
+My primary research interests lie in 
+
+- Vision-Language-Audio Multi-modal Learning, 
+
+- AIGC：Video Generation/Editing, Music Composition.
+
+- Video Understanding: Retrieval \& Caption \& summarize for Trimmed Short Videos, Detection \& Classification for Untrimmed Long Videos.
+
+
 
 Please feel free to drop me an email for any suggestions or potential collaborations.
 
