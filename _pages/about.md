@@ -56,7 +56,7 @@ Please feel free to drop me an email for any suggestions or potential collaborat
 **CVPR 2023** 
 
 1. [Multi-modal GPT Prompts for Open-Vocabulary Video Understanding](https://arxiv.org/pdf/2212.09335.pdf)   \| [[Bibtex](./CITE/cite_map.txt)]                                                        
-**Chen Ju**, Zeqian Li, Peisen Zhao, Ya Zhang, Xiaopeng Zhang, Qi Tian, and Weidi Xie     
+**Chen Ju**, Zeqian Li, Peisen Zhao, Ya Zhang, Xiaopeng Zhang, Qi Tian, Yanfeng Wang and Weidi Xie     
 arXiv preprint 2023
 
 
