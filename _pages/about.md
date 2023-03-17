@@ -55,7 +55,7 @@ Please feel free to drop me an email for any suggestions or potential collaborat
 **Chen Ju**, Kunhao Zheng, Jinxiang Liu, Peisen Zhao, Ya Zhang, Jianlong Chang, Qi Tian and Yanfeng Wang      
 **CVPR 2023** 
 
-1. [Multi-modal Prompting and GPT Descriptions for Open-Vocabulary Video Understanding](https://arxiv.org/pdf/2212.09335.pdf)   \| [[Bibtex](./CITE/cite_map.txt)]                                                        
+1. [Multi-modal GPT Prompts for Open-Vocabulary Video Understanding](https://arxiv.org/pdf/2212.09335.pdf)   \| [[Bibtex](./CITE/cite_map.txt)]                                                        
 **Chen Ju**, Zeqian Li, Peisen Zhao, Ya Zhang, Xiaopeng Zhang, Qi Tian, and Weidi Xie     
 arXiv preprint 2023
 
@@ -88,7 +88,7 @@ Weakly-Supervised Temporal Action Localization](https://ieeexplore.ieee.org/stam
 
 ### 📒 Topic: AIGC for Video Editing, Music Composition, and Conversation-Driven Visual Understanding
 1. Adapting Diffusion Models Towards Unsupervised Object Discovery      \|  [[Bibtex](./CITE/cite_diffusion.txt)]              
-Chaofan Ma, Yuhuan Yang, **Chen Ju**, Jinxiang Liu, Yanfeng Wang, Ya Zhang and Yu Wang            
+Chaofan Ma, Yuhuan Yang, **Chen Ju**, Jinxiang Liu, Yu Wang, Ya Zhang and Yanfeng Wang             
 arXiv preprint 2023 
 
 
