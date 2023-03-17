@@ -1,1 +1,6 @@
-To do
+@article{ju2023multi,
+  title={Multi-modal GPT Prompts for Open-Vocabulary Video Understanding},
+  author={Ju, Chen and Li, Zeqian and Zhao, Peisen and Zhang, Ya and Zhang, Xiaopeng and Tian, Qi and Wang, Yanfeng and Xie, Weidi},
+  journal={arXiv preprint arXiv:xxxx.xxxxx},
+  year={2023}
+}
