@@ -87,8 +87,8 @@ Weakly-Supervised Temporal Action Localization](https://ieeexplore.ieee.org/stam
 
 
 ### 📒 Topic: AIGC for Video Editing, Music Composition, and Conversation-Driven Visual Understanding
-1. Adapting Diffusion Models Towards Unsupervised Object Discovery      \|  [[Bibtex](./CITE/cite_diffusion.txt)]              
-Chaofan Ma, Yuhuan Yang, **Chen Ju**, Jinxiang Liu, Yu Wang, Ya Zhang and Yanfeng Wang             
+1. [Adapting Diffusion Models Towards Unsupervised Object Discovery](https://arxiv.org/pdf/2303.09813.pdf)      \|  [[Bibtex](./CITE/cite_diffusion.txt)]                  
+Chaofan Ma, Yuhuan Yang, **Chen Ju**, Fei Zhang, Jinxiang Liu, Yu Wang, Ya Zhang and Yanfeng Wang             
 arXiv preprint 2023 
 
 
