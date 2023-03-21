@@ -1,5 +1,5 @@
-@article{ma2023adapting,
-  title={Adapting Diffusion Models Towards Unsupervised Object Discovery},
+@article{ma2023diffusionseg,
+  title={DiffusionSeg: Adapting Diffusion Towards Unsupervised Object Discovery},
   author={Ma, Chaofan and Yang, Yuhuan and Ju, Chen and Zhang, Fei and Liu, Jinxiang and Wang, Yu and Zhang, Ya and Wang, Yanfeng},
   journal={arXiv preprint arXiv:2303.09813},
   year={2023}
