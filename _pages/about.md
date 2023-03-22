@@ -23,7 +23,7 @@ As a young researcher, your interest and kind citation will definitely mean a lo
 
 
 # 🔥 News
-<!-- - [*2023*] ![new paper](/images/new.gif) Our new preprint, [Multi-modal Prompt Learning](https://arxiv.org/pdf/2212.09335.pdf) for vision-language foundation models is out! -->
+- [*2023*] ![new paper](/images/new.gif) Our new work, [Multi-modal GPT Prompting](https://arxiv.org/pdf/2303.11732.pdf) for vision-language foundation models is out!
 - [*2023*] One paper is accepted to CVPR 2023, about efficient adaptations of multi-modal foundation models.
 - [*2023*] ![new paper](/images/new.gif) Our new work, [Collaborative Distillation](https://arxiv.org/pdf/2212.09335.pdf) so that multiple pre-trainings complement each other is out!
 - [*2023*] ![new paper](/images/new.gif) Our new work, [Partial Supervision with Quadruple Constraints](https://arxiv.org/pdf/2302.09850.pdf) for cost-effective vision-language pre-training is out!
