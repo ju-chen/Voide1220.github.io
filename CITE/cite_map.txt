@@ -1,6 +1,6 @@
 @article{ju2023multi,
   title={Multi-modal Prompting for Low-Shot Temporal Action Localization},
   author={Ju, Chen and Li, Zeqian and Zhao, Peisen and Zhang, Ya and Zhang, Xiaopeng and Tian, Qi and Wang, Yanfeng and Xie, Weidi},
-  journal={arXiv preprint arXiv:xxxx.xxxxx},
+  journal={arXiv preprint arXiv:2303.11732},
   year={2023}
 }
