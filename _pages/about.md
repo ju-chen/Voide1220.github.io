@@ -99,7 +99,7 @@ arXiv preprint 2023
 
 
 # 📄 Patents
-- CN202211581256.7 [《局部监督长视频时序文本检索方法及系统》](https://cprs.patentstar.com.cn/Search/Detail?ANE=9HEE9IFE9GDC9FDB5AEA9IDC9HHF9CIG7FCA9AFF9EDE9IBD)       
+- CN202211581256.7 [《局部监督长视频时序文本检索方法及系统》](https://cprs.patentstar.com.cn/Search/Detail?ANE=9GHG6CEA9FCA9DEA9IEE9GGE9BGDAIBA9IBB9IBC9EAA9ICH)       
 Ya Zhang, **<u>Chen Ju</u>**, Haicheng Wang, Jinxiang Liu, Chaofan Ma, Yanfeng Wang.       
 - CN202211056034.3 [《弱监督视频时序动作检测与分类方法及系统》](https://cprs.patentstar.com.cn/Search/Detail?ANE=5CBA3BCAAHIA9GIH9FDA8CFA7FCA9HBEAGFA9CIB9EHFAHGA)       
 Ya Zhang, **<u>Chen Ju</u>**, Kunhao Zheng, Jinxiang Liu, Weidi Xie, Yanfeng Wang.      
