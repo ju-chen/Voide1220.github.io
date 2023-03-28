@@ -12,7 +12,9 @@ redirect_from:
 
 Hello! I’m Chen Ju (鞠陈).
 
-I'm a PhD candidate at <a href="https://mediabrain.sjtu.edu.cn/">MediaBrain Group</a>, Cooperative Medianet Innovation Center, Shanghai Jiao Tong University, supervised by <a href="https://mediabrain.sjtu.edu.cn/yazhang/">Prof. Ya Zhang</a>, also advised by <a href="https://weidixie.github.io/">Prof. Weidi Xie</a> and <a href="https://siheng-chen.github.io/">Prof. Siheng Chen</a>.  
+I'm a PhD candidate at <a href="https://mediabrain.sjtu.edu.cn/">MediaBrain Group</a>, Cooperative Medianet Innovation Center, Shanghai Jiao Tong University, 
+
+supervised by <a href="https://mediabrain.sjtu.edu.cn/yazhang/">Prof. Ya Zhang</a>, also advised by <a href="https://weidixie.github.io/">Prof. Weidi Xie</a> and <a href="https://siheng-chen.github.io/">Prof. Siheng Chen</a>.  
 
 Currently, I collaborate with researchers from Huawei Cloud: <a href="https://scholar.google.com/citations?user=61b6eYkAAAAJ">Prof. Qi Tian</a>, <a href="https://scholar.google.com.hk/citations?user=Ud6aBAcAAAAJ&hl=zh-CN&oi=ao">Dr. Xiaopeng Zhang</a>, <a href="https://scholar.google.com.hk/citations?user=RDwnNsQAAAAJ&hl=zh-CN&oi=ao">Dr. Jianlong Chang</a>, and <a href="https://scholar.google.com.hk/citations?user=hCr8Km8AAAAJ&hl=zh-CN&oi=ao">Dr. Peisen Zhao</a> closely.
 
