@@ -23,7 +23,7 @@ As a young researcher, your interest and kind citation will definitely mean a lo
 <b> Google Scholar:</b> <a href="https://scholar.google.com.hk/citations?user=b2jNn10AAAAJ&hl=zh-CN&oi=ao">Chen Ju SJTU</a> </p>  
 
 Google: 
-<img src=https://user-images.githubusercontent.com/37062830/230590319-f23d11ac-fe86-4180-a8b0-2ed42de7348c.png  width="400"  height="500" />
+<img src=https://user-images.githubusercontent.com/37062830/230590319-f23d11ac-fe86-4180-a8b0-2ed42de7348c.png  width="200"  height="50" />
 
 
 
