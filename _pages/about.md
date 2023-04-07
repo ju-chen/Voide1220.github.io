@@ -50,7 +50,7 @@ Please feel free to drop me an email for any suggestions or potential collaborat
 
 # 📝 Publications 
 ### 📒 Topic: Efficiently Adapt Multi-modal Foundation Models to Unify/Generalize Downstream Tasks
-1. [Prompting Visual-Language Models for Efficient Video Understanding](https://arxiv.org/pdf/2112.04478.pdf) \| [[Code & Data](https://github.com/ju-chen/Efficient-Prompt)]  \|  [[Project](https://ju-chen.github.io/efficient-prompt/)]  \| [[Report](https://mp.weixin.qq.com/s/F8RGa0IQyljfue3fAxvATw)]  \| [[Bibtex](./CITE/cite_prompt.txt)]                                 
+1. [Prompting Visual-Language Models for Efficient Video Understanding](https://arxiv.org/pdf/2112.04478.pdf)  \|  [[Project](https://ju-chen.github.io/efficient-prompt/)]  \| [[Code & Data](https://github.com/ju-chen/Efficient-Prompt)]  \| [[Report](https://mp.weixin.qq.com/s/F8RGa0IQyljfue3fAxvATw)]  \| [[Bibtex](./CITE/cite_prompt.txt)]                                 
 **Chen Ju**, Tengda Han, Kunhao Zheng, Ya Zhang and Weidi Xie  
 **ECCV 2022**  
 
@@ -64,7 +64,7 @@ arXiv preprint 2023
 
 
 ### 📒 Topic: Vision-Language-Audio Foundation Pre-trainings with Strong Generalization but Low Costs
-1. [Transformation Invariance and Equivariance for Self-supervised Sound Localization](https://arxiv.org/pdf/2206.12772.pdf)  \|  [[Code](https://github.com/jinxiang-liu/SSL-TIE)] \| [[Project & Demo](https://jinxiang-liu.github.io/SSL-TIE/)]  \| [[Bibtex](./CITE/cite_audio.txt)]                                                           
+1. [Transformation Invariance and Equivariance for Self-supervised Sound Localization](https://arxiv.org/pdf/2206.12772.pdf)  \| [[Project & Demo](https://jinxiang-liu.github.io/SSL-TIE/)]  \|  [[Code](https://github.com/jinxiang-liu/SSL-TIE)]  \| [[Bibtex](./CITE/cite_audio.txt)]                                                           
 Jinxiang Liu, **Chen Ju**, Weidi Xie and Ya Zhang         
 **ACM Multimedia 2022**   
 
