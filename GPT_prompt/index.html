@@ -1,0 +1,315 @@
+
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+  <!--
+  <script src="./resources/jsapi" type="text/javascript"></script>
+  <script type="text/javascript" async>google.load("jquery", "1.3.2");</script>
+ -->
+
+<style type="text/css">
+  @font-face {
+   font-family: 'Avenir Book';
+   src: url("./fonts/Avenir_Book.ttf"); /* File to be stored at your site */
+   }
+
+  body {
+    font-family: "Avenir Book", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-weight:300;
+    font-size:14px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+  }
+  h1 {
+    font-weight:300;
+  }
+  h2 {
+    font-weight:300;
+  }
+
+  p {
+    font-weight:300;
+    line-height: 1.4;
+  }
+
+  code {
+    font-size: 0.8rem;
+    margin: 0 0.2rem;
+    padding: 0.5rem 0.8rem;
+    white-space: nowrap;
+    background: #efefef;
+    border: 1px solid #d3d3d3;
+    color: #000000;
+    border-radius: 3px;
+  }
+
+  pre > code {
+    display: block;
+    white-space: pre;
+    line-height: 1.5;
+    padding: 0;
+    margin: 0;
+  }
+
+  pre.prettyprint > code {
+    border: none;
+  }
+
+
+  .container {
+        display: flex;
+        align-items: center;
+        justify-content: center
+  }
+  .image {
+        flex-basis: 40%
+  }
+  .text {
+        padding-left: 20px;
+        padding-right: 20px;
+  }
+
+  .disclaimerbox {
+    background-color: #eee;
+    border: 1px solid #eeeeee;
+    border-radius: 10px ;
+    -moz-border-radius: 10px ;
+    -webkit-border-radius: 10px ;
+    padding: 20px;
+  }
+
+  video.header-vid {
+    height: 140px;
+    border: 1px solid black;
+    border-radius: 10px ;
+    -moz-border-radius: 10px ;
+    -webkit-border-radius: 10px ;
+  }
+
+  img.header-img {
+    height: 140px;
+    border: 1px solid black;
+    border-radius: 10px ;
+    -moz-border-radius: 10px ;
+    -webkit-border-radius: 10px ;
+  }
+
+  img.rounded {
+    border: 0px solid #eeeeee;
+    border-radius: 10px ;
+    -moz-border-radius: 10px ;
+    -webkit-border-radius: 10px ;
+
+  }
+
+  a:link,a:visited
+  {
+    color: #1367a7;
+    text-decoration: none;
+  }
+  a:hover {
+    color: #208799;
+  }
+
+  td.dl-link {
+    height: 160px;
+    text-align: center;
+    font-size: 22px;
+  }
+
+  .layered-paper-big { /* modified from: http://css-tricks.com/snippets/css/layered-paper/ */
+    box-shadow:
+            0px 0px 1px 1px rgba(0,0,0,0.35), /* The top layer shadow */
+            5px 5px 0 0px #fff, /* The second layer */
+            5px 5px 1px 1px rgba(0,0,0,0.35), /* The second layer shadow */
+            10px 10px 0 0px #fff, /* The third layer */
+            10px 10px 1px 1px rgba(0,0,0,0.35), /* The third layer shadow */
+            15px 15px 0 0px #fff, /* The fourth layer */
+            15px 15px 1px 1px rgba(0,0,0,0.35), /* The fourth layer shadow */
+            20px 20px 0 0px #fff, /* The fifth layer */
+            20px 20px 1px 1px rgba(0,0,0,0.35), /* The fifth layer shadow */
+            25px 25px 0 0px #fff, /* The fifth layer */
+            25px 25px 1px 1px rgba(0,0,0,0.35); /* The fifth layer shadow */
+    margin-left: 10px;
+    margin-right: 45px;
+  }
+
+
+  .layered-paper { /* modified from: http://css-tricks.com/snippets/css/layered-paper/ */
+    box-shadow:
+            0px 0px 1px 1px rgba(0,0,0,0.35), /* The top layer shadow */
+            5px 5px 0 0px #fff, /* The second layer */
+            5px 5px 1px 1px rgba(0,0,0,0.35), /* The second layer shadow */
+            10px 10px 0 0px #fff, /* The third layer */
+            10px 10px 1px 1px rgba(0,0,0,0.35); /* The third layer shadow */
+    margin-top: 5px;
+    margin-left: 10px;
+    margin-right: 30px;
+    margin-bottom: 5px;
+  }
+
+  .vert-cent {
+    position: relative;
+      top: 50%;
+      transform: translateY(-50%);
+  }
+
+  hr
+  {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+  }
+</style>
+
+	<title>Multi-modal Prompting for Low-Shot Temporal Action Localization</title>
+</head>
+
+<body>
+	<br>
+	<center>
+	<span style="font-size:36px">Multi-modal Prompting for Low-Shot Temporal Action Localization</span><br><br><br>
+	</center>
+	<table align="center" width="800px">
+            <tbody><tr>
+                    <td align="center" width="160px">
+              <center>
+                <span style="font-size:16px"><a href="https://ju-chen.github.io/">Chen Ju</a><sup>1</sup></span>
+                </center>
+                </td>
+                    <td align="center" width="160px">
+              <center>
+                <span style="font-size:16px"><a href="https://scholar.google.com.hk/citations?user=hCr8Km8AAAAJ&hl=zh-CN">Peisen Zhao</a><sup>2</sup></span>
+                </center>
+                </td>
+                    <td align="center" width="160px">
+              <center>
+                <span style="font-size:16px"><a href="https://siheng-chen.github.io/">Siheng Chen</a><sup>1</sup></span>
+                </center>
+                </td>
+                    <td align="center" width="160px">
+	            <center>
+                <span style="font-size:16px"><a href="https://mediabrain.sjtu.edu.cn/yazhang/">Ya Zhang</a><sup>1</sup></span>
+                </center>
+		            </td>
+                    <td align="center" width="160px">	    
+              <center>
+                <span style="font-size:16px"><a href="https://mediabrain.sjtu.edu.cn/members/">Yanfeng Wang</a><sup>1</sup></span>
+                </center>      
+                </td>
+                    <td align="center" width="160px">	    
+              <center>
+                <span style="font-size:16px"><a href="https://scholar.google.com.hk/citations?user=61b6eYkAAAAJ&hl=zh-CN">Qi Tian</a><sup>2</sup></span>
+                </center>                      
+            </tr>
+
+        </tbody></table><br>
+	
+	  <table align="center" width="700px">
+            <tbody><tr>
+                    <td align="center" width="50px">
+              <center>
+                    <span style="font-size:16px"></span>
+                </center>
+                </td>
+                    <td align="center" width="300px">
+              <center>
+                    <span style="font-size:16px"><sup>1</sup>CMIC, Shanghai Jiao Tong University</span>
+                </center>
+                </td>
+                    <td align="center" width="300px">
+              <center>
+                    <span style="font-size:16px"><sup>2</sup>Huawei Cloud & AI</span>
+                </center>
+                </td>
+        </tr></tbody></table>
+	
+			<br>
+			<table align=center width=500px>
+				<tr>
+					<td align=center width=500px>
+						<center>
+							<span style="font-size:22px">
+								<span style="font-size:20px">Under Review</span>
+							</span>
+						</center>
+					</td>
+				</tr>
+			</table>	
+	
+	
+      <br><hr>
+	<table align="center" width="700px">
+            <tbody><tr>
+              <td align="center" width="200px">
+                <center>
+                  <br>
+                  <span style="font-size:20px">
+                    <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Ju_Divide_and_Conquer_for_Single-Frame_Temporal_Action_Localization_ICCV_2021_paper.pdf"> Paper </a>
+                  </span>
+                </center>
+              </td>
+
+              <td align="center" width="200px">
+                <center>
+                  <br>
+                  <span style="font-size:20px">
+                    <a href="./cite_divide.txt"> Bibtex </a>
+                  </span>
+                </center>
+              </td>
+            </tr></tbody>
+      </table>
+
+	
+
+      <br><hr>
+        <table align=center width=850px>
+	<center><h1>Abstract</h1></center>
+	<tr>
+		<td>
+			Single-frame temporal action localization (STAL) aims to localize actions in untrimmed videos with only one timestamp annotation for each action instance. Existing methods adopt the one-stage framework but couple the counting goal and the localization goal. This paper proposes a novel two-stage framework for the STAL task with the spirit of divide and conquer. The instance counting stage leverages the location supervision to determine the number of action instances and divide a whole video into multiple video clips, so that each video clip contains only one complete action instance; and the location estimation stage leverages the category supervision to localize the action instance in each video clip. To efficiently represent the action instance in each video clip, we introduce the proposal-based representation, and design a novel differentiable mask generator to enable the end-to-end training supervised by category labels. On THUMOS14, GTEA, and BEOID datasets, our method outperforms state-of-the-art methods by 3.5%, 2.7%, 4.8% mAP on average. And extensive experiments verify the effectiveness of our method.
+		</td>
+	</tr>
+	</table>
+     
+     <br><hr>	
+      <center><h2>Visualization Demo for Action: Long Jump </h2></center>
+      <div style="position: relative; padding: 30% 45%;">
+        <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src='//player.bilibili.com/player.html?bvid=BV1Xd4y1J7tN&cid=1007905462&page=1&share_source=copy_web' scrolling='no' border='0' frameborder='no' framespacing='0' allowfullscreen='true'></iframe>
+      </div>
+	
+	
+     <br><hr>	
+      <center><h2>Visualization Demo for Action: Clean And Jerk </h2></center>		
+      <div style="position: relative; padding: 30% 45%;">
+        <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src='//player.bilibili.com/player.html?bvid=BV1A54y1P7t2&cid=1007931926&page=1&share_source=copy_web' scrolling='no' border='0' frameborder='no' framespacing='0' allowfullscreen='true'></iframe>
+      </div>	
+
+     <br><hr>	
+      <center><h2>Visualization Demo for Action: Volleyball Spiking </h2></center>	
+      <div style="position: relative; padding: 30% 45%;">
+        <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src='//player.bilibili.com/player.html?bvid=BV18e4y1w7T1&cid=1007952362&page=1&share_source=copy_web' scrolling='no' border='0' frameborder='no' framespacing='0' allowfullscreen='true'></iframe>
+      </div>	
+
+     <br><hr>	
+      <center><h2>Visualization Demo for Action: Diving </h2></center>	
+      <div style="position: relative; padding: 30% 45%;">
+        <iframe style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;" src='//player.bilibili.com/player.html?bvid=BV1Cv4y1s7r5&cid=1007952860&page=1&share_source=copy_web' scrolling='no' border='0' frameborder='no' framespacing='0' allowfullscreen='true'></iframe>
+      </div>	
+	
+      <br>
+      <hr>
+      <center> <h1> Acknowledgements </h1> </center>
+	<p>
+		This work is supported by the National Key Research and Development Program of China (No. 2019YFB1804304), National Natural Science Foundation of China (No. 61771306), SHEITC (No. 2018-RGZN-02046), 111 plan (No. BP0719010), and STCSM (No. 18DZ2270700), and State Key Laboratory of UHD Video and Audio Production and Presentation.
+	</p>
+  
+      <br>
+
+
+<br>
+</body>
+</html>
