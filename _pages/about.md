@@ -22,6 +22,9 @@ As a young researcher, your interest and kind citation will definitely mean a lo
 **Email:** ju_chen[at]sjtu[dot]edu[dot]cn / cju[dot]void[at]gmail[dot]com    
 
 
+<a href='https://scholar.google.com/citations?user=4FA6C0AAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> 
+
+
 
 # 🔥 News
 - [*2023*] ![new paper](/images/new.gif) Our new work, [Multi-modal GPT Prompting](https://arxiv.org/pdf/2303.11732.pdf) for vision-language foundation models is out!
