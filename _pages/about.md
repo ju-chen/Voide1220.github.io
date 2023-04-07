@@ -64,7 +64,7 @@ arXiv preprint 2023
 
 
 ### 📒 Topic: Vision-Language-Audio Foundation Pre-trainings with Strong Generalization but Low Costs
-1. [Exploiting Transformation Invariance and Equivariance for Self-supervised Sound Localization](https://arxiv.org/pdf/2206.12772.pdf)  \|  [[Code](https://github.com/jinxiang-liu/SSL-TIE)] \| [[Project & Demo](https://jinxiang-liu.github.io/SSL-TIE/)]  \| [[Bibtex](./CITE/cite_audio.txt)]                                                           
+1. [Transformation Invariance and Equivariance for Self-supervised Sound Localization](https://arxiv.org/pdf/2206.12772.pdf)  \|  [[Code](https://github.com/jinxiang-liu/SSL-TIE)] \| [[Project & Demo](https://jinxiang-liu.github.io/SSL-TIE/)]  \| [[Bibtex](./CITE/cite_audio.txt)]                                                           
 Jinxiang Liu, **Chen Ju**, Weidi Xie and Ya Zhang         
 **ACM Multimedia 2022**   
 
