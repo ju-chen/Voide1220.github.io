@@ -20,7 +20,9 @@ Currently, I closely collaborate with some outstanding researchers from PanGu La
 As a young researcher, your interest and kind citation will definitely mean a lot for me and my collaborators.
 
 <p> <b>Email:</b> ju_chen[at]sjtu[dot]edu[dot]cn / cju[dot]void[at]gmail[dot]com         &emsp; &emsp; &emsp;              
-<b> Google Scholar:</b> <a href="https://scholar.google.com.hk/citations?user=b2jNn10AAAAJ&hl=zh-CN&oi=ao">Chen Ju SJTU</a> </p>  ![image](/images/captions.pdf)
+<b> Google Scholar:</b> <a href="https://scholar.google.com.hk/citations?user=b2jNn10AAAAJ&hl=zh-CN&oi=ao">Chen Ju SJTU</a> </p>  
+
+![image](/images/captions.pdf)
 
  
 
