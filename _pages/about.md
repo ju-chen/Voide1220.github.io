@@ -19,18 +19,16 @@ Currently, I closely collaborate with some outstanding researchers from PanGu La
 
 As a young researcher, your interest and kind citation will definitely mean a lot for me and my collaborators.
 
-**Email:** ju_chen[at]sjtu[dot]edu[dot]cn / cju[dot]void[at]gmail[dot]com    
+**Email:** ju_chen[at]sjtu[dot]edu[dot]cn / cju[dot]void[at]gmail[dot]com         **Google Scholar:** <a href='https://scholar.google.com/citations?user=4FA6C0AAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> 
 
-
-<a href='https://scholar.google.com/citations?user=4FA6C0AAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> 
 
 
 
 # 🔥 News
-- [*2023*] ![new paper](/images/new.gif) Our new work, [Multi-modal GPT Prompting](https://arxiv.org/pdf/2303.11732.pdf) for vision-language foundation models is out!
+- [*2023*] ![new paper](/images/new.gif) Our new work, [Multi-modal GPT Prompting for vision-language foundation models](https://arxiv.org/pdf/2303.11732.pdf) is out!
+- [*2023*] ![new paper](/images/new.gif) Our new work, [Collaborative Distillation so that multiple foundation pre-trainings complement each other](https://arxiv.org/pdf/2212.09335.pdf) is out!
+- [*2023*] ![new paper](/images/new.gif) Our new work, [Partial Supervision with Quadruple Constraints for cost-effective vision-language pre-training](https://arxiv.org/pdf/2302.09850.pdf) is out!
 - [*2023*] One paper is accepted to CVPR 2023, about efficient adaptations of multi-modal foundation models.
-- [*2023*] ![new paper](/images/new.gif) Our new work, [Collaborative Distillation](https://arxiv.org/pdf/2212.09335.pdf) so that multiple pre-trainings complement each other is out!
-- [*2023*] ![new paper](/images/new.gif) Our new work, [Partial Supervision with Quadruple Constraints](https://arxiv.org/pdf/2302.09850.pdf) for cost-effective vision-language pre-training is out!
 - [*2022*] One paper is accepted to ECCV 2022, about efficient adaptation for vision-language foundation models.  
 - [*2022*] One paper is accepted to ACM Multimedia 2022, about efficient pre-training for video-audio foundation models.     
 
