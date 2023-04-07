@@ -164,14 +164,13 @@
   }
 </style>
 
-	<title>Multi-modal Prompting for </title>
-	<title>Low-Shot Temporal Action Localization</title>
+	<title>Distilling Vision-Language Pre-training to Collaborate with Weakly-Supervised Temporal Action Localization</title>
 </head>
 
 <body>
 	<br>
 	<center>
-	<span style="font-size:36px">Multi-modal GPT Prompting for Low-Shot Temporal Action Localization</span><br><br><br>
+	<span style="font-size:36px">Distilling Vision-Language Pre-training to Collaborate with Weakly-Supervised Temporal Action Localization</span><br><br><br>
 	</center>
 	<table align="center" width="800px">
             <tbody><tr>
@@ -251,7 +250,7 @@
 					<td align=center width=500px>
 						<center>
 							<span style="font-size:22px">
-								<span style="font-size:20px">Preprint</span>
+								<span style="font-size:20px">CVPR 2023</span>
 							</span>
 						</center>
 					</td>
@@ -275,7 +274,7 @@
                 <center>
                   <br>
                   <span style="font-size:20px">
-                    <a href="https://arxiv.org/pdf/2303.11732.pdf"> Paper </a>
+                    <a href="https://arxiv.org/pdf/2212.09335.pdf"> Paper </a>
                   </span>
                 </center>
               </td>
@@ -284,7 +283,7 @@
                 <center>
                   <br>
                   <span style="font-size:20px">
-                    <a href="./cite_map.txt"> Bibtex </a>
+                    <a href="./cite_distilling.txt"> Bibtex </a>
                   </span>
                 </center>
               </td>
@@ -311,7 +310,7 @@
 	<center><h1>Abstract</h1></center>
 	<tr>
 		<td>
-			In this paper, we consider the problem of temporal action localization under low-shot (zero-shot & few-shot) scenario, with the goal of detecting and classifying the action instances from arbitrary categories within some untrimmed videos, even not seen at training time. We adopt a Transformer-based two-stage action localization architecture with class-agnostic action proposal, followed by open-vocabulary classification. We make the following contributions. First, to compensate image-text foundation models with temporal motions, we improve category-agnostic action proposal by explicitly aligning embeddings of optical flows, RGB and texts, which has largely been ignored in existing lowshot methods. Second, to improve open-vocabulary action classification, we construct classifiers with strong discriminative power, i.e., avoid lexical ambiguities. To be specific, we propose to prompt the pre-trained CLIP text encoder either with detailed action descriptions (acquired from large-scale language models), or visuallyconditioned instance-specific prompt vectors. Third, we conduct thorough experiments and ablation studies on THUMOS14 and ActivityNet1.3, demonstrating the superior performance of our model, significantly outperforming existing state-of-the-art methods.
+			Weakly-supervised temporal action localization (WTAL) learns to detect and classify action instances with only category labels. Most methods widely adopt the off-the-shelf Classification-Based Pre-training (CBP) to generate video features for action localization. However, the different optimization objectives between classification and localization, make temporally localized results suffer from the serious incomplete issue. To tackle this issue without additional annotations, this paper considers to distill free action knowledge from Vision-Language Pre-training (VLP), as we surprisingly observe that the localization results of vanilla VLP have an over-complete issue, which is just complementary to the CBP results. To fuse such complementarity, we propose a novel distillation-collaboration framework with two branches acting as CBP and VLP respectively. The framework is optimized through a dual-branch alternate training strategy. Specifically, during the B step, we distill the confident background pseudo-labels from the CBP branch; while during the F step, the confident foreground pseudo-labels are distilled from the VLP branch. As a result, the dual-branch complementarity is effectively fused to promote one strong alliance. Extensive experiments and ablation studies on THUMOS14 and ActivityNet1.2 reveal that our method significantly outperforms state-of-the-art methods.
 		</td>
 	</tr>
 	</table>
@@ -349,13 +348,7 @@
        <p><img class="center"  src="./image/result.PNG" width="800px"></p>
 	
 
-	<br><hr>
-	<center><h1>Dataset Splits</h1></center>
-	<p>We initiate several dataset splits for training and testing, under few-shot scenarios, please check <a href="https://github.com/ju-chen/Efficient-Prompt/tree/main/datasplits/">here</a> for details. </p>
 
-	
-	
-	
       <br>
       <hr>
       <center> <h1> Acknowledgements </h1> </center>
