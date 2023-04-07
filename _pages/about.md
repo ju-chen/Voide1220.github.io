@@ -68,7 +68,7 @@ arXiv preprint 2023
 Jinxiang Liu, **Chen Ju**, Weidi Xie and Ya Zhang         
 **ACM Multimedia 2022**   
 
-1. [Quadruple Constraint Learning for Partially-Supervised Temporal Sentence Grounding](https://arxiv.org/pdf/2302.09850.pdf)  \|    [[Project](https://ju-chen.github.io/efficient-prompt/)]  \|    [[Bibtex](./CITE/cite_partial.txt)]            
+1. [Quadruple Constraint Learning for Partially-Supervised Temporal Sentence Grounding](https://arxiv.org/pdf/2302.09850.pdf)  \|   [[Project](https://ju-chen.github.io/efficient-prompt/)]  \|    [[Bibtex](./CITE/cite_partial.txt)]            
 **Chen Ju**, Haicheng Wang, Jinxiang Liu, Chaofan Ma, Ya Zhang, Peisen Zhao, Jianlong Chang and Qi Tian          
 arXiv preprint 2023
 
@@ -79,7 +79,7 @@ arXiv preprint 2023
 **ICCV 2021** 
 
 1. [Bottom-Up Temporal Action Localization with
-Mutual Regularization](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530528.pdf) \| [[Code](https://github.com/PeisenZhao/Bottom-Up-TAL-with-MR)]  \|  [[Demo](https://voide1220.github.io/adapter/)]  \|  [[Bibtex](./CITE/cite_bottom.txt)]               
+Mutual Regularization](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530528.pdf) \| [[Demo](https://voide1220.github.io/adapter/)]  \|   [[Code](https://github.com/PeisenZhao/Bottom-Up-TAL-with-MR)]   \|  [[Bibtex](./CITE/cite_bottom.txt)]               
 Peisen Zhao, Lingxi Xie, **Chen Ju**, Ya Zhang, Yanfeng Wang and Qi Tian               
 **ECCV 2020** 
 
@@ -90,7 +90,7 @@ Weakly-Supervised Temporal Action Localization](https://ieeexplore.ieee.org/stam
 
 
 ### 📒 Topic: AIGC for Video Editing, Music Composition, and Conversation-Driven Visual Understanding
-1. [Adapting Diffusion Models Towards Unsupervised Object Discovery](https://arxiv.org/pdf/2303.09813.pdf)      \|  [[Bibtex](./CITE/cite_diffusion.txt)]                  
+1. [Adapting Diffusion Models Towards Unsupervised Object Discovery](https://arxiv.org/pdf/2303.09813.pdf)   \|  [[Bibtex](./CITE/cite_diffusion.txt)]                  
 Chaofan Ma, Yuhuan Yang, **Chen Ju**, Fei Zhang, Jinxiang Liu, Yu Wang, Ya Zhang and Yanfeng Wang             
 arXiv preprint 2023 
 
