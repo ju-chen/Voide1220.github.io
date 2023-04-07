@@ -181,28 +181,43 @@
                 </td>
                     <td align="center" width="160px">
               <center>
-                <span style="font-size:16px"><a href="https://scholar.google.com.hk/citations?user=hCr8Km8AAAAJ&hl=zh-CN">Peisen Zhao</a><sup>2</sup></span>
+                <span style="font-size:16px">Zeqian Li<sup>1</sup></span>
                 </center>
                 </td>
                     <td align="center" width="160px">
               <center>
-                <span style="font-size:16px"><a href="https://siheng-chen.github.io/">Siheng Chen</a><sup>1</sup></span>
+                <span style="font-size:16px"><a href="https://scholar.google.com.hk/citations?user=hCr8Km8AAAAJ&hl=zh-CN&oi=ao">Peisen Zhao</a><sup>2</sup></span>
                 </center>
+			    
                 </td>
                     <td align="center" width="160px">
 	            <center>
                 <span style="font-size:16px"><a href="https://mediabrain.sjtu.edu.cn/yazhang/">Ya Zhang</a><sup>1</sup></span>
                 </center>
-		            </td>
+
+                </td>
                     <td align="center" width="160px">	    
               <center>
-                <span style="font-size:16px"><a href="https://mediabrain.sjtu.edu.cn/members/">Yanfeng Wang</a><sup>1</sup></span>
-                </center>      
+                <span style="font-size:16px"><a href="https://scholar.google.com.hk/citations?user=Ud6aBAcAAAAJ&hl=zh-CN&oi=ao">Xiaopeng Zhang</a><sup>2</sup></span>
+                </center> 			    
+			    
                 </td>
                     <td align="center" width="160px">	    
               <center>
                 <span style="font-size:16px"><a href="https://scholar.google.com.hk/citations?user=61b6eYkAAAAJ&hl=zh-CN">Qi Tian</a><sup>2</sup></span>
-                </center>                      
+                </center> 
+			    
+		</td>
+                    <td align="center" width="160px">	    
+              <center>
+                <span style="font-size:16px"><a href="https://mediabrain.sjtu.edu.cn/members/">Yanfeng Wang</a><sup>1</sup></span>
+                </center>      
+			    
+                </td>
+                    <td align="center" width="160px">	    
+              <center>
+                <span style="font-size:16px"><a href="https://weidixie.github.io/">Weidi Xie</a><sup>1</sup></span>
+                </center>  			    
             </tr>
 
         </tbody></table><br>
@@ -247,7 +262,7 @@
                 <center>
                   <br>
                   <span style="font-size:20px">
-                    <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Ju_Divide_and_Conquer_for_Single-Frame_Temporal_Action_Localization_ICCV_2021_paper.pdf"> Paper </a>
+                    <a href="https://arxiv.org/pdf/2303.11732.pdf"> Paper </a>
                   </span>
                 </center>
               </td>
@@ -256,7 +271,7 @@
                 <center>
                   <br>
                   <span style="font-size:20px">
-                    <a href="./cite_divide.txt"> Bibtex </a>
+                    <a href="./cite_map.txt"> Bibtex </a>
                   </span>
                 </center>
               </td>
@@ -270,7 +285,7 @@
 	<center><h1>Abstract</h1></center>
 	<tr>
 		<td>
-			Single-frame temporal action localization (STAL) aims to localize actions in untrimmed videos with only one timestamp annotation for each action instance. Existing methods adopt the one-stage framework but couple the counting goal and the localization goal. This paper proposes a novel two-stage framework for the STAL task with the spirit of divide and conquer. The instance counting stage leverages the location supervision to determine the number of action instances and divide a whole video into multiple video clips, so that each video clip contains only one complete action instance; and the location estimation stage leverages the category supervision to localize the action instance in each video clip. To efficiently represent the action instance in each video clip, we introduce the proposal-based representation, and design a novel differentiable mask generator to enable the end-to-end training supervised by category labels. On THUMOS14, GTEA, and BEOID datasets, our method outperforms state-of-the-art methods by 3.5%, 2.7%, 4.8% mAP on average. And extensive experiments verify the effectiveness of our method.
+			In this paper, we consider the problem of temporal action localization under low-shot (zero-shot & few-shot) scenario, with the goal of detecting and classifying the action instances from arbitrary categories within some untrimmed videos, even not seen at training time. We adopt a Transformer-based two-stage action localization architecture with class-agnostic action proposal, followed by open-vocabulary classification. We make the following contributions. First, to compensate image-text foundation models with temporal motions, we improve category-agnostic action proposal by explicitly aligning embeddings of optical flows, RGB and texts, which has largely been ignored in existing lowshot methods. Second, to improve open-vocabulary action classification, we construct classifiers with strong discriminative power, i.e., avoid lexical ambiguities. To be specific, we propose to prompt the pre-trained CLIP text encoder either with detailed action descriptions (acquired from large-scale language models), or visuallyconditioned instance-specific prompt vectors. Third, we conduct thorough experiments and ablation studies on THUMOS14 and ActivityNet1.3, demonstrating the superior performance of our proposed model, outperforming existing state-of-the-art approaches by a significant margin.
 		</td>
 	</tr>
 	</table>
