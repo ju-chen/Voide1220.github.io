@@ -54,7 +54,7 @@ Please feel free to drop me an email for any suggestions or potential collaborat
 **Chen Ju**, Tengda Han, Kunhao Zheng, Ya Zhang and Weidi Xie  
 **ECCV 2022**  
 
-1. [Collaborating Vision-Language Pre-training with Weakly-Supervised Video Understanding](https://arxiv.org/pdf/2212.09335.pdf)  \|  [[Project & Code](https://voide1220.github.io/efficient-prompt/)]  \| [[Bibtex](./CITE/cite_distilling.txt)]                                 
+1. [Collaborating Vision-Language Pre-training with Weakly-Supervised Video Understanding](https://arxiv.org/pdf/2212.09335.pdf)  \|  [[Project & Code](https://voide1220.github.io/distillation_collaboration/)]  \| [[Bibtex](./CITE/cite_distilling.txt)]                                 
 **Chen Ju**, Kunhao Zheng, Jinxiang Liu, Peisen Zhao, Ya Zhang, Jianlong Chang, Qi Tian and Yanfeng Wang      
 **CVPR 2023** 
 
