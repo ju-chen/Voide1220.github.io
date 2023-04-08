@@ -317,6 +317,8 @@
 	</tr>
 	</table>
      
+	<center><h1>Distillation-Collaboration Framework</h1></center>
+
 	
       <br><hr>
       <br>
@@ -329,7 +331,7 @@
 	      </div>
         </center>
       </center>
-	
+	<p><b> It covers two parallel branches, named CBP and VLP, and is optimized by an alternating strategy. We warm up the CBP branch in advance. In B step, we freeze both CLIP encoders, and distill confident background pseudo-labels from the CBP branch, to train prompt vectors and temporal Transformer in the VLP branch. In F step, confident foreground pseudo-labels are distilled for the CBP branch. We utilize both knowledge distillation loss and contrastive loss during dual-branch collaboration. </b> </p>
 	
 
        <center><h1>Results</h1></center>
