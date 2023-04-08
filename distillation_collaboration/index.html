@@ -317,10 +317,9 @@
 	</tr>
 	</table>
      
-	<center><h1>Distillation-Collaboration Framework</h1></center>
-
 	
-      <br><hr>
+	<br><hr>
+	<center><h1>Distillation-Collaboration Framework</h1></center>
       <br>
         <center>
           <div class="container">
@@ -331,7 +330,7 @@
 	      </div>
         </center>
       </center>
-	<p><b> It covers two parallel branches, named CBP and VLP, and is optimized by an alternating strategy. We warm up the CBP branch in advance. In B step, we freeze both CLIP encoders, and distill confident background pseudo-labels from the CBP branch, to train prompt vectors and temporal Transformer in the VLP branch. In F step, confident foreground pseudo-labels are distilled for the CBP branch. We utilize both knowledge distillation loss and contrastive loss during dual-branch collaboration. </b> </p>
+	<p>Our distillation-collaboration framework contains two parallel branches, named CBP and VLP, and is optimized by an alternating strategy. We warm up the CBP branch in advance. In B step, we freeze both CLIP encoders, and distill confident background pseudo-labels from the CBP branch, to train prompt vectors and temporal Transformer in the VLP branch. In F step, confident foreground pseudo-labels are distilled for the CBP branch. We utilize both knowledge distillation loss and contrastive loss during dual-branch collaboration. </p>
 	
 
        <center><h1>Results</h1></center>
@@ -340,13 +339,13 @@
        <p><img class="center"  src="./image/ablations.png" width="800px"></p>
 
 
-       <p><b> Comparisons with SOTA on THUMOS14 </b> </p>
+       <center><h1>Comparisons with SOTA methods</h1></center>
        <p><img class="center"  src="./image/thumos.PNG" width="800px"></p>
-	
+	<p> For fair comparisons, we reproduce the results of SOTA methods: CO2-Net and DELU, by inputting both I3D and CLIP features. $\dag$ and $\ddag$ refer to averaging or concatenating these two features. AVG(0.1-0.5) and AVG(0.3-0.7) are the average mAP from IoU 0.1 to 0.5 and from IoU 0.3 to 0.7. Our framework significantly surpasses all weakly-supervised competitors using identical features, and is even comparable to early strongly-supervised methods.</p>
 
 	<p><b> Qualitative Detection Results </b> </p>
        <p><img class="center"  src="./image/result.png" width="800px"></p>
-	
+	<p>The first two rows are videos and ground-truth action intervals. The last six rows are frame-level action probabilities, and localization results of Classification-Based Pre-training (CBP), Vision-Language Pre-training (VLP), and our framework, respectively. CBP suffers from the incomplete issue, while VLP has the over-complete issue. Our framework distills foreground knowledge from VLP and background from CBP, for the strong collaborative alliance, thus bringing more complete and precise results. </p>
 
 
       <br>
