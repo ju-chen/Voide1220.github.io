@@ -68,7 +68,7 @@ arXiv preprint 2023
 Jinxiang Liu, **Chen Ju**, Weidi Xie and Ya Zhang         
 **ACM Multimedia 2022**   
 
-1. [Quadruple Constraint Learning for Partially-Supervised Temporal Sentence Grounding](https://arxiv.org/pdf/2302.09850.pdf)  \|   [[Project](https://ju-chen.github.io/efficient-prompt/)]  \|    [[Bibtex](./CITE/cite_partial.txt)]            
+1. [Quadruple Constraint Learning for Partially-Supervised Temporal Sentence Grounding](https://arxiv.org/pdf/2302.09850.pdf)  \|   [[Project & Code](https://ju-chen.github.io/constraint_union/)]  \|    [[Bibtex](./CITE/cite_partial.txt)]            
 **Chen Ju**, Haicheng Wang, Jinxiang Liu, Chaofan Ma, Ya Zhang, Peisen Zhao, Jianlong Chang and Qi Tian          
 arXiv preprint 2023
 
