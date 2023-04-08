@@ -1,0 +1,382 @@
+
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+  <!--
+  <script src="./resources/jsapi" type="text/javascript"></script>
+  <script type="text/javascript" async>google.load("jquery", "1.3.2");</script>
+ -->
+
+<style type="text/css">
+  @font-face {
+   font-family: 'Avenir Book';
+   src: url("./fonts/Avenir_Book.ttf"); /* File to be stored at your site */
+   }
+
+  body {
+    font-family: "Avenir Book", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-weight:300;
+    font-size:14px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+  }
+  h1 {
+    font-weight:300;
+  }
+  h2 {
+    font-weight:300;
+  }
+
+  p {
+    font-weight:300;
+    line-height: 1.4;
+  }
+
+  code {
+    font-size: 0.8rem;
+    margin: 0 0.2rem;
+    padding: 0.5rem 0.8rem;
+    white-space: nowrap;
+    background: #efefef;
+    border: 1px solid #d3d3d3;
+    color: #000000;
+    border-radius: 3px;
+  }
+
+  pre > code {
+    display: block;
+    white-space: pre;
+    line-height: 1.5;
+    padding: 0;
+    margin: 0;
+  }
+
+  pre.prettyprint > code {
+    border: none;
+  }
+
+
+  .container {
+        display: flex;
+        align-items: center;
+        justify-content: center
+  }
+  .image {
+        flex-basis: 40%
+  }
+  .text {
+        padding-left: 20px;
+        padding-right: 20px;
+  }
+
+  .disclaimerbox {
+    background-color: #eee;
+    border: 1px solid #eeeeee;
+    border-radius: 10px ;
+    -moz-border-radius: 10px ;
+    -webkit-border-radius: 10px ;
+    padding: 20px;
+  }
+
+  video.header-vid {
+    height: 140px;
+    border: 1px solid black;
+    border-radius: 10px ;
+    -moz-border-radius: 10px ;
+    -webkit-border-radius: 10px ;
+  }
+
+  img.header-img {
+    height: 140px;
+    border: 1px solid black;
+    border-radius: 10px ;
+    -moz-border-radius: 10px ;
+    -webkit-border-radius: 10px ;
+  }
+
+  img.rounded {
+    border: 0px solid #eeeeee;
+    border-radius: 10px ;
+    -moz-border-radius: 10px ;
+    -webkit-border-radius: 10px ;
+
+  }
+
+  a:link,a:visited
+  {
+    color: #1367a7;
+    text-decoration: none;
+  }
+  a:hover {
+    color: #208799;
+  }
+
+  td.dl-link {
+    height: 160px;
+    text-align: center;
+    font-size: 22px;
+  }
+
+  .layered-paper-big { /* modified from: http://css-tricks.com/snippets/css/layered-paper/ */
+    box-shadow:
+            0px 0px 1px 1px rgba(0,0,0,0.35), /* The top layer shadow */
+            5px 5px 0 0px #fff, /* The second layer */
+            5px 5px 1px 1px rgba(0,0,0,0.35), /* The second layer shadow */
+            10px 10px 0 0px #fff, /* The third layer */
+            10px 10px 1px 1px rgba(0,0,0,0.35), /* The third layer shadow */
+            15px 15px 0 0px #fff, /* The fourth layer */
+            15px 15px 1px 1px rgba(0,0,0,0.35), /* The fourth layer shadow */
+            20px 20px 0 0px #fff, /* The fifth layer */
+            20px 20px 1px 1px rgba(0,0,0,0.35), /* The fifth layer shadow */
+            25px 25px 0 0px #fff, /* The fifth layer */
+            25px 25px 1px 1px rgba(0,0,0,0.35); /* The fifth layer shadow */
+    margin-left: 10px;
+    margin-right: 45px;
+  }
+
+
+  .layered-paper { /* modified from: http://css-tricks.com/snippets/css/layered-paper/ */
+    box-shadow:
+            0px 0px 1px 1px rgba(0,0,0,0.35), /* The top layer shadow */
+            5px 5px 0 0px #fff, /* The second layer */
+            5px 5px 1px 1px rgba(0,0,0,0.35), /* The second layer shadow */
+            10px 10px 0 0px #fff, /* The third layer */
+            10px 10px 1px 1px rgba(0,0,0,0.35); /* The third layer shadow */
+    margin-top: 5px;
+    margin-left: 10px;
+    margin-right: 30px;
+    margin-bottom: 5px;
+  }
+
+  .vert-cent {
+    position: relative;
+      top: 50%;
+      transform: translateY(-50%);
+  }
+
+  hr
+  {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+  }
+</style>
+
+	<title>Constraint and Union for Partially-Supervised Temporal Sentence Grounding</title>
+</head>
+
+<body>
+	<br>
+	<center>
+	<span style="font-size:36px">Constraint and Union for Partially-Supervised Temporal Sentence Grounding</span><br><br><br>
+	</center>
+	
+	<table align="center" width="800px">
+            <tbody><tr>
+                    <td align="center" width="160px">
+              <center>
+                <span style="font-size:16px"><a href="https://voide1220.github.io/">Chen Ju</a><sup>1</sup></span>
+                </center>
+			    
+                </td>
+                    <td align="center" width="160px">
+              <center>
+                <span style="font-size:16px"><a href="https://scholar.google.com.hk/citations?user=x0Uk7S8AAAAJ&hl=zh-CN&oi=ao">Haicheng Wang</a><sup>1</sup></span>
+                </center>
+                </td>
+                    <td align="center" width="160px">
+              <center>
+                <span style="font-size:16px"><a href="https://scholar.google.com.hk/citations?user=wSRKaWIAAAAJ&hl=zh-CN&oi=ao">Jinxiang Liu</a><sup>2</sup></span>
+                </center>
+			    
+                </td>
+                    <td align="center" width="160px">
+	            <center>
+                <span style="font-size:16px"><a href="https://mediabrain.sjtu.edu.cn/members/">Chaofan Ma</a><sup>1</sup></span>
+                </center>		    
+                </tr>
+        </tbody></table><br>
+			    
+			    
+		
+	<table align="center" width="800px">	    
+                <tr>
+                    <td align="center" width="160px">	    
+              <center>
+                <span style="font-size:16px"><a href="https://mediabrain.sjtu.edu.cn/yazhang/">Ya Zhang</a><sup>2</sup></span>
+                </center> 				
+			
+		</td>
+                    <td align="center" width="160px">	    
+              <center>
+                <span style="font-size:16px"><a href="https://scholar.google.com.hk/citations?user=hCr8Km8AAAAJ&hl=zh-CN&oi=ao">Peisen Zhao</a><sup>2</sup></span>
+                </center> 
+			    
+		</td>
+                    <td align="center" width="160px">	    
+              <center>
+                <span style="font-size:16px"><a href="https://scholar.google.com.hk/citations?user=RDwnNsQAAAAJ&hl=zh-CN">Jianlong Chang</a><sup>1</sup></span>
+                </center>      
+			    
+                </td>
+                    <td align="center" width="160px">	    
+              <center>
+                <span style="font-size:16px"><a href="https://scholar.google.com.hk/citations?user=61b6eYkAAAAJ&hl=zh-CN">Qi Tian</a><sup>1</sup></span>
+                </center>  			    
+            </tr>
+
+        </tbody></table><br>
+	
+	
+	
+	  <table align="center" width="700px">
+         <tbody><tr>
+                    <td align="center" width="50px">
+              <center>
+                    <span style="font-size:16px"></span>
+                </center>
+                </td>
+                    <td align="center" width="300px">
+              <center>
+                    <span style="font-size:16px"><sup>1</sup>CMIC, Shanghai Jiao Tong University</span>
+                </center>
+
+			    
+                </td>
+                    <td align="center" width="300px">
+              <center>
+                    <span style="font-size:16px"><sup>2</sup>Huawei Cloud & AI</span>
+                </center>
+                </td>
+        </tr></tbody>
+	</table>
+	
+			<br>
+			<table align=center width=500px>
+				<tr>
+					<td align=center width=500px>
+						<center>
+							<span style="font-size:22px">
+								<span style="font-size:20px">Preprint</span>
+							</span>
+						</center>
+					</td>
+				</tr>
+			</table>	
+	
+
+      <br><hr>
+	<table align="center" width="700px">
+            <tbody><tr>
+              <td align="center" width="200px">
+                <center>
+                  <br>
+                  <span style="font-size:20px">
+                    <a href="https://github.com/ju-chen/Efficient-Prompt"> Code </a>
+                  </span>
+                </center>
+              </td>
+
+              <td align="center" width="200px">
+                <center>
+                  <br>
+                  <span style="font-size:20px">
+                    <a href="https://arxiv.org/pdf/2302.09850.pdf"> Paper </a>
+                  </span>
+                </center>
+              </td>
+
+              <td align="center" width="200px">
+                <center>
+                  <br>
+                  <span style="font-size:20px">
+                    <a href="./cite_partial.txt"> Bibtex </a>
+                  </span>
+                </center>
+              </td>
+            </tr></tbody>
+      </table>
+
+
+      <br><hr>
+	<center><h1>Teaser</h1></center>
+      <br>
+        <center>
+          <div class="container">
+	    <div class="row">
+	      <center>
+	        <img src="./image/intro.PNG" alt="alt text" style="width: 100%; object-fit: cover; max-width:100%;"></a>
+	      </center>
+		  
+	      </div>
+        </center>
+      </center>
+	<p>Left: Existing methods add prompt tuning and temporal layer to foundation models. Middle: The main challenge is lexical ambiguities in vanilla category names. To disambiguate text-based category names, we decompose actions by prompting large language models for various action attribute descriptions. For cases where it may be difficult to give comprehensive detail descriptions, we further propose vision-conditional prompting to learn from input videos. Right: Our overall framework.</p>
+	
+
+      <br><hr>
+        <table align=center width=850px>
+	<center><h1>Abstract</h1></center>
+	<tr>
+		<td>
+			In this paper, we consider the problem of temporal action localization under low-shot (zero-shot & few-shot) scenario, with the goal of detecting and classifying the action instances from arbitrary categories within some untrimmed videos, even not seen at training time. We adopt a Transformer-based two-stage action localization architecture with class-agnostic action proposal, followed by open-vocabulary classification. We make the following contributions. First, to compensate image-text foundation models with temporal motions, we improve category-agnostic action proposal by explicitly aligning embeddings of optical flows, RGB and texts, which has largely been ignored in existing lowshot methods. Second, to improve open-vocabulary action classification, we construct classifiers with strong discriminative power, i.e., avoid lexical ambiguities. To be specific, we propose to prompt the pre-trained CLIP text encoder either with detailed action descriptions (acquired from large-scale language models), or visuallyconditioned instance-specific prompt vectors. Third, we conduct thorough experiments and ablation studies on THUMOS14 and ActivityNet1.3, demonstrating the superior performance of our model, significantly outperforming existing state-of-the-art methods.
+		</td>
+	</tr>
+	</table>
+     
+	
+      <br><hr>
+	<center><h1>Framework Overview</h1></center>
+      <br>
+        <center>
+          <div class="container">
+	    <div class="row">
+	      <center>
+	        <img src="./image/frame.PNG" alt="alt text" style="width: 100%; object-fit: cover; max-width:100%;"></a>
+	      </center>
+	      
+	      </div>
+        </center>
+      </center>
+	<p>Given one input video, we first encode RGB and Flow for appearance and motion embeddings, then localize category-agnostic action proposals (detect actionness and regress boundary). For open-vocabulary classification, we design (A) text-based classifiers using attribute descriptions from Large Language Models, and (B) vision-based classifiers using (RGB & Flow)-conditional prompt tuning. Finally, the RGB-Flow-Text modalities are aligned for low-shot TAL.</p>
+	<br><hr>
+
+
+	<center><h1>Ablation Studies</h1></center>
+        <p><img class="center"  src="./image/ablations.png" width="800px"></p>
+
+
+	<center><h1>Zero-shot Temporal Action localization</h1></center>
+        <p><img class="center"  src="./image/zeroshot.PNG" width="800px"></p>
+	<p>Comparison with state-of-the-art methods. AVG is the average mAP in [0.3:0.1:0.7] on THUMOS14, and [0.5:0.05:0.95] on ActivityNet1.3. Using only RGB, our method has outperformed all zero-shot studies by a large margin. By adding Flow, our method is given explicit motion inputs to be comparable with early closed-set methods.</p>
+	
+        <center><h1>Few-shot Temporal Action localization</h1></center>
+        <p><img class="center"  src="./image/fewshot.PNG" width="800px"></p>
+	<p>Comparison with state-of-the-art methods. We retrain and report few-shot results of E-Prompt with their released codes. Although only several support samples are given for novel categories, few-shot scenarios obtain considerable gains over zero-shot scenarios. Flow can further boost the RGB performance on both datasets. </p>
+	
+	<center><h1>Qualitative Detection Results</h1></center>
+        <p><img class="center"  src="./image/result.PNG" width="800px"></p>
+	<p>Qualitative zero-shot results on THUMOS14. For various videos from novel categories, our method all outputs good detection results, although action number and action duration vary frequently. Single RGB sometimes has large deviations, or even omits action instances. By bringing motion details, Flow could further correct or complete the RGB results. </p>
+
+	<br><hr>
+	<center><h1>Dataset Splits</h1></center>
+	<p>Under the few-shot scenario, we initiate several dataset splits for training and testing, please check <a href="https://github.com/ju-chen/Efficient-Prompt/tree/main/datasplits/">here</a> for more details. </p>
+
+	
+	
+	
+      <br>
+      <hr>
+      <center> <h1> Acknowledgements </h1> </center>
+	<p>
+		This research is supported by the National Key R&D Program of China (No. 2022ZD0160702), STCSM (No. 22511106101, No. 18DZ2270700, No. 21DZ1100100), 111 plan (No. BP0719010), and State Key Laboratory of UHD Video and Audio Production and Presentation. Weidi Xie would like to acknowledge the generous support of Yimeng Long and Yike Xie.
+	</p>
+  
+      <br>
+
+
+<br>
+</body>
+</html>
