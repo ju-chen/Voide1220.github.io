@@ -1,0 +1,6 @@
+@article{ju2023constraint,
+  title={Constraint and Union for Partially-Supervised Temporal Sentence Grounding},
+  author={Ju, Chen and Wang, Haicheng and Liu, Jinxiang and Ma, Chaofan and Zhang, Ya and Zhao, Peisen and Chang, Jianlong and Tian, Qi},
+  journal={arXiv preprint arXiv:2302.09850},
+  year={2023}
+}
