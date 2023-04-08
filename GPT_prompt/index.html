@@ -326,6 +326,7 @@
 	      <center>
 	        <img src="./image/frame.PNG" alt="alt text" style="width: 100%; object-fit: cover; max-width:100%;"></a>
 	      </center>
+	      <p>Given one input video, we first encode RGB and Flow for appearance and motion embeddings, then localize category-agnostic action proposals (detect actionness and regress boundary). For open-vocabulary classification, we design (A) text-based classifiers using attribute descriptions from Large Language Models, and (B) vision-based classifiers using (RGB & Flow)-conditional prompt tuning. Finally, the RGB-Flow-Text modalities are aligned for low-shot TAL.</p>
 	      </div>
         </center>
       </center>
@@ -334,8 +335,8 @@
 
        <center><h1>Results</h1></center>
 
-       <p><center><b> Ablation Studies </b></center></p>
-       <p><img class="center"  src="./image/ablations.png" width="800px"></p>
+        <p><center><b> Ablation Studies </b></center></p>
+        <p><img class="center"  src="./image/ablations.png" width="800px"></p>
 
 
         <p><center><b> Zero-shot Temporal Action localization </b></center></p>
