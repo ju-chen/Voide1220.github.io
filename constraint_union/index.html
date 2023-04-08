@@ -313,15 +313,14 @@
 	      </div>
         </center>
       </center>
-	<p>Left: Existing methods add prompt tuning and temporal layer to foundation models. Middle: The main challenge is lexical ambiguities in vanilla category names. To disambiguate text-based category names, we decompose actions by prompting large language models for various action attribute descriptions. For cases where it may be difficult to give comprehensive detail descriptions, we further propose vision-conditional prompting to learn from input videos. Right: Our overall framework.</p>
-	
+	<p> Performance vs. Annotation Costs. For temporal sentence grounding, full supervision achieves good performance, but requires expensive annotation; weak supervision significantly alleviates annotation costs, but shows poor performance. To achieve great empirical performance and maintain cheap annotation overhead at the same time, we introduce the intermediate setting: partial supervision, including short-clip or even single-frame labels. </p>
 
       <br><hr>
         <table align=center width=850px>
 	<center><h1>Abstract</h1></center>
 	<tr>
 		<td>
-			In this paper, we consider the problem of temporal action localization under low-shot (zero-shot & few-shot) scenario, with the goal of detecting and classifying the action instances from arbitrary categories within some untrimmed videos, even not seen at training time. We adopt a Transformer-based two-stage action localization architecture with class-agnostic action proposal, followed by open-vocabulary classification. We make the following contributions. First, to compensate image-text foundation models with temporal motions, we improve category-agnostic action proposal by explicitly aligning embeddings of optical flows, RGB and texts, which has largely been ignored in existing lowshot methods. Second, to improve open-vocabulary action classification, we construct classifiers with strong discriminative power, i.e., avoid lexical ambiguities. To be specific, we propose to prompt the pre-trained CLIP text encoder either with detailed action descriptions (acquired from large-scale language models), or visuallyconditioned instance-specific prompt vectors. Third, we conduct thorough experiments and ablation studies on THUMOS14 and ActivityNet1.3, demonstrating the superior performance of our model, significantly outperforming existing state-of-the-art methods.
+		     Temporal sentence grounding aims to detect the event timestamps described by the natural language query from given untrimmed videos. The existing fully-supervised setting achieves great performance but requires expensive annotation costs; while the weakly-supervised setting adopts cheap labels but performs poorly. To pursue high performance with less annotation cost, this paper introduces an intermediate partially-supervised setting, i.e., only short-clip or even single-frame labels are available during training. To take full advantage of partial labels, we propose a novel quadruple constraint pipeline to comprehensively shape event-query aligned representations, covering intra- and inter-samples, uni- and multi-modalities. The former raises intra-cluster compactness and inter-cluster separability; while the latter enables event-background separation and event-query gather. To achieve more powerful performance with explicit grounding optimization, we further introduce a partial-full union framework, i.e., bridging with an additional fully-supervised branch, to enjoy its impressive grounding bonus, and be robust to partial annotations. Extensive experiments and ablations on Charades-STA and ActivityNet Captions demonstrate the significance of partial supervision and our superior performance.
 		</td>
 	</tr>
 	</table>
@@ -340,38 +339,34 @@
 	      </div>
         </center>
       </center>
-	<p>Given one input video, we first encode RGB and Flow for appearance and motion embeddings, then localize category-agnostic action proposals (detect actionness and regress boundary). For open-vocabulary classification, we design (A) text-based classifiers using attribute descriptions from Large Language Models, and (B) vision-based classifiers using (RGB & Flow)-conditional prompt tuning. Finally, the RGB-Flow-Text modalities are aligned for low-shot TAL.</p>
-	<br><hr>
+	<p> Given partial labels, we use one partially-supervised branch to facilitate high-quality alignment of event-query representations, i.e., interact bi-modal features, adopt an event detector to calculate event visual features and background features, finally optimize with the constraint loss and partial grounding loss. Bridging by grounding pseudo-labels, we further unite the partially-supervised branch with a powerful fully-supervised branch, to enjoy the grounding bonus from fully-supervised research lines. </p>
+       <br><hr>
 
 
 	<center><h1>Ablation Studies</h1></center>
         <p><img class="center"  src="./image/ablations.png" width="800px"></p>
 
+	<center><h1>Comparison with SOTA Methods</h1></center>
+        <p><img class="center"  src="./image/sota.PNG" width="800px"></p>
+	<p> Using single-frame labels, our method outperforms most competitors by a large margin. The performance can be further improved with short-clip labels (2 seconds), and even comparable to several earlier fully-supervised methods. </p>
 
-	<center><h1>Zero-shot Temporal Action localization</h1></center>
-        <p><img class="center"  src="./image/zeroshot.PNG" width="800px"></p>
-	<p>Comparison with state-of-the-art methods. AVG is the average mAP in [0.3:0.1:0.7] on THUMOS14, and [0.5:0.05:0.95] on ActivityNet1.3. Using only RGB, our method has outperformed all zero-shot studies by a large margin. By adding Flow, our method is given explicit motion inputs to be comparable with early closed-set methods.</p>
-	
-        <center><h1>Few-shot Temporal Action localization</h1></center>
-        <p><img class="center"  src="./image/fewshot.PNG" width="800px"></p>
-	<p>Comparison with state-of-the-art methods. We retrain and report few-shot results of E-Prompt with their released codes. Although only several support samples are given for novel categories, few-shot scenarios obtain considerable gains over zero-shot scenarios. Flow can further boost the RGB performance on both datasets. </p>
-	
-	<center><h1>Qualitative Detection Results</h1></center>
-        <p><img class="center"  src="./image/result.PNG" width="800px"></p>
-	<p>Qualitative zero-shot results on THUMOS14. For various videos from novel categories, our method all outputs good detection results, although action number and action duration vary frequently. Single RGB sometimes has large deviations, or even omits action instances. By bringing motion details, Flow could further correct or complete the RGB results. </p>
+        <center><h1>Effectiveness of Partial Annotations.</h1></center>
+        <p><img class="center"  src="./image/partial.PNG" width="800px"></p>
+	<p> Weak refers to not using the partial grounding loss $\mathcal{L}_{\mathrm{grnd}}$. For single-frame or short-clip labels from various types of labeling distributions, our framework demonstrates strong robustness and superiority. </p>	
 
-	<br><hr>
-	<center><h1>Dataset Splits</h1></center>
-	<p>Under the few-shot scenario, we initiate several dataset splits for training and testing, please check <a href="https://github.com/ju-chen/Efficient-Prompt/tree/main/datasplits/">here</a> for more details. </p>
+	<center><h1>Qualitative Grounding Results</h1></center>
+        <p><img class="center"  src="./image/grounding.PNG" width="800px"></p>
+	<p> Using partial labels as seed anchors, our method obtains great pseudo-labels from the partially-supervised branch. Short-clip labels further improve single-frame results. </p>
 
-	
-	
-	
+	<center><h1>T-SNE Representation</h1></center>
+        <p><img class="center"  src="./image/tsne.PNG" width="800px"></p>
+	<p> Left are original video features from pre-trained extractors. Right are video features with quadruple constraint pipeline. Colors indicate different clusters. </p>
+
       <br>
       <hr>
       <center> <h1> Acknowledgements </h1> </center>
 	<p>
-		This research is supported by the National Key R&D Program of China (No. 2022ZD0160702), STCSM (No. 22511106101, No. 18DZ2270700, No. 21DZ1100100), 111 plan (No. BP0719010), and State Key Laboratory of UHD Video and Audio Production and Presentation. Weidi Xie would like to acknowledge the generous support of Yimeng Long and Yike Xie.
+		This research is supported by the National Key R&D Program of China (No. 2022ZD0160702), STCSM (No. 22511106101, No. 18DZ2270700, No. 21DZ1100100), 111 plan (No. BP0719010), and State Key Laboratory of UHD Video and Audio Production and Presentation.
 	</p>
   
       <br>
