@@ -20,7 +20,7 @@ Currently, I closely collaborate with some outstanding researchers from PanGu La
 As a young researcher, your interest and kind citation will definitely mean a lot for me and my collaborators.
 
 <p> <b>Email:</b> ju_chen[at]sjtu[dot]edu[dot]cn / cju[dot]void[at]gmail[dot]com         &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;             
-<b> Google Scholar:</b> citations 215+, H-index 5 </p>  
+<b> Google Scholar:</b> citations 220+, H-index 5 </p>  
 
 
 
