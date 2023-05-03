@@ -20,7 +20,7 @@ Currently, I closely collaborate with some outstanding researchers from PanGu La
 As a young researcher, your interest and kind citation will definitely mean a lot for me and my collaborators.
 
 <p> <b>Email:</b> ju_chen[at]sjtu[dot]edu[dot]cn / cju[dot]void[at]gmail[dot]com         &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;             
-<b> Google Scholar:</b> citations 225+, H-index 5 </p>  
+<b> Google Scholar:</b> citations 227+, H-index 5 </p>  
 
 
 
@@ -58,9 +58,9 @@ Please feel free to drop me an email for any suggestions or potential collaborat
 **Chen Ju**, Kunhao Zheng, Jinxiang Liu, Peisen Zhao, Ya Zhang, Jianlong Chang, Qi Tian and Yanfeng Wang      
 **CVPR 2023** 
 
-1. [Multi-modal GPT Prompts for Open-Vocabulary Video Understanding](https://arxiv.org/pdf/2212.09335.pdf)   \|   [[Project & Code](https://voide1220.github.io/GPT_prompt/)]  \| [[Bibtex](./CITE/cite_map.txt)]                                                        
+1. [Multi-modal GPT Prompts for Open-Vocabulary Video Understanding](https://arxiv.org/pdf/2303.11732.pdf)   \|   [[Project & Code](https://voide1220.github.io/GPT_prompt/)]  \| [[Bibtex](./CITE/cite_map.txt)]                                                        
 **Chen Ju**, Zeqian Li, Peisen Zhao, Ya Zhang, Xiaopeng Zhang, Qi Tian, Yanfeng Wang and Weidi Xie     
-arXiv preprint 2023
+**IJCV 2023**
 
 
 ### 📒 Topic: Vision-Language-Audio Foundation Pre-trainings with Strong Generalization but Low Costs
@@ -115,7 +115,7 @@ Ya Zhang, **<u>Chen Ju</u>**, Yanfeng Wang.
 
 # 📖 Educations
 - *2018.09 - Now*, PhD candidate, Shanghai Jiao Tong University, Shanghai, China
-- *2014.09 - 2018.06*, Undergraduate, University Of Electronic Science And Technology Of China, Chengdu, China
+- *2014.09 - 2018.06*, Undergraduate, University of Electronic Science and Technology of China, Chengdu, China
 
 
 
