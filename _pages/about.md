@@ -40,7 +40,7 @@ My primary research interests lie in
 
 - Vision-Language-Audio Multi-modal Learning, Foundation Pre-training, Efficient Unification and Adaptation for Downstream Tasks.
 
-- AIGC：Video & Music Generation/Editing, Conversation-Driven Visual Understanding and Composition.
+- AIGC：Video & Music Generation and Editing, Conversation-Driven Visual Understanding and Composition.
 
 - Video Understanding: Retrieval & Caption & Summary for Trimmed Video Clips, Detection & Classification for Untrimmed Long Videos.
 
