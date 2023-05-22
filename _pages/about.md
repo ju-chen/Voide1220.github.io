@@ -72,6 +72,11 @@ Jinxiang Liu, **Chen Ju**, Weidi Xie and Ya Zhang
 **Chen Ju**, Haicheng Wang, Jinxiang Liu, Chaofan Ma, Ya Zhang, Peisen Zhao, Jianlong Chang and Qi Tian          
 arXiv preprint 2023
 
+1. [Annotation-free Audio-Visual Segmentation](https://arxiv.org/pdf/2305.11019.pdf)  \|     [[Bibtex](./CITE/cite_aavs.txt)]            
+Jinxiang Liu, Yu Wang, **Chen Ju**, Chaofan Ma, Ya Zhang, Weidi Xie       
+arXiv preprint 2023
+
+
 
 ### 📒 Topic: Freeze Pre-trainings, Downstream Video Understanding with Limited Annotation & Supervision
 1. [Divide and Conquer for Single-frame Temporal Action Localization](https://openaccess.thecvf.com/content/ICCV2021/papers/Ju_Divide_and_Conquer_for_Single-Frame_Temporal_Action_Localization_ICCV_2021_paper.pdf)  \|  [[Project & Demo](https://voide1220.github.io/divide_conquer/)]   \|  [[Bibtex](./CITE/cite_divide.txt)]             
