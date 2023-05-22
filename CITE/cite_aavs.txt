@@ -1,0 +1,6 @@
+@article{liu2023annotation,
+  title={Annotation-free Audio-Visual Segmentation},
+  author={Liu, Jinxiang and Wang, Yu and Ju, Chen and Ma, Chaofan and Zhang, Ya and Xie, Weidi},
+  journal={arXiv preprint arXiv:2305.11019},
+  year={2023}
+}
