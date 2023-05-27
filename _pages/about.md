@@ -102,7 +102,7 @@ arXiv preprint 2023
 
 
 # 🗞️ Academic Services
-- PC Member & Reviewer: ICCV 2023, ACM MM 2023, CVPR 2023, AAAI 2023, ECCV 2022
+- PC Member & Reviewer: ICCV 2023, ACM MM 2023, CVPR 2023, AAAI 2023, ECCV 2022, IEEE T-MM
 
 
 
