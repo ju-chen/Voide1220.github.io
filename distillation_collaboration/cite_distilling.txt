@@ -1,6 +1,7 @@
-@InProceedings{ju2022distilling,
+@inproceedings{ju2023distilling,
   title={Distilling Vision-Language Pre-training to Collaborate with Weakly-Supervised Temporal Action Localization},
-  author={Ju, Chen and Zheng, Kunhao and Liu, Jinxiang and Zhao, Peisen and Zhang, Ya and Chang, Jianlong and Wang, Yanfeng and Tian, Qi},
-  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  author={Ju, Chen and Zheng, Kunhao and Liu, Jinxiang and Zhao, Peisen and Zhang, Ya and Chang, Jianlong and Tian, Qi and Wang, Yanfeng},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={14751--14762},
   year={2023}
 }
