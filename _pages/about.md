@@ -60,7 +60,7 @@ Please feel free to drop me an email for any suggestions or potential collaborat
 
 1. [Multi-modal GPT Prompts for Open-Vocabulary Video Understanding](https://arxiv.org/pdf/2303.11732.pdf)   \|   [[Project & Code](https://voide1220.github.io/GPT_prompt/)]  \| [[Bibtex](./CITE/cite_map.txt)]                                                        
 **Chen Ju**, Zeqian Li, Peisen Zhao, Ya Zhang, Xiaopeng Zhang, Qi Tian, Yanfeng Wang and Weidi Xie     
-**IJCV 2023**
+**Springer IJCV**
 
 
 ### 📒 Topic: Vision-Language-Audio Foundation Pre-trainings with Strong Generalization but Low Costs
