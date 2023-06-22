@@ -14,8 +14,7 @@ Hello! I’m Chen Ju (鞠陈).
 
 I'm a PhD candidate at <a href="https://mediabrain.sjtu.edu.cn/">MediaBrain Group</a>, Shanghai Jiao Tong University, advised by <a href="https://mediabrain.sjtu.edu.cn/yazhang/">Prof. Ya Zhang</a>, <a href="https://weidixie.github.io/">Prof. Weidi Xie</a> and <a href="https://siheng-chen.github.io/">Prof. Siheng Chen</a>.  
 
-Currently, I collaborate closely with some outstanding researchers from PanGu Large Model Team (盘古大模型), Huawei Cloud BU:   &emsp; &emsp; &emsp; 
-<a href="https://scholar.google.com/citations?user=61b6eYkAAAAJ">Prof. Qi Tian</a>, <a href="https://scholar.google.com/citations?user=EEMm7hwAAAAJ&hl=zh-CN&oi=ao">Dr. Lingxi Xie</a>, <a href="https://scholar.google.com.hk/citations?user=Ud6aBAcAAAAJ&hl=zh-CN&oi=ao">Dr. Xiaopeng Zhang</a>, <a href="https://scholar.google.com.hk/citations?user=RDwnNsQAAAAJ&hl=zh-CN&oi=ao">Dr. Jianlong Chang</a>, and <a href="https://scholar.google.com.hk/citations?user=hCr8Km8AAAAJ&hl=zh-CN&oi=ao">Dr. Peisen Zhao</a>.
+Currently, I collaborate closely with some outstanding researchers from PanGu Large Model Team (盘古大模型), Huawei Cloud BU:   &emsp; &emsp; &emsp; &emsp; <a href="https://scholar.google.com/citations?user=61b6eYkAAAAJ">Prof. Qi Tian</a>, <a href="https://scholar.google.com/citations?user=EEMm7hwAAAAJ&hl=zh-CN&oi=ao">Dr. Lingxi Xie</a>, <a href="https://scholar.google.com.hk/citations?user=Ud6aBAcAAAAJ&hl=zh-CN&oi=ao">Dr. Xiaopeng Zhang</a>, <a href="https://scholar.google.com.hk/citations?user=RDwnNsQAAAAJ&hl=zh-CN&oi=ao">Dr. Jianlong Chang</a>, and <a href="https://scholar.google.com.hk/citations?user=hCr8Km8AAAAJ&hl=zh-CN&oi=ao">Dr. Peisen Zhao</a>.
 
 
 I also collaborate closely with some outstanding researchers from Large-scale Multi-modality Searching Team at TaoBao (拍立淘), Alibaba Group:
