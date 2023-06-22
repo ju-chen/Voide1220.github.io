@@ -19,7 +19,7 @@ Currently, I collaborate closely with some outstanding researchers from PanGu La
 
 
 I also collaborate closely with some excellent researchers from Large-scale Multi-modality Searching Team at TaoBao (拍立淘), Alibaba Group:
-<a href="https://scholar.google.com.hk/citations?user=78vU1IUAAAAJ&hl=zh-CN&oi=ao">Dr. Weilin Huang</a>, <a href="https://scholar.google.com.hk/citations?user=qBTDCawAAAAJ&hl=zh-CN&oi=ao">Dr. Shuai Xiao</a>, and <a href="https://scholar.google.com.hk/citations?user=6Qa2JCwAAAAJ&hl=zh-CN">Dr. Xu Chen Chang</a>.
+<a href="https://scholar.google.com.hk/citations?user=78vU1IUAAAAJ&hl=zh-CN&oi=ao">Dr. Weilin Huang</a>, <a href="https://scholar.google.com.hk/citations?user=qBTDCawAAAAJ&hl=zh-CN&oi=ao">Dr. Shuai Xiao</a>, and <a href="https://scholar.google.com.hk/citations?user=6Qa2JCwAAAAJ&hl=zh-CN">Dr. Xu Chen</a>.
 
 
 As a young researcher, your interest and kind citation will definitely mean a lot for me and my collaborators.
@@ -31,9 +31,10 @@ As a young researcher, your interest and kind citation will definitely mean a lo
 
 
 # 🔥 News
+- [*2023*] ![new paper](/images/new.gif) Our new work, [Adapting Diffusion Models Towards Unsupervised Object Discovery](https://arxiv.org/pdf/2303.09813.pdf) is out!
 - [*2023*] ![new paper](/images/new.gif) Our new work, [Multi-modal GPT Prompting for vision-language foundation models](https://arxiv.org/pdf/2303.11732.pdf) is out!
 - [*2023*] ![new paper](/images/new.gif) Our new work, [Collaborative Distillation so that multiple foundation pre-trainings complement each other](https://arxiv.org/pdf/2212.09335.pdf) is out!
-- [*2023*] ![new paper](/images/new.gif) Our new work, [Partial Supervision with Quadruple Constraints for cost-effective vision-language pre-training](https://arxiv.org/pdf/2302.09850.pdf) is out!
+- [*2023*] ![new paper] Our new work, [Partial Supervision with Quadruple Constraints for cost-effective vision-language pre-training](https://arxiv.org/pdf/2302.09850.pdf) is out!
 - [*2023*] One paper is accepted to CVPR 2023, about effective collaboration of multiple foundation models.
 - [*2022*] One paper is accepted to ECCV 2022, about efficient adaptation for vision-language foundation models.  
 - [*2022*] One paper is accepted to ACM Multimedia 2022, about cost-effective pre-training for video-audio foundation models.     
