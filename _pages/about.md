@@ -14,13 +14,18 @@ Hello! I’m Chen Ju (鞠陈).
 
 I'm a PhD candidate at <a href="https://mediabrain.sjtu.edu.cn/">MediaBrain Group</a>, Shanghai Jiao Tong University, advised by <a href="https://mediabrain.sjtu.edu.cn/yazhang/">Prof. Ya Zhang</a>, <a href="https://weidixie.github.io/">Prof. Weidi Xie</a> and <a href="https://siheng-chen.github.io/">Prof. Siheng Chen</a>.  
 
-Currently, I closely collaborate with some outstanding researchers from PanGu Large Model Team (盘古大模型), Huawei Cloud BU: 
+Currently, I collaborate closely with some outstanding researchers from PanGu Large Model Team (盘古大模型), Huawei Cloud BU: 
 <a href="https://scholar.google.com/citations?user=61b6eYkAAAAJ">Prof. Qi Tian</a>, <a href="https://scholar.google.com/citations?user=EEMm7hwAAAAJ&hl=zh-CN&oi=ao">Dr. Lingxi Xie</a>, <a href="https://scholar.google.com.hk/citations?user=Ud6aBAcAAAAJ&hl=zh-CN&oi=ao">Dr. Xiaopeng Zhang</a>, <a href="https://scholar.google.com.hk/citations?user=RDwnNsQAAAAJ&hl=zh-CN&oi=ao">Dr. Jianlong Chang</a>, and <a href="https://scholar.google.com.hk/citations?user=hCr8Km8AAAAJ&hl=zh-CN&oi=ao">Dr. Peisen Zhao</a>.
+
+
+I also work closely with some excellent researchers from Large-scale Multi-modality Searching Team at Taobao (拍立淘), Alibaba Group:
+<a href="https://scholar.google.com.hk/citations?user=78vU1IUAAAAJ&hl=zh-CN&oi=ao">Dr. Weilin Huang</a>, <a href="https://scholar.google.com.hk/citations?user=qBTDCawAAAAJ&hl=zh-CN&oi=ao">Dr. Shuai Xiao</a>, and <a href="https://scholar.google.com.hk/citations?user=6Qa2JCwAAAAJ&hl=zh-CN">Dr. Xu Chen Chang</a>.
+
 
 As a young researcher, your interest and kind citation will definitely mean a lot for me and my collaborators.
 
 <p> <b>Email:</b> ju_chen[at]sjtu[dot]edu[dot]cn / cju[dot]void[at]gmail[dot]com         &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;             
-<b> Google Scholar:</b> citations 270+, H-index 5 </p>  
+<b> Google Scholar:</b> citations 275+, H-index 5 </p>  
 
 
 
