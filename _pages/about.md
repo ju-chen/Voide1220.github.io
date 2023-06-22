@@ -17,7 +17,7 @@ I'm a PhD candidate at <a href="https://mediabrain.sjtu.edu.cn/">MediaBrain Grou
 Currently, I collaborate closely with some outstanding researchers from PanGu Large Model Team (盘古大模型), Huawei Cloud BU:   &emsp; &emsp; &emsp; &emsp; <a href="https://scholar.google.com/citations?user=61b6eYkAAAAJ">Prof. Qi Tian</a>, <a href="https://scholar.google.com/citations?user=EEMm7hwAAAAJ&hl=zh-CN&oi=ao">Dr. Lingxi Xie</a>, <a href="https://scholar.google.com.hk/citations?user=Ud6aBAcAAAAJ&hl=zh-CN&oi=ao">Dr. Xiaopeng Zhang</a>, <a href="https://scholar.google.com.hk/citations?user=RDwnNsQAAAAJ&hl=zh-CN&oi=ao">Dr. Jianlong Chang</a>, and <a href="https://scholar.google.com.hk/citations?user=hCr8Km8AAAAJ&hl=zh-CN&oi=ao">Dr. Peisen Zhao</a>.
 
 
-I also collaborate closely with some outstanding researchers from Large-scale Multi-modality Searching Team at Taobao (拍立淘), Alibaba Group:
+I also work closely with some outstanding researchers from Large-scale Multi-modality Searching Team at Taobao (拍立淘), Alibaba Group:    &emsp;  &emsp;
 <a href="https://scholar.google.com.hk/citations?user=78vU1IUAAAAJ&hl=zh-CN&oi=ao">Dr. Weilin Huang</a>, <a href="https://scholar.google.com.hk/citations?user=qBTDCawAAAAJ&hl=zh-CN&oi=ao">Dr. Shuai Xiao</a>, and <a href="https://scholar.google.com.hk/citations?user=6Qa2JCwAAAAJ&hl=zh-CN">Dr. Xu Chen</a>.
 
 
