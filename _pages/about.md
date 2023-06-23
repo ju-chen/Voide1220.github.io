@@ -29,10 +29,10 @@ As a young researcher, your interest and kind citation will definitely mean a lo
 
 
 # 🔥 News
-- [*2023*] ![new paper](/images/new.gif) Our new work, [Distilling Fine-grained Priors from Stable Diffusion for unsupervised object discovery](https://arxiv.org/pdf/2303.09813.pdf) is out!
-- [*2023*] ![new paper](/images/new.gif) Our new work, [Multi-modal GPT Prompting for vision-language foundation models](https://arxiv.org/pdf/2303.11732.pdf) is out!
-- [*2023*] ![new paper](/images/new.gif) Our new work, [Collaborative Distillation so that multiple foundation pre-trainings complement each other](https://arxiv.org/pdf/2212.09335.pdf) is out!
-- [*2023*] Our work, [Partial Supervision with Quadruple Constraints for cost-effective vision-language pre-training](https://arxiv.org/pdf/2302.09850.pdf) is out!
+- [*2023*] ![new paper](/images/new.gif) Our new work, [distilling fine-grained priors from stable diffusion for unsupervised object discovery](https://arxiv.org/pdf/2303.09813.pdf) is out!
+- [*2023*] ![new paper](/images/new.gif) Our new work, [multi-modal GPT prompting for vision-language foundation models](https://arxiv.org/pdf/2303.11732.pdf) is out!
+- [*2023*] ![new paper](/images/new.gif) Our new work, [collaborative distillation so that multiple foundation pre-trainings complement each other](https://arxiv.org/pdf/2212.09335.pdf) is out!
+- [*2023*] Our work, [partial supervision with quadruple contrasts for cost-effective vision-language pre-training](https://arxiv.org/pdf/2302.09850.pdf) is out!
 - [*2023*] One paper is accepted to CVPR 2023, about effective collaboration of multiple foundation models.
 - [*2022*] One paper is accepted to ECCV 2022, about efficient adaptation for vision-language foundation models.  
 - [*2022*] One paper is accepted to ACM Multimedia 2022, about cost-effective pre-training for video-audio foundation models.     
