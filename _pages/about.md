@@ -102,7 +102,9 @@ Weakly-Supervised Temporal Action Localization](https://ieeexplore.ieee.org/stam
 Chaofan Ma, Yuhuan Yang, **Chen Ju**, Fei Zhang, Jinxiang Liu, Yu Wang, Ya Zhang and Yanfeng Wang             
 arXiv preprint 2023 
 
-
+1. [Open-Vocabulary Visual Understanding via GPT Attribute Decomposition-Aggregation](https://arxiv.org/pdf/2303.09813.pdf)   \|  [[Bibtex](./CITE/cite_attribute.txt)]                  
+Chaofan Ma, **Chen Ju**, Yuhuan Yang, Fei Zhang, Ya Zhang, Weidi Xie and Yanfeng Wang             
+arXiv preprint 2023 
 
 # 🗞️ Academic Services
 - PC Member & Reviewer: ICCV 2023, CVPR 2023, ACM MM 2023, AAAI 2023, ECCV 2022, IEEE T-MM
