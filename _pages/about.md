@@ -76,7 +76,7 @@ Jinxiang Liu, **Chen Ju**, Weidi Xie and Ya Zhang
 arXiv preprint 2023
 
 1. [SAM Guided Annotation-free Audio-Visual Segmentation](https://arxiv.org/pdf/2305.11019.pdf)  \|     [[Bibtex](./CITE/cite_aavs.txt)]            
-Jinxiang Liu, Yu Wang, **Chen Ju**, Chaofan Ma, Ya Zhang, Weidi Xie       
+Jinxiang Liu, **Chen Ju**, Yu Wang, Chaofan Ma, Ya Zhang, Weidi Xie       
 arXiv preprint 2023
 
 
