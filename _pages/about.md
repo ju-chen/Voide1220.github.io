@@ -75,7 +75,7 @@ Jinxiang Liu, **Chen Ju**, Weidi Xie and Ya Zhang
 **Chen Ju**, Haicheng Wang, Jinxiang Liu, Chaofan Ma, Ya Zhang, Peisen Zhao, Jianlong Chang and Qi Tian          
 arXiv preprint 2023
 
-1. [Annotation-free Audio-Visual Segmentation](https://arxiv.org/pdf/2305.11019.pdf)  \|     [[Bibtex](./CITE/cite_aavs.txt)]            
+1. [SAM Guided Annotation-free Audio-Visual Segmentation](https://arxiv.org/pdf/2305.11019.pdf)  \|     [[Bibtex](./CITE/cite_aavs.txt)]            
 Jinxiang Liu, Yu Wang, **Chen Ju**, Chaofan Ma, Ya Zhang, Weidi Xie       
 arXiv preprint 2023
 
@@ -102,7 +102,7 @@ Weakly-Supervised Temporal Action Localization](https://ieeexplore.ieee.org/stam
 Chaofan Ma, Yuhuan Yang, **Chen Ju**, Fei Zhang, Jinxiang Liu, Yu Wang, Ya Zhang and Yanfeng Wang             
 arXiv preprint 2023 
 
-1. [Open-Vocabulary Visual Understanding via GPT Attribute Decomposition-Aggregation](https://arxiv.org/pdf/2303.09813.pdf)   \|  [[Bibtex](./CITE/cite_attribute.txt)]                  
+1. [Open-Vocabulary Visual Understanding via LLM Attribute Decomposition-Aggregation](https://arxiv.org/pdf/2303.09813.pdf)   \|  [[Bibtex](./CITE/cite_attribute.txt)]                  
 Chaofan Ma, **Chen Ju**, Yuhuan Yang, Fei Zhang, Ya Zhang, Weidi Xie and Yanfeng Wang             
 arXiv preprint 2023 
 
