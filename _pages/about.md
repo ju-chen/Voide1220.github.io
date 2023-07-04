@@ -106,6 +106,12 @@ arXiv preprint 2023
 Chaofan Ma, **Chen Ju**, Yuhuan Yang, Fei Zhang, Ya Zhang, Weidi Xie and Yanfeng Wang             
 arXiv preprint 2023 
 
+1. [Multi-Modal Prototypes for Open-Set Semantic Segmentation](https://arxiv.org/pdf/2303.09813.pdf)   \|  [[Bibtex](./CITE/cite_prototype.txt)]                  
+Yuhuan Yang, **Chen Ju**, Chaofan Ma, Ya Zhang and Yanfeng Wang             
+arXiv preprint 2023 
+
+
+
 # 🗞️ Academic Services
 - PC Member & Reviewer: ICCV 2023, CVPR 2023, ACM MM 2023, AAAI 2023, ECCV 2022, IEEE T-MM
 
