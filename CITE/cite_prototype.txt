@@ -1,6 +1,6 @@
 @article{yang2023multi,
   title={Multi-Modal Prototypes for Open-Set Semantic Segmentation},
   author={Yang, Yuhuan and Ma, Chaofan and Ju, Chen and Zhang, Ya and Wang, Yanfeng},
-  journal={arXiv preprint arXiv:2303.09813},
+  journal={arXiv preprint arXiv:2307.02003},
   year={2023}
 }
