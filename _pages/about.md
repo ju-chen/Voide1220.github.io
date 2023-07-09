@@ -102,9 +102,6 @@ Weakly-Supervised Temporal Action Localization](https://ieeexplore.ieee.org/stam
 Chaofan Ma, Yuhuan Yang, **Chen Ju**, Fei Zhang, Jinxiang Liu, Yu Wang, Ya Zhang and Yanfeng Wang             
 arXiv preprint 2023 
 
-1. [Open-Vocabulary Visual Understanding via LLM Attribute Decomposition-Aggregation](https://arxiv.org/pdf/2303.09813.pdf)   \|  [[Bibtex](./CITE/cite_attribute.txt)]                  
-Chaofan Ma, **Chen Ju**, Yuhuan Yang, Fei Zhang, Ya Zhang, Weidi Xie and Yanfeng Wang             
-arXiv preprint 2023 
 
 1. [Multi-Modal Prototypes for Open-Set Semantic Segmentation](https://arxiv.org/pdf/2307.02003.pdf)   \|  [[Bibtex](./CITE/cite_prototype.txt)]                  
 Yuhuan Yang, Chaofan Ma, **Chen Ju**, Ya Zhang and Yanfeng Wang             
