@@ -22,7 +22,7 @@ I also collaborate closely with some outstanding researchers from Alibaba Group:
 As a young researcher, your interest and kind citation will definitely mean a lot for me and my collaborators.
 
 <p> <b>Email:</b> ju_chen[at]sjtu[dot]edu[dot]cn / cju[dot]void[at]gmail[dot]com         &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;             
-<b> Google Scholar:</b> Citations 300+, H-index 5 </p>  
+<b> Google Scholar:</b> Citations 300+, H-index 6 </p>  
 
 
 
@@ -32,6 +32,7 @@ As a young researcher, your interest and kind citation will definitely mean a lo
 - [*2023.04*] ![new paper](/images/new.gif) Our new work, [multi-modal GPT prompting for vision-language foundation models](https://arxiv.org/pdf/2303.11732.pdf) is out!
 - [*2023.03*] ![new paper](/images/new.gif) Our new work, [collaborative distillation so that multiple foundation pre-trainings complement each other](https://arxiv.org/pdf/2212.09335.pdf) is out!
 - [*2023.02*] Our work, [partial supervision with quadruple contrasts for cost-effective vision-language pre-training](https://arxiv.org/pdf/2302.09850.pdf) is out!
+- [*2023*] One paper is accepted to ICCV 2023, about finer visual understanding from multiple diffusion models.
 - [*2023*] One paper is accepted to CVPR 2023, about effective collaboration of multiple foundation models.
 - [*2022*] One paper is accepted to ECCV 2022, about efficient adaptation for vision-language foundation models.  
 - [*2022*] One paper is accepted to ACM Multimedia 2022, about cost-effective pre-training for video-audio foundation models.     
@@ -98,8 +99,8 @@ Weakly-Supervised Temporal Action Localization](https://ieeexplore.ieee.org/stam
 
 ### 📒 Topic: AIGC for Video Editing, Music Composition, and Conversation-Driven Visual Understanding
 1. [Adapting Diffusion Models Towards Unsupervised Object Discovery](https://arxiv.org/pdf/2303.09813.pdf)   \|  [[Bibtex](./CITE/cite_diffusion.txt)]                  
-Chaofan Ma, Yuhuan Yang, **Chen Ju**, Fei Zhang, Jinxiang Liu, Yu Wang, Ya Zhang and Yanfeng Wang             
-arXiv preprint 2023 
+Chaofan Ma, Yuhuan Yang, **Chen Ju**, Fei Zhang, Jinxiang Liu, Yu Wang, Ya Zhang and Yanfeng Wang
+**ICCV 2023** 
 
 
 1. [Multi-Modal Prototypes for Open-Set Semantic Segmentation](https://arxiv.org/pdf/2307.02003.pdf)   \|  [[Bibtex](./CITE/cite_prototype.txt)]                  
