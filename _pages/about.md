@@ -100,7 +100,7 @@ Weakly-Supervised Temporal Action Localization](https://ieeexplore.ieee.org/stam
 ### 📒 Topic: AIGC for Video Editing, Music Composition, and Conversation-Driven Visual Understanding
 1. [Adapting Diffusion Models Towards Unsupervised Object Discovery](https://arxiv.org/pdf/2303.09813.pdf)   \|  [[Bibtex](./CITE/cite_diffusion.txt)]                  
 Chaofan Ma, Yuhuan Yang, **Chen Ju**, Fei Zhang, Jinxiang Liu, Yu Wang, Ya Zhang and Yanfeng Wang                  
-**ICCV 2023** 
+arXiv preprint 2023
 
 
 1. [Multi-Modal Prototypes for Open-Set Semantic Segmentation](https://arxiv.org/pdf/2307.02003.pdf)   \|  [[Bibtex](./CITE/cite_prototype.txt)]                  
@@ -110,7 +110,7 @@ arXiv preprint 2023
 
 
 # 🗞️ Academic Services
-- PC Member & Reviewer: ICCV 2023, CVPR 2023, ACM MM 2023, AAAI 2023, ECCV 2022, IEEE T-MM
+- PC Member & Reviewer: AAAI 2024, ICCV 2023, CVPR 2023, ACM MM 2023, AAAI 2023, ECCV 2022, IEEE T-MM
 
 
 
