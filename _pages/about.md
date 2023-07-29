@@ -22,7 +22,7 @@ I also collaborate closely with some outstanding researchers from Alibaba Group:
 As a young researcher, your interest and kind citation will definitely mean a lot for me and my collaborators.
 
 <p> <b>Email:</b> ju_chen[at]sjtu[dot]edu[dot]cn / cju[dot]void[at]gmail[dot]com         &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;             
-<b> Google Scholar:</b> Citations 310+, H-index 6 </p>  
+<b> Google Scholar:</b> Citations 320+, H-index 6 </p>  
 
 
 
@@ -79,11 +79,6 @@ arXiv preprint 2023
 Jinxiang Liu, **Chen Ju**, Yu Wang, Ya Zhang, Weidi Xie       
 arXiv preprint 2023
 
-1. [Audio-aware Query-enhanced Transformer for Audio-Visual Segmentation](https://arxiv.org/abs/2307.13236.pdf)   \|    [[Project & Code](https://jinxiang-liu.github.io/anno-free-AVS/)]  \|     [[Bibtex](./CITE/cite_aqt.txt)]              
-Jinxiang Liu, **Chen Ju**, Chaofan Ma, Yanfeng Wang, Yu Wang, Ya Zhang    
-arXiv preprint 2023
-
-
 
 ### 📒 Topic: Freeze Pre-trainings, Downstream Video Understanding with Limited Annotation & Supervision
 1. [Divide and Conquer for Single-frame Temporal Action Localization](https://openaccess.thecvf.com/content/ICCV2021/papers/Ju_Divide_and_Conquer_for_Single-Frame_Temporal_Action_Localization_ICCV_2021_paper.pdf)  \|  [[Project & Demo](https://voide1220.github.io/divide_conquer/)]   \|  [[Bibtex](./CITE/cite_divide.txt)]             
@@ -100,16 +95,23 @@ Weakly-Supervised Temporal Action Localization](https://ieeexplore.ieee.org/stam
 **Chen Ju**, Peisen Zhao, Siheng Chen, Ya Zhang, Xiaoyun Zhang and Qi Tian               
 **IEEE Transactions on Multimedia** 
 
+1. [Audio-aware Query-enhanced Transformer for Audio-Visual Segmentation](https://arxiv.org/abs/2307.13236.pdf)   \|    [[Project & Code](https://jinxiang-liu.github.io/anno-free-AVS/)]  \|     [[Bibtex](./CITE/cite_aqt.txt)]              
+Jinxiang Liu, **Chen Ju**, Chaofan Ma, Yanfeng Wang, Yu Wang, Ya Zhang    
+arXiv preprint 2023
+
 
 ### 📒 Topic: AIGC for Video Editing, Music Composition, and Conversation-Driven Visual Understanding
 1. [Adapting Diffusion Models Towards Unsupervised Object Discovery](https://arxiv.org/pdf/2303.09813.pdf)   \|  [[Bibtex](./CITE/cite_diffusion.txt)]                  
 Chaofan Ma, Yuhuan Yang, **Chen Ju**, Fei Zhang, Jinxiang Liu, Yu Wang, Ya Zhang and Yanfeng Wang                  
 arXiv preprint 2023
 
-
 1. [Multi-Modal Prototypes for Open-Set Semantic Segmentation](https://arxiv.org/pdf/2307.02003.pdf)   \|  [[Bibtex](./CITE/cite_prototype.txt)]                  
 Yuhuan Yang, Chaofan Ma, **Chen Ju**, Ya Zhang and Yanfeng Wang             
 arXiv preprint 2023 
+
+
+### 📒 Topic: Training & Inference Turbo Acceleration for Vision-Language-Audio Cross-Modal Understanding & Generation
+ToDo
 
 
 
