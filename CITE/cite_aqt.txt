@@ -1,0 +1,6 @@
+@article{liu2023audio,
+  title={Audio-aware Query-enhanced Transformer for Audio-Visual Segmentation},
+  author={Liu, Jinxiang and Ju, Chen and Ma, Chaofan and Wang, Yanfeng and Wang, Yu and Zhang, Ya},
+  journal={arXiv preprint arXiv:2307.13236},
+  year={2023}
+}
