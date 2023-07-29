@@ -41,7 +41,7 @@ As a young researcher, your interest and kind citation will definitely mean a lo
 # 💻 Researches
 My primary research interests lie in 
 
-- Vision-Language-Audio Multi-modal Learning, Foundation Pre-training, Efficient Unification and Adaptation for Downstream Tasks.
+- Vision-Language-Audio Multi-modal Learning, Foundation Pre-training, Efficient Adaptation, Accelerate Deployment for Downstream Tasks.
 
 - AIGC：Video or Music Generation and Editing, Conversation-Driven Multi-modal Understanding and Composition.
 
@@ -67,7 +67,7 @@ Please feel free to drop me an email for any suggestions or potential collaborat
 
 
 ### 📒 Topic: Vision-Language-Audio Foundation Pre-trainings with Strong Generalization but Low Costs
-1. [Transformation Invariance and Equivariance for Self-supervised Sound Localization](https://arxiv.org/pdf/2206.12772.pdf)  \| [[Project & Demo](https://jinxiang-liu.github.io/SSL-TIE/)]  \|  [[Code](https://github.com/jinxiang-liu/SSL-TIE)]  \| [[Bibtex](./CITE/cite_audio.txt)]                                                           
+1. [Transformation Invariance and Equivariance for Self-supervised Sound Localization](https://arxiv.org/pdf/2206.12772.pdf)  \| [[Project & Demo](https://jinxiang-liu.github.io/SSL-TIE/)] \| [[Code](https://github.com/jinxiang-liu/SSL-TIE)] \| [[Bibtex](./CITE/cite_audio.txt)]                              
 Jinxiang Liu, **Chen Ju**, Weidi Xie and Ya Zhang         
 **ACM Multimedia 2022**   
 
@@ -95,22 +95,23 @@ Weakly-Supervised Temporal Action Localization](https://ieeexplore.ieee.org/stam
 **Chen Ju**, Peisen Zhao, Siheng Chen, Ya Zhang, Xiaoyun Zhang and Qi Tian               
 **IEEE Transactions on Multimedia** 
 
-1. [Audio-aware Query-enhanced Transformer for Audio-Visual Segmentation](https://arxiv.org/abs/2307.13236.pdf)   \|    [[Project & Code](https://jinxiang-liu.github.io/anno-free-AVS/)]  \|     [[Bibtex](./CITE/cite_aqt.txt)]              
+1. [Audio-Aware Query-Enhanced Transformer for Audio-Visual Segmentation](https://arxiv.org/abs/2307.13236.pdf)   \|    [[Project & Code](https://jinxiang-liu.github.io/anno-free-AVS/)]  \|  [[Bibtex](./CITE/cite_aqt.txt)]              
 Jinxiang Liu, **Chen Ju**, Chaofan Ma, Yanfeng Wang, Yu Wang, Ya Zhang    
 arXiv preprint 2023
 
 
 ### 📒 Topic: AIGC for Video Editing, Music Composition, and Conversation-Driven Visual Understanding
-1. [Adapting Diffusion Models Towards Unsupervised Object Discovery](https://arxiv.org/pdf/2303.09813.pdf)   \|  [[Bibtex](./CITE/cite_diffusion.txt)]                  
+1. [Adapting Diffusion Models Towards Unsupervised Object Discovery](https://arxiv.org/pdf/2303.09813.pdf) \| [[Bibtex](./CITE/cite_diffusion.txt)]               
 Chaofan Ma, Yuhuan Yang, **Chen Ju**, Fei Zhang, Jinxiang Liu, Yu Wang, Ya Zhang and Yanfeng Wang                  
 arXiv preprint 2023
 
-1. [Multi-Modal Prototypes for Open-Set Semantic Segmentation](https://arxiv.org/pdf/2307.02003.pdf)   \|  [[Bibtex](./CITE/cite_prototype.txt)]                  
+1. [Multi-Modal Prototypes for Open-Set Semantic Segmentation](https://arxiv.org/pdf/2307.02003.pdf) \| [[Bibtex](./CITE/cite_prototype.txt)]                  
 Yuhuan Yang, Chaofan Ma, **Chen Ju**, Ya Zhang and Yanfeng Wang             
 arXiv preprint 2023 
 
 
-### 📒 Topic: Training & Inference Turbo Acceleration for Vision-Language-Audio Cross-Modal Understanding & Generation
+
+### 📒 Topic: Training & Inference Turbo Acceleration for Vision-Language-Audio Understanding & Generation
 ToDo
 
 
