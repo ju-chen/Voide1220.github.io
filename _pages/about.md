@@ -41,7 +41,7 @@ As a young researcher, your interest and kind citation will definitely mean a lo
 # 💻 Researches
 My primary research interests lie in 
 
-- Vision-Language-Audio Multi-modal Learning, Foundation Pre-training, Efficient Adaptation, Accelerate Deployment for Downstream Tasks.
+- Vision-Language-Audio Learning, Multi-Modal Pre-training, Efficient Adaptation, Accelerate Deployment for Downstream Tasks.
 
 - AIGC：Video or Music Generation and Editing, Conversation-Driven Multi-modal Understanding and Composition.
 
