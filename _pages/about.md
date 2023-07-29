@@ -112,7 +112,7 @@ arXiv preprint 2023
 
 
 ### 📒 Topic: Training & Inference Turbo Acceleration for Vision-Language-Audio Understanding & Generation
-ToDo
+1. ToDo
 
 
 
