@@ -76,8 +76,8 @@ Jinxiang Liu, **Chen Ju**, Weidi Xie and Ya Zhang
 arXiv preprint 2023
 
 1. [SAM Guided Annotation-free Audio-Visual Cross-modal Segmentation](https://arxiv.org/pdf/2305.11019.pdf)   \|    [[Project & Code](https://jinxiang-liu.github.io/anno-free-AVS/)]  \|     [[Bibtex](./CITE/cite_aavs.txt)]            
-Jinxiang Liu, **Chen Ju**, Yu Wang, Ya Zhang, Weidi Xie       
-arXiv preprint 2023
+Jinxiang Liu, Yu Wang, **Chen Ju**, Chaofan Ma, Ya Zhang, Weidi Xie       
+**WACV 2021** 
 
 
 ### 📒 Topic: Freeze Pre-trainings, Downstream Video Understanding with Limited Annotation & Supervision
@@ -96,7 +96,7 @@ Weakly-Supervised Temporal Action Localization](https://ieeexplore.ieee.org/stam
 **IEEE Transactions on Multimedia** 
 
 1. [Audio-Aware Query-Enhanced Transformer for Audio-Visual Segmentation](https://arxiv.org/abs/2307.13236.pdf)   \|    [[Project & Code](https://jinxiang-liu.github.io/anno-free-AVS/)]  \|  [[Bibtex](./CITE/cite_aqt.txt)]              
-Jinxiang Liu, **Chen Ju**, Chaofan Ma, Yanfeng Wang, Yu Wang, Ya Zhang    
+Jinxiang Liu, **Chen Ju**, Chaofan Ma, Yu Wang, Ya Zhang    
 arXiv preprint 2023
 
 
