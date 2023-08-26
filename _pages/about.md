@@ -19,6 +19,8 @@ Currently, I collaborate closely with some outstanding researchers from PanGu La
 I also collaborate closely with some outstanding researchers from Alibaba Group: <a href="https://scholar.google.com.hk/citations?user=78vU1IUAAAAJ&hl=zh-CN&oi=ao">Dr. Weilin Huang</a>, <a href="https://scholar.google.com.hk/citations?user=qBTDCawAAAAJ&hl=zh-CN&oi=ao">Dr. Shuai Xiao</a>, and <a href="https://scholar.google.com.hk/citations?user=6Qa2JCwAAAAJ&hl=zh-CN">Dr. Xu Chen</a>.
 
 
+
+
 As a young researcher, your interest and kind citation will definitely mean a lot for me and my collaborators.
 
 <p> <b>Email:</b> ju_chen[at]sjtu[dot]edu[dot]cn / cju[dot]void[at]gmail[dot]com         &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;             
@@ -32,10 +34,10 @@ As a young researcher, your interest and kind citation will definitely mean a lo
 - [*2023.04*] ![new paper](/images/new.gif) Our new work, [multi-modal GPT prompting for vision-language foundation models](https://arxiv.org/pdf/2303.11732.pdf) is out!
 - [*2023.03*] ![new paper](/images/new.gif) Our new work, [collaborative distillation so that multiple foundation pre-trainings complement each other](https://arxiv.org/pdf/2212.09335.pdf) is out!
 - [*2023.02*] Our work, [partial supervision with quadruple contrasts for cost-effective vision-language pre-training](https://arxiv.org/pdf/2302.09850.pdf) is out!
-- [*2023*] One paper is accepted to ICCV 2023, about finer visual understanding from multiple diffusion models.
-- [*2023*] One paper is accepted to CVPR 2023, about effective collaboration of multiple foundation models.
-- [*2022*] One paper is accepted to ECCV 2022, about efficient adaptation for vision-language foundation models.  
-- [*2022*] One paper is accepted to ACM Multimedia 2022, about cost-effective pre-training for video-audio foundation models.     
+- One paper is accepted to ICCV 2023, about finer visual understanding from multiple diffusion models.
+- One paper is accepted to CVPR 2023, about effective collaboration of multiple foundation models.
+- One paper is accepted to ECCV 2022, about efficient adaptation for vision-language foundation models.  
+- One paper is accepted to ACM Multimedia 2022, about cost-effective pre-training for video-audio foundation models.     
 
 
 # 💻 Researches
@@ -118,7 +120,7 @@ arXiv preprint 2023
 
 
 # 🗞️ Academic Services
-- PC Member & Reviewer: AAAI 2024, ICCV 2023, CVPR 2023, ACM MM 2023, AAAI 2023, ECCV 2022, IEEE T-MM
+- PC Member & Reviewer: AAAI 2024, WACV 2024, ICCV 2023, CVPR 2023, ACM MM 2023, AAAI 2023, ECCV 2022, IEEE T-MM
 
 
 
