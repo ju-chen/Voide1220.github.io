@@ -134,6 +134,8 @@ arXiv preprint 2023
 <a href="https://scholar.google.com.hk/citations?user=6bTGGDAAAAAJ&hl=zh-CN&oi=ao">Mosha Chen</a>, Alibaba;  &emsp;
 <a href="https://mileistone.github.io/">Yichao Xiong</a>, ByteDance;  &emsp;
 <a href="https://yangxue0827.github.io/">Xue Yang</a>, OpenGVLab;  &emsp;
+<a href="https://scholar.google.com.hk/citations?user=Qkx2FKoAAAAJ&hl=zh-CN&oi=ao">Maosen Li</a>, Huawei;  &emsp;
+<a href="https://phellonchen.github.io/">Feilong Chen</a>, Huawei;  &emsp;
 <a href="https://scholar.google.com.hk/citations?user=pXAf0agAAAAJ&hl=zh-CN&oi=ao">Jin Luo</a>, PKU;  &emsp;
 <a href="https://scholar.google.com.hk/citations?user=pXAf0agAAAAJ&hl=zh-CN&oi=ao">Shousheng Han</a>, THU;  &emsp;
 <a href="https://scholar.google.com.hk/citations?user=hQJ5hwMAAAAJ&hl=zh-CN&oi=ao">Qinwei Xu</a>, Ruijin;  &emsp;
