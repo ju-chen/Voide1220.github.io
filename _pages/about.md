@@ -122,13 +122,16 @@ arXiv preprint 2023
 
 
 
-
 # 🗞️ Academic Communication
 - PC Member & Reviewer: AAAI 2024, WACV 2024, ICCV 2023, CVPR 2023, ACM MM 2023, AAAI 2023, ECCV 2022, IEEE T-MM
 
-I am fortunate to work with many amazing people: 
-<a href="https://tengdahan.github.io/">Tengda Han</a>, VGG, Oxford.  &emsp;
+- I am fortunate to meet many amazing people: 
+<a href="https://tengdahan.github.io/">Tengda Han</a>, Oxford.  &emsp;
 <a href="https://dyekuu.github.io/">Kunhao Zheng</a>, Meta.  &emsp;
+<a href="https://mileistone.github.io/">Yichao Xiong</a>, ByteDance.  &emsp;
+<a href="https://yangxue0827.github.io/">Xue Yang</a>, OpenGVLab.  &emsp;
+<a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=GRcH3nAAAAAJ">Yucheng Liu</a>, Huawei.  &emsp;
+<a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=Xv9DcdEAAAAJ">Yangheng Zhao</a>, NVIDIA.  &emsp;
 
 
 
