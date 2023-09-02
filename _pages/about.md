@@ -18,8 +18,7 @@ Currently, I collaborate closely with some outstanding researchers from PanGu La
 
 I also collaborate closely with some outstanding researchers from Alibaba Group: <a href="https://scholar.google.com.hk/citations?user=78vU1IUAAAAJ&hl=zh-CN&oi=ao">Dr. Weilin Huang</a>, <a href="https://scholar.google.com.hk/citations?user=qBTDCawAAAAJ&hl=zh-CN&oi=ao">Dr. Shuai Xiao</a>, and <a href="https://scholar.google.com.hk/citations?user=6Qa2JCwAAAAJ&hl=zh-CN">Dr. Xu Chen</a>.
 
-
-
+I will collaborate closely with some outstanding researchers from WXG, Tencent Group: <a href="https://scholar.google.com.hk/citations?user=dHBNmSkAAAAJ&hl=zh-CN&oi=ao">Dr. Yizhou Zhou</a>
 
 As a young researcher, your interest and kind citation will definitely mean a lot for me and my collaborators.
 
@@ -29,7 +28,7 @@ As a young researcher, your interest and kind citation will definitely mean a lo
 
 
 # 🔥 News
-- [*2023.09*] ![new paper](/images/new.gif) Our new work, [Diversified semantics' attributes via LLMs for open-set visual system](https://arxiv.org/pdf/2307.02003.pdf) is out!
+- [*2023.09*] ![new paper](/images/new.gif) Our new work, [diversifying semantics' attributes via LLMs for open-set visual system](https://arxiv.org/pdf/2307.02003.pdf) is out!
 - [*2023.07*] ![new paper](/images/new.gif) Our new work, [aligning LLMs' remarkable semantics for multi-modal understanding system](https://arxiv.org/pdf/2307.02003.pdf) is out!
 - [*2023.05*] ![new paper](/images/new.gif) Our new work, [distilling fine-grained priors from stable diffusion for unsupervised object discovery](https://arxiv.org/pdf/2303.09813.pdf) is out!
 - [*2023.04*] Our work, [multi-modal GPT prompting for vision-language foundation models](https://arxiv.org/pdf/2303.11732.pdf) is out!
@@ -105,13 +104,16 @@ arXiv preprint 2023
 
 ### 📒 Topic: AIGC for Video Editing, Music Composition, and Conversation-Driven Visual Understanding
 1. [Adapting Diffusion Models Towards Unsupervised Object Discovery](https://arxiv.org/pdf/2303.09813.pdf) \| [[Bibtex](./CITE/cite_diffusion.txt)]               
-Chaofan Ma, Yuhuan Yang, **Chen Ju**, Fei Zhang, Jinxiang Liu, Yu Wang, Ya Zhang and Yanfeng Wang                  
+Chaofan Ma, Yuhuan Yang, **Chen Ju**, Fei Zhang, Jinxiang Liu, Yu Wang, Ya Zhang and Yanfeng Wang                 
 arXiv preprint 2023
 
 1. [Multi-Modal Prototypes for Open-Set Semantic Segmentation](https://arxiv.org/pdf/2307.02003.pdf) \| [[Bibtex](./CITE/cite_prototype.txt)]                  
 Yuhuan Yang, Chaofan Ma, **Chen Ju**, Ya Zhang and Yanfeng Wang             
 arXiv preprint 2023 
 
+1. [Open-Vocabulary Semantic Segmentation via Attribute Decomposition-Aggregation](https://arxiv.org/pdf/2307.02003.pdf) \| [[Bibtex](./CITE/cite_prototype.txt)]                  
+Chaofan Ma, **Chen Ju**, Yuhuan Yang, Ya Zhang and Yanfeng Wang             
+arXiv preprint 2023 
 
 
 ### 📒 Topic: Training & Inference Turbo Acceleration for Vision-Language-Audio Understanding & Generation
