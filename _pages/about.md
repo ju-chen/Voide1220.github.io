@@ -141,6 +141,7 @@ arXiv preprint 2023
 <a href="https://scholar.google.com.hk/citations?user=hQJ5hwMAAAAJ&hl=zh-CN&oi=ao">Qinwei Xu</a>, Ruijin;  &emsp;
 <a href="https://scholar.google.com.hk/citations?user=BAZSE7wAAAAJ&hl=zh-CN&oi=ao">Chaoqin Huang</a>, SJTU;  &emsp;
 <a href="https://scholar.google.com.hk/citations?user=XBbwb78AAAAJ&hl=zh-CN&oi=ao">Yue Hu</a>, SJTU;  &emsp;
+<a href="https://scholar.google.com.hk/citations?user=d7r3NGQAAAAJ&hl=zh-CN&oi=ao">Yujie Pan</a>, Intel;  &emsp;
 <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=GRcH3nAAAAAJ">Yucheng Liu</a>, Huawei;  &emsp;
 <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=Xv9DcdEAAAAJ">Yangheng Zhao</a>, NVIDIA. 
 
