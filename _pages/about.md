@@ -16,9 +16,8 @@ I'm a PhD candidate at <a href="https://mediabrain.sjtu.edu.cn/">MediaBrain Grou
 
 Currently, I collaborate closely with some outstanding researchers from PanGu Large Model Team (盘古大模型), Huawei Cloud BU:   &emsp; &emsp; &emsp; &emsp; <a href="https://scholar.google.com/citations?user=61b6eYkAAAAJ">Prof. Qi Tian</a>, <a href="https://scholar.google.com/citations?user=EEMm7hwAAAAJ&hl=zh-CN&oi=ao">Dr. Lingxi Xie</a>, <a href="https://scholar.google.com.hk/citations?user=Ud6aBAcAAAAJ&hl=zh-CN&oi=ao">Dr. Xiaopeng Zhang</a>, <a href="https://scholar.google.com.hk/citations?user=RDwnNsQAAAAJ&hl=zh-CN&oi=ao">Dr. Jianlong Chang</a>, and <a href="https://scholar.google.com.hk/citations?user=hCr8Km8AAAAJ&hl=zh-CN&oi=ao">Dr. Peisen Zhao</a>.
 
-I also collaborate closely with some outstanding researchers from Alibaba Group: <a href="https://scholar.google.com.hk/citations?user=78vU1IUAAAAJ&hl=zh-CN&oi=ao">Dr. Weilin Huang</a>, <a href="https://scholar.google.com.hk/citations?user=qBTDCawAAAAJ&hl=zh-CN&oi=ao">Dr. Shuai Xiao</a>, and <a href="https://scholar.google.com.hk/citations?user=6Qa2JCwAAAAJ&hl=zh-CN">Dr. Xu Chen</a>.
-
-I will collaborate closely with some outstanding researchers from WXG, Tencent Group: <a href="https://scholar.google.com.hk/citations?user=dHBNmSkAAAAJ&hl=zh-CN&oi=ao">Dr. Yizhou Zhou</a>
+I also collaborate closely with some outstanding researchers from Alibaba Group: <a href="https://scholar.google.com.hk/citations?user=78vU1IUAAAAJ&hl=zh-CN&oi=ao">Dr. Weilin Huang</a>, <a href="https://scholar.google.com.hk/citations?user=qBTDCawAAAAJ&hl=zh-CN&oi=ao">Dr. Shuai Xiao</a>, and <a href="https://scholar.google.com.hk/citations?user=6Qa2JCwAAAAJ&hl=zh-CN">Dr. Xu Chen</a>; 
+with some outstanding researchers from WXG Technology Platform, Tencent Group: <a href="https://scholar.google.com.hk/citations?user=dHBNmSkAAAAJ&hl=zh-CN&oi=ao">Dr. Yizhou Zhou</a>.
 
 As a young researcher, your interest and kind citation will definitely mean a lot for me and my collaborators.
 
