@@ -125,11 +125,17 @@ arXiv preprint 2023
 # 🗞️ Academic Communication
 - PC Member & Reviewer: AAAI 2024, WACV 2024, ICCV 2023, CVPR 2023, ACM MM 2023, AAAI 2023, ECCV 2022, IEEE T-MM
 
-- I am fortunate to meet many interesting people:  &emsp; 
+- I am fortunate to meet many interesting people:  &emsp;
+<a href="https://scholar.google.com.hk/citations?user=r0aZUfoAAAAJ&hl=zh-CN&oi=ao">Yong Liu</a>, UESTC;  &emsp;
 <a href="https://tengdahan.github.io/">Tengda Han</a>, Oxford;  &emsp;
 <a href="https://dyekuu.github.io/">Kunhao Zheng</a>, Meta;  &emsp;
+<a href="https://zhenyangli.github.io/">Zhengyang Li</a>, Baidu;  &emsp;
+<a href="https://scholar.google.com.hk/citations?user=CJgDlnoAAAAJ&hl=zh-CN&oi=ao">Zhe Xu</a>, DiDi;  &emsp;
+<a href="https://scholar.google.com.hk/citations?user=6bTGGDAAAAAJ&hl=zh-CN&oi=ao">Mosha Chen</a>, Alibaba;  &emsp;
 <a href="https://mileistone.github.io/">Yichao Xiong</a>, ByteDance;  &emsp;
 <a href="https://yangxue0827.github.io/">Xue Yang</a>, OpenGVLab;  &emsp;
+<a href="https://scholar.google.com.hk/citations?user=pXAf0agAAAAJ&hl=zh-CN&oi=ao">Jin Luo</a>, PKU;  &emsp;
+<a href="https://scholar.google.com.hk/citations?user=pXAf0agAAAAJ&hl=zh-CN&oi=ao">Shousheng Han</a>, THU;  &emsp;
 <a href="https://scholar.google.com.hk/citations?user=hQJ5hwMAAAAJ&hl=zh-CN&oi=ao">Qinwei Xu</a>, Ruijin;  &emsp;
 <a href="https://scholar.google.com.hk/citations?user=BAZSE7wAAAAJ&hl=zh-CN&oi=ao">Chaoqin Huang</a>, SJTU;  &emsp;
 <a href="https://scholar.google.com.hk/citations?user=XBbwb78AAAAJ&hl=zh-CN&oi=ao">Yue Hu</a>, SJTU;  &emsp;
