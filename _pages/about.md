@@ -116,7 +116,9 @@ arXiv preprint 2023
 
 
 ### 📒 Topic: Training & Inference Turbo Acceleration for Vision-Language-Audio Understanding & Generation
-1. ToDo
+1. [Entropy-Driven Turbo Plugin for Vision-Language Foundation Models](https://arxiv.org/pdf/2307.02003.pdf)                 
+**Chen Ju**, Haicheng Wang, Shuai Xiao, Zhonghua Zhai, Weilin Huang and Weidi Xie             
+arXiv preprint 2023 
 
 
 
