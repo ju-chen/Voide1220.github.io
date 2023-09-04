@@ -1,6 +1,6 @@
-@article{ma2023diffusionseg,
-  title={Open-Vocabulary Visual Understanding via GPT Attribute Decomposition-Aggregation},
-  author={Ma, Chaofan and Ju, Chen and Yang, Yuhuan and Zhang, Fei and Zhang, Ya and Xie, Weidi and Wang, Yanfeng},
-  journal={arXiv preprint arXiv:2303.09813},
+@article{ma2023open,
+  title={Open-Vocabulary Semantic Segmentation via Attribute Decomposition-Aggregation},
+  author={Ma, Chaofan and Yang, Yuhuan and Ju, Chen and Zhang, Fei and Zhang, Ya and Wang, Yanfeng},
+  journal={arXiv preprint arXiv:2309.00096},
   year={2023}
 }
