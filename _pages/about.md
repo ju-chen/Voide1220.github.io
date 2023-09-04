@@ -27,7 +27,7 @@ As a young researcher, your interest and kind citation will definitely mean a lo
 
 
 # 🔥 News
-- [*2023.09*] ![new paper](/images/new.gif) Our new work, [diversifying semantics' attributes via LLMs for open-set visual system](https://arxiv.org/pdf/2307.02003.pdf) is out!
+- [*2023.09*] ![new paper](/images/new.gif) Our new work, [diversifying semantics' attributes via LLMs for open-set visual system](https://arxiv.org/pdf/2309.00096.pdf) is out!
 - [*2023.07*] ![new paper](/images/new.gif) Our new work, [aligning LLMs' remarkable semantics for multi-modal understanding system](https://arxiv.org/pdf/2307.02003.pdf) is out!
 - [*2023.05*] ![new paper](/images/new.gif) Our new work, [distilling fine-grained priors from stable diffusion for unsupervised object discovery](https://arxiv.org/pdf/2303.09813.pdf) is out!
 - [*2023.04*] Our work, [multi-modal GPT prompting for vision-language foundation models](https://arxiv.org/pdf/2303.11732.pdf) is out!
