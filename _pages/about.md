@@ -110,13 +110,13 @@ arXiv preprint 2023
 Yuhuan Yang, Chaofan Ma, **Chen Ju**, Ya Zhang and Yanfeng Wang             
 arXiv preprint 2023 
 
-1. [Open-Vocabulary Semantic Segmentation via Attribute Decomposition-Aggregation](https://arxiv.org/pdf/2307.02003.pdf) \| [[Bibtex](./CITE/cite_prototype.txt)]                  
-Chaofan Ma, **Chen Ju**, Yuhuan Yang, Ya Zhang and Yanfeng Wang             
+1. [Open-Vocabulary Semantic Segmentation via Attribute Decomposition-Aggregation](https://arxiv.org/pdf/2307.02003.pdf) \| [[Bibtex](./CITE/cite_attribute.txt)]                  
+Chaofan Ma, Yuhuan Yang, **Chen Ju**, Fei Zhang, Ya Zhang and Yanfeng Wang             
 arXiv preprint 2023 
 
 
 ### 📒 Topic: Training & Inference Turbo Acceleration for Vision-Language-Audio Understanding & Generation
-1. [Entropy-Driven Turbo Plugin for Vision-Language Foundation Models](https://arxiv.org/pdf/2307.02003.pdf)                 
+1. [Entropy-Driven Turbo Plugin for Vision-Language Foundation Models]                 
 **Chen Ju**, Haicheng Wang, Shuai Xiao, Zhonghua Zhai, Weilin Huang and Weidi Xie             
 arXiv preprint 2023 
 
