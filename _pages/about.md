@@ -168,9 +168,11 @@ Yanfeng Wang, Chaofan Ma, Yuhuan Yang, **<u>Chen Ju</u>**, Fei Zhang, Ya Zhang.
 
 
 # 🎖 Honors and Awards
-- [*2020 & 2022*] CMIC Outstanding Scholarship at SJTU
+- [*2022*] CMIC Outstanding Scholarship at SJTU (Top 5%)
+- [*2020*] CMIC Outstanding Scholarship at SJTU (Top 5%)
 - [*2018*] Outstanding Graduates of Sichuan Province
-- [*2016 & 2017*] Undergraduate National Scholarship at UESTC
-
+- [*2017*] First Prize in National Undergraduate Mathematical Modeling
+- [*2016*] Undergraduate National Scholarship at UESTC (Top 1%)
+- [*2015*] Undergraduate National Scholarship at UESTC (Top 1%)
 
 
