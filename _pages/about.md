@@ -74,7 +74,7 @@ Jinxiang Liu, **Chen Ju**, Weidi Xie and Ya Zhang
 
 1. [Contrast and Unity for Partially-Supervised Temporal Sentence Grounding](https://arxiv.org/pdf/2302.09850.pdf)  \|   [[Project & Code](https://voide1220.github.io/constraint_union/)]  \|    [[Bibtex](./CITE/cite_partial.txt)]            
 **Chen Ju**, Haicheng Wang, Jinxiang Liu, Chaofan Ma, Ya Zhang, Peisen Zhao, Jianlong Chang and Qi Tian          
-arXiv preprint 2023
+**ICCV 2023**
 
 1. [SAM Guided Annotation-free Audio-Visual Cross-modal Segmentation](https://arxiv.org/pdf/2305.11019.pdf)   \|    [[Project & Code](https://jinxiang-liu.github.io/anno-free-AVS/)]  \|     [[Bibtex](./CITE/cite_aavs.txt)]            
 Jinxiang Liu, Yu Wang, **Chen Ju**, Chaofan Ma, Ya Zhang, Weidi Xie       
