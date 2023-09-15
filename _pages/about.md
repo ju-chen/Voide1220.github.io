@@ -102,9 +102,9 @@ arXiv preprint 2023
 
 
 ### 📒 Topic: AIGC for Video Editing, Music Composition, and Conversation-Driven Visual Understanding
-1. [Adapting Diffusion Models Towards Unsupervised Object Discovery](https://arxiv.org/pdf/2303.09813.pdf) \| [[Bibtex](./CITE/cite_diffusion.txt)]               
+1. [DiffusionSeg: Adapting Diffusion Towards Unsupervised Object Discovery](https://arxiv.org/pdf/2303.09813.pdf) \| [[Bibtex](./CITE/cite_diffusion.txt)]               
 Chaofan Ma, Yuhuan Yang, **Chen Ju**, Fei Zhang, Jinxiang Liu, Yu Wang, Ya Zhang and Yanfeng Wang                 
-arXiv preprint 2023
+**ICCV 2023**
 
 1. [Multi-Modal Prototypes for Open-Set Semantic Segmentation](https://arxiv.org/pdf/2307.02003.pdf) \| [[Bibtex](./CITE/cite_prototype.txt)]                  
 Yuhuan Yang, Chaofan Ma, **Chen Ju**, Ya Zhang and Yanfeng Wang             
@@ -116,9 +116,9 @@ arXiv preprint 2023
 
 
 ### 📒 Topic: Training & Inference Turbo Acceleration for Vision-Language-Audio Understanding & Generation
-1. [Entropy-Driven Turbo Plugin for Vision-Language Foundation Models]                 
+1. Entropy-Driven Turbo Plugin for Vision-Language Foundation Models                
 **Chen Ju**, Haicheng Wang, Shuai Xiao, Zhonghua Zhai, Weilin Huang and Weidi Xie             
-arXiv preprint 2023 
+arXiv preprint 2023   
 
 
 
