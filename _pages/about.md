@@ -22,7 +22,7 @@ with some outstanding researchers from WeChat Technology (微信技术架构), T
 As a young researcher, your interest and kind citation will definitely mean a lot for me and my collaborators.
 
 <p> <b>Email:</b> ju_chen[at]sjtu[dot]edu[dot]cn / cju[dot]void[at]gmail[dot]com         &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;             
-<b> Google Scholar:</b> Citations 370+, H-index 7 </p>  
+<b> Google Scholar:</b> Citations 375+, H-index 7 </p>  
 
 
 
