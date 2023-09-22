@@ -169,9 +169,10 @@ Yanfeng Wang, Chaofan Ma, Yuhuan Yang, **<u>Chen Ju</u>**, Fei Zhang, Ya Zhang.
 
 
 # 🎖 Honors and Awards
+- [*2022*] First Prize of Shanghai Technology Invention Award
 - [*2022*] CMIC Outstanding Scholarship at SJTU (Top 5%)
 - [*2020*] CMIC Outstanding Scholarship at SJTU (Top 5%)
-- [*2018*] Outstanding Graduates of Sichuan Province
+- [*2018*] Outstanding Graduates of Sichuan Province (Top 1%)
 - [*2018*] Outstanding Graduates of UESTC (Top 1%)
 - [*2017*] First Prize in National Undergraduate Mathematical Modeling
 - [*2016*] Undergraduate National Scholarship at UESTC (Top 1%)
