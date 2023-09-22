@@ -1,6 +1,7 @@
 @article{ma2023open,
   title={Open-Vocabulary Semantic Segmentation via Attribute Decomposition-Aggregation},
   author={Ma, Chaofan and Yang, Yuhuan and Ju, Chen and Zhang, Fei and Zhang, Ya and Wang, Yanfeng},
+  booktitle={Advances in Neural Information Processing Systems},
   journal={arXiv preprint arXiv:2309.00096},
   year={2023}
 }
