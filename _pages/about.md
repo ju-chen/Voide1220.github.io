@@ -18,7 +18,7 @@ Currently, I collaborate closely with some outstanding researchers from PanGu La
 
 I also collaborate closely with some outstanding researchers from PaiLiTao (拍立淘), Alibaba Group: <a href="https://scholar.google.com.hk/citations?user=78vU1IUAAAAJ&hl=zh-CN&oi=ao">Dr. Weilin Huang</a>, <a href="https://scholar.google.com.hk/citations?user=qBTDCawAAAAJ&hl=zh-CN&oi=ao">Dr. Shuai Xiao</a>, and <a href="https://scholar.google.com.hk/citations?user=6Qa2JCwAAAAJ&hl=zh-CN">Dr. Xu Chen</a>; 
 with some outstanding researchers from WeChat Technology (微信技术架构), Tencent Group: <a href="https://scholar.google.com.hk/citations?user=38dACd4AAAAJ&hl=zh-CN&oi=ao">Dr. Fengyun Rao</a>, <a href="https://scholar.google.com.hk/citations?user=cKY8e8sAAAAJ&hl=zh-CN&oi=ao">Dr. Guangting Wang</a>, and <a href="https://scholar.google.com.hk/citations?user=dHBNmSkAAAAJ&hl=zh-CN&oi=ao">Dr. Yizhou Zhou</a>;
-with some outstanding researchers from Tiktok (抖音), ByteDance Group: <a href="https://mileistone.github.io/">Dr. Yichao Xiong</a> and <a href="https://scholar.google.com.hk/scholar?hl=zh-CN&as_sdt=0%2C5&q=zhikang+li+alibaba&btnG=&oq=zhikang">Ms. Zhikang Li</a>.
+with some outstanding researchers from TikTok (抖音), ByteDance Group: <a href="https://mileistone.github.io/">Dr. Yichao Xiong</a> and <a href="https://scholar.google.com.hk/scholar?hl=zh-CN&as_sdt=0%2C5&q=zhikang+li+alibaba&btnG=&oq=zhikang">Ms. Zhikang Li</a>.
 
 As a young researcher, your interest and kind citation will definitely mean a lot for me and my collaborators.
 
