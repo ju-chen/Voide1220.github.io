@@ -119,7 +119,7 @@ Chaofan Ma, Yuhuan Yang, **Chen Ju**, Fei Zhang, Ya Zhang and Yanfeng Wang
 
 ### 📒 Topic: Training & Inference Turbo Acceleration for Vision-Language-Audio Understanding & Generation
 1. Entropy-Driven Turbo Plugin for Vision-Language Foundation Models                
-**Chen Ju**, Haicheng Wang, Shuai Xiao, Zhonghua Zhai, Weilin Huang and Weidi Xie             
+**Chen Ju**, Haicheng Wang, Zeqian Li, Shuai Xiao, Xu Chen, Zhonghua Zhai and Weilin Huang             
 arXiv preprint 2023   
 
 
