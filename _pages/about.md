@@ -18,11 +18,11 @@ Currently, I collaborate closely with some outstanding researchers from PanGu La
 
 I also collaborate closely with some outstanding researchers from PaiLiTao (拍立淘), Alibaba Group: <a href="https://scholar.google.com.hk/citations?user=78vU1IUAAAAJ&hl=zh-CN&oi=ao">Dr. Weilin Huang</a>, <a href="https://scholar.google.com.hk/citations?user=qBTDCawAAAAJ&hl=zh-CN&oi=ao">Dr. Shuai Xiao</a>, and <a href="https://scholar.google.com.hk/citations?user=6Qa2JCwAAAAJ&hl=zh-CN">Dr. Xu Chen</a>; 
 with some outstanding researchers from WeChat Technology (微信技术架构), Tencent Group: <a href="https://scholar.google.com.hk/citations?user=38dACd4AAAAJ&hl=zh-CN&oi=ao">Dr. Fengyun Rao</a>, <a href="https://scholar.google.com.hk/citations?user=cKY8e8sAAAAJ&hl=zh-CN&oi=ao">Dr. Guangting Wang</a>, and <a href="https://scholar.google.com.hk/citations?user=dHBNmSkAAAAJ&hl=zh-CN&oi=ao">Dr. Yizhou Zhou</a>;
-with some outstanding researchers from TikTok (抖音), ByteDance Group: <a href="https://mileistone.github.io/">Dr. Yichao Xiong</a> and <a href="https://scholar.google.com.hk/scholar?hl=zh-CN&as_sdt=0%2C5&q=zhikang+li+alibaba&btnG=&oq=zhikang">Ms. Zhikang Li</a>.
+with some outstanding researchers from TikTok (抖音), ByteDance Group: <a href="https://mileistone.github.io/">Dr. Yichao Xiong</a> and <a href="https://scholar.google.com.hk/scholar?hl=zh-CN&as_sdt=0%2C5&q=zhikang+li+alibaba&btnG=&oq=zhikang">Dr. Zhikang Li</a>.
 
 As a young researcher, your interest and kind citation will definitely mean a lot for me and my collaborators.
 
-<p> <b>Email:</b> ju_chen[at]sjtu[dot]edu[dot]cn / cju[dot]void[at]gmail[dot]com         &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;             
+<p> <b>Email:</b> ju_chen[at]sjtu[dot]edu[dot]cn / cju[dot]void[at]gmail[dot]com         &emsp; &emsp; &emsp; &emsp; &emsp;             
 <b> Google Scholar:</b> Citations 400, H-index 8, I10-index 7 </p>  
 
 
@@ -44,7 +44,7 @@ As a young researcher, your interest and kind citation will definitely mean a lo
 # 💻 Researches
 My primary research interests lie in 
 
-- Vision-Language-Audio Learning, Multi-Modal Pre-training, Efficient Adaptation, Accelerate Deployment for Downstream Tasks.
+- Vision-Language-Audio Learning: Multi-Modal Pre-training, Efficient Adaptation, Accelerate Deployment for Downstream Tasks.
 
 - AIGC：Generation or Editing for Image & Video & Music, Conversation-Driven Multi-Modal Understanding and Composition.
 
@@ -164,7 +164,7 @@ Yanfeng Wang, Chaofan Ma, Yuhuan Yang, **<u>Chen Ju</u>**, Fei Zhang, Ya Zhang.
 
 
 # 📖 Educations and Communications
-- *2018.09 - Now*, PhD candidate, Shanghai Jiao Tong University, Shanghai, China
+- *2018.09 - 2024.03*, PhD candidate, Shanghai Jiao Tong University, Shanghai, China
 - *2018*, Exchange Student, University of Amsterdam, Netherlands
 - *2018*, Exchange Student, KU Leuven, Belgium
 - *2014.09 - 2018.06*, Undergraduate, University of Electronic Science and Technology of China, Chengdu, China
