@@ -145,33 +145,34 @@ arXiv preprint 2023
 
 
 - I am fortunate to meet many amazing people \& Team:
-1. Baidu. Big Search, MEG: <a href="https://scholar.google.com.hk/citations?user=UFhcrs4AAAAJ&hl=zh-CN&oi=ao">Zhengyang Li</a>, 
+1. Baidu. Big Search, MEG: <a href="https://scholar.google.com.hk/citations?user=UFhcrs4AAAAJ&hl=zh-CN&oi=ao">Zhengyang Li</a>, Suqi Chen
 &emsp;
 Ernie Bot (文心一言), AIG: <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=9ClaqP0AAAAJ&view_op=list_works&sortby=pubdate">Jiachen Liu</a>. 
-
 
 
 3. JD. 
 
 4. KuaiShou: 
 
-5. DAMO Academy, Alibaba Group: <a href="https://xavierchen34.github.io/">Xi Chen</a>,
-&emsp;
-<a href="https://scholar.google.com.hk/citations?user=6bTGGDAAAAAJ&hl=zh-CN&oi=ao">Mosha Chen</a>,
-&emsp;
- 
-
-6. Ant Research, Ant Group: <a href="https://scholar.google.com.hk/citations?user=6FsgWBMAAAAJ&hl=zh-CN&oi=ao">Tong Zhan</a>, &emsp;
+5. Alibaba Group.
+DAMO Academy: <a href="https://xavierchen34.github.io/">Xi Chen</a>, &emsp;
+<a href="https://scholar.google.com.hk/citations?user=6bTGGDAAAAAJ&hl=zh-CN&oi=ao">Mosha Chen</a>, &emsp;
 
 
-7. Huawei: <a href="https://scholar.google.com.hk/citations?user=Qkx2FKoAAAAJ&hl=zh-CN&oi=ao">Maosen Li</a>,  &emsp; 
-<a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=GRcH3nAAAAAJ">Yucheng Liu</a>,
-&emsp;
-<a href="https://phellonchen.github.io/">Feilong Chen</a>,
-&emsp;
+7. Ant Group.
+Ant Research: <a href="https://scholar.google.com.hk/citations?user=6FsgWBMAAAAJ&hl=zh-CN&oi=ao">Tong Zhan</a>, &emsp;
 
-8. NVIDIA: <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=Xv9DcdEAAAAJ">Yangheng Zhao</a>,
-10. 
+
+9. Huawei:
+<a href="https://scholar.google.com.hk/citations?user=Qkx2FKoAAAAJ&hl=zh-CN&oi=ao">Maosen Li</a>,  &emsp; 
+<a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=GRcH3nAAAAAJ">Yucheng Liu</a>, &emsp;
+<a href="https://phellonchen.github.io/">Feilong Chen</a>, &emsp;
+
+11. NVIDIA: &emsp;
+<a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=Xv9DcdEAAAAJ">Yangheng Zhao</a>, &emsp;
+<a href="https://scholar.google.com.hk/citations?user=Etmn37YAAAAJ&hl=zh-CN&oi=ao">Jie Chang</a>, &emsp;
+
+13. 
 
 
 # 📄 Patents
