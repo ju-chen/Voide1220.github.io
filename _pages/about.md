@@ -128,8 +128,8 @@ arXiv preprint 2023
 # 🗞️ Academics and Communications
 - PC Member & Reviewer: AAAI 2024, WACV 2024, ICCV 2023, CVPR 2023, ACM MM 2023, AAAI 2023, ECCV 2022, IEEE T-MM
 
-
 - I am fortunate to meet many interesting people & Team:
+
 1. University System. &emsp;
 UESTC: <a href="https://scholar.google.com.hk/citations?user=r0aZUfoAAAAJ&hl=zh-CN&oi=ao">Yong Liu</a>, <a href="https://scholar.google.com.hk/citations?user=r0aZUfoAAAAJ&hl=zh-CN&oi=ao">Yadong Jiang</a>.
 &emsp; 
@@ -148,7 +148,7 @@ DAMO Academy (达摩院):
 <a href="https://scholar.google.com.hk/citations?user=QeSoG3sAAAAJ&hl=zh-CN&oi=sra">Chang Zhou</a>, <a href="https://xavierchen34.github.io/">Xi Chen</a>, <a href="https://scholar.google.com.hk/citations?user=6bTGGDAAAAAJ&hl=zh-CN&oi=ao">Mosha Chen</a>.
 &emsp;
 Alimama (阿里妈妈): Jiajie Wang, Hao Wu, Yuanzhe Gu.
-&emsp; 
+&emsp; &emsp; &emsp; 
 Ant Research (蚂蚁研究院): <a href="https://scholar.google.com.hk/citations?user=6FsgWBMAAAAJ&hl=zh-CN&oi=ao">Tong Zhan</a>, <a href="https://scholar.google.com.hk/citations?user=11HDEbkAAAAJ&hl=zh-CN&oi=ao">Qingpei Guo</a>.
 
 4. Huawei. &emsp; 
