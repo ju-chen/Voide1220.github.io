@@ -128,22 +128,8 @@ arXiv preprint 2023
 # 🗞️ Academics and Communications
 - PC Member & Reviewer: AAAI 2024, WACV 2024, ICCV 2023, CVPR 2023, ACM MM 2023, AAAI 2023, ECCV 2022, IEEE T-MM
 
-- I am fortunate to meet many interesting people:
 
-
-<a href="https://dyekuu.github.io/">Kunhao Zheng</a>, Meta;  &emsp;
-
-<a href="https://scholar.google.com.hk/citations?user=CJgDlnoAAAAJ&hl=zh-CN&oi=ao">Zhe Xu</a>, DiDi;  &emsp;
-<a href="https://yangxue0827.github.io/">Xue Yang</a>, OpenGVLab;  &emsp; 
-
-
-<a href="https://scholar.google.com.hk/citations?user=hQJ5hwMAAAAJ&hl=zh-CN&oi=ao">Qinwei Xu</a>, Ruijin;  &emsp;
-
-
-
-
-
-- I am fortunate to meet many amazing people & Team:
+- I am fortunate to meet many interesting people & Team:
 1. University System. &emsp;
 UESTC: <a href="https://scholar.google.com.hk/citations?user=r0aZUfoAAAAJ&hl=zh-CN&oi=ao">Yong Liu</a>, <a href="https://scholar.google.com.hk/citations?user=r0aZUfoAAAAJ&hl=zh-CN&oi=ao">Yadong Jiang</a>.
 &emsp; 
@@ -160,10 +146,12 @@ Oxford: <a href="https://tengdahan.github.io/">Tengda Han</a>, <a href="https://
 2. Alibaba Group. &emsp; 
 DAMO Academy (达摩院):
 <a href="https://scholar.google.com.hk/citations?user=QeSoG3sAAAAJ&hl=zh-CN&oi=sra">Chang Zhou</a>, <a href="https://xavierchen34.github.io/">Xi Chen</a>, <a href="https://scholar.google.com.hk/citations?user=6bTGGDAAAAAJ&hl=zh-CN&oi=ao">Mosha Chen</a>.
+&emsp;
+Alimama (阿里妈妈): Jiajie Wang, Hao Wu, Yuanzhe Gu.
 &emsp; 
 Ant Research (蚂蚁研究院): <a href="https://scholar.google.com.hk/citations?user=6FsgWBMAAAAJ&hl=zh-CN&oi=ao">Tong Zhan</a>, <a href="https://scholar.google.com.hk/citations?user=11HDEbkAAAAJ&hl=zh-CN&oi=ao">Qingpei Guo</a>.
 
-3. Huawei. &emsp; 
+4. Huawei. &emsp; 
 Car BU (华为车): <a href="https://scholar.google.com.hk/citations?user=Qkx2FKoAAAAJ&hl=zh-CN&oi=ao">Maosen Li</a>. 
 &emsp;
 Cloud BU (华为云): <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=GRcH3nAAAAAJ">Yucheng Liu</a>,
@@ -181,6 +169,14 @@ ICT (信息通讯): Liang Zhao, Tongda Li.
 Big Search (大搜), MEG: <a href="https://scholar.google.com.hk/citations?user=UFhcrs4AAAAJ&hl=zh-CN&oi=ao">Zhengyang Li</a>, Suqi Chen. 
 &emsp; 
 Ernie Bot (文心一言), AIG: Tian Wu, <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=9ClaqP0AAAAJ&view_op=list_works&sortby=pubdate">Jiachen Liu</a>. 
+
+
+<a href="https://dyekuu.github.io/">Kunhao Zheng</a>, Meta;  &emsp;
+<a href="https://scholar.google.com.hk/citations?user=CJgDlnoAAAAJ&hl=zh-CN&oi=ao">Zhe Xu</a>, DiDi;  &emsp;
+<a href="https://yangxue0827.github.io/">Xue Yang</a>, OpenGVLab;  &emsp; 
+
+<a href="https://scholar.google.com.hk/citations?user=hQJ5hwMAAAAJ&hl=zh-CN&oi=ao">Qinwei Xu</a>, Ruijin;  &emsp;
+
 
 6. JD. 
 
