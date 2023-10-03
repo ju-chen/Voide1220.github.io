@@ -153,7 +153,7 @@ OpenGVLab: <a href="https://yangxue0827.github.io/">Xue Yang</a>.
 Ruijin: <a href="https://scholar.google.com.hk/citations?user=hQJ5hwMAAAAJ&hl=zh-CN&oi=ao">Qinwei Xu</a>
 
 
-3. Alibaba Group. &emsp;
+3. Alibaba. &emsp;
 TAO Technology (淘天): Zida Cheng, Mengting Chen, Xuewen Hong, Yixuan Huang, Lianyu Du.
 &emsp;
 DAMO Academy (达摩院):
