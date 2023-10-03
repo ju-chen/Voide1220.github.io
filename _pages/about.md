@@ -133,20 +133,41 @@ arXiv preprint 2023
 <a href="https://dyekuu.github.io/">Kunhao Zheng</a>, Meta;  &emsp;
 <a href="https://zhenyangli.github.io/">Zhengyang Li</a>, Baidu;  &emsp;
 <a href="https://scholar.google.com.hk/citations?user=CJgDlnoAAAAJ&hl=zh-CN&oi=ao">Zhe Xu</a>, DiDi;  &emsp;
-<a href="https://scholar.google.com.hk/citations?user=6bTGGDAAAAAJ&hl=zh-CN&oi=ao">Mosha Chen</a>, Alibaba;  &emsp;
 <a href="https://mileistone.github.io/">Yichao Xiong</a>, ByteDance;  &emsp;
-<a href="https://yangxue0827.github.io/">Xue Yang</a>, OpenGVLab;  &emsp;
-<a href="https://scholar.google.com.hk/citations?user=Qkx2FKoAAAAJ&hl=zh-CN&oi=ao">Maosen Li</a>, Huawei;  &emsp;
-<a href="https://phellonchen.github.io/">Feilong Chen</a>, Huawei;  &emsp;
+<a href="https://yangxue0827.github.io/">Xue Yang</a>, OpenGVLab;  &emsp; 
+
 <a href="https://scholar.google.com.hk/citations?user=pXAf0agAAAAJ&hl=zh-CN&oi=ao">Jin Luo</a>, PKU;  &emsp;
 <a href="https://scholar.google.com.hk/citations?user=pXAf0agAAAAJ&hl=zh-CN&oi=ao">Shousheng Han</a>, THU;  &emsp;
 <a href="https://scholar.google.com.hk/citations?user=hQJ5hwMAAAAJ&hl=zh-CN&oi=ao">Qinwei Xu</a>, Ruijin;  &emsp;
 <a href="https://scholar.google.com.hk/citations?user=BAZSE7wAAAAJ&hl=zh-CN&oi=ao">Chaoqin Huang</a>, SJTU;  &emsp;
 <a href="https://scholar.google.com.hk/citations?user=XBbwb78AAAAJ&hl=zh-CN&oi=ao">Yue Hu</a>, SJTU;  &emsp;
-<a href="https://scholar.google.com.hk/citations?user=d7r3NGQAAAAJ&hl=zh-CN&oi=ao">Yujie Pan</a>, Intel;  &emsp;
-<a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=GRcH3nAAAAAJ">Yucheng Liu</a>, Huawei;  &emsp;
-<a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=Xv9DcdEAAAAJ">Yangheng Zhao</a>, NVIDIA. 
+<a href="https://scholar.google.com.hk/citations?user=d7r3NGQAAAAJ&hl=zh-CN&oi=ao">Yujie Pan</a>, Intel.
 
+
+- I am fortunate to meet many amazing people \& Team:
+1. Big Search, MEG, Baidu: 
+
+2. , JD:
+
+3. KuaiShou: 
+
+4. DAMO Academy, Alibaba Group: <a href="https://xavierchen34.github.io/">Xi Chen</a>,
+&emsp;
+<a href="https://scholar.google.com.hk/citations?user=6bTGGDAAAAAJ&hl=zh-CN&oi=ao">Mosha Chen</a>,
+&emsp;
+ 
+
+6. Ant Research, Ant Group: <a href="https://scholar.google.com.hk/citations?user=6FsgWBMAAAAJ&hl=zh-CN&oi=ao">Tong Zhan</a>, &emsp;
+
+
+7. Huawei: <a href="https://scholar.google.com.hk/citations?user=Qkx2FKoAAAAJ&hl=zh-CN&oi=ao">Maosen Li</a>,  &emsp; 
+<a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=GRcH3nAAAAAJ">Yucheng Liu</a>,
+&emsp;
+<a href="https://phellonchen.github.io/">Feilong Chen</a>,
+&emsp;
+
+8. NVIDIA: <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=Xv9DcdEAAAAJ">Yangheng Zhao</a>,
+10. 
 
 
 # 📄 Patents
@@ -178,7 +199,7 @@ Yanfeng Wang, Chaofan Ma, Yuhuan Yang, **<u>Chen Ju</u>**, Fei Zhang, Ya Zhang.
 - [*2018*] Outstanding Graduates of Sichuan Province (Top 1%)
 - [*2018*] Outstanding Graduates of UESTC (Top 1%)
 - [*2017*] First Prize in National Undergraduate Mathematical Modeling
+- [*2017*] Undergraduate National Scholarship at UESTC (Top 1%)
 - [*2016*] Undergraduate National Scholarship at UESTC (Top 1%)
 - [*2015*] Undergraduate National Scholarship at UESTC (Top 1%)
-
 
