@@ -203,8 +203,6 @@ ByteDance: Kunyuan Du, Xuan Liao, Yuxuan Jiang, Shiqi Peng, Hangtian Zhao, Jian 
 &emsp;
 Bilibili: Luochen Lv.
 &emsp;
-Xiapi: Yu Li.
-&emsp;
 ZTE: Xiao Hu. 
 &emsp;
 KuaiShou: Liwei Chen, Kun Xu.
