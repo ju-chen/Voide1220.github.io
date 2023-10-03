@@ -132,12 +132,11 @@ arXiv preprint 2023
 
 <a href="https://tengdahan.github.io/">Tengda Han</a>, Oxford;  &emsp;
 <a href="https://dyekuu.github.io/">Kunhao Zheng</a>, Meta;  &emsp;
-<a href="https://zhenyangli.github.io/">Zhengyang Li</a>, Baidu;  &emsp;
+
 <a href="https://scholar.google.com.hk/citations?user=CJgDlnoAAAAJ&hl=zh-CN&oi=ao">Zhe Xu</a>, DiDi;  &emsp;
 <a href="https://yangxue0827.github.io/">Xue Yang</a>, OpenGVLab;  &emsp; 
 
-<a href="https://scholar.google.com.hk/citations?user=pXAf0agAAAAJ&hl=zh-CN&oi=ao">Jin Luo</a>, PKU;  &emsp;
-<a href="https://scholar.google.com.hk/citations?user=pXAf0agAAAAJ&hl=zh-CN&oi=ao">Shousheng Han</a>, THU;  &emsp;
+
 <a href="https://scholar.google.com.hk/citations?user=hQJ5hwMAAAAJ&hl=zh-CN&oi=ao">Qinwei Xu</a>, Ruijin;  &emsp;
 
 
@@ -145,16 +144,37 @@ arXiv preprint 2023
 
 
 - I am fortunate to meet many amazing people & Team:
-1. UESTC. &emsp;
-<a href="https://scholar.google.com.hk/citations?user=r0aZUfoAAAAJ&hl=zh-CN&oi=ao">Yong Liu</a> &emsp;
+1. University System. &emsp; &emsp;
+UESTC: <a href="https://scholar.google.com.hk/citations?user=r0aZUfoAAAAJ&hl=zh-CN&oi=ao">Yong Liu</a>, <a href="https://scholar.google.com.hk/citations?user=r0aZUfoAAAAJ&hl=zh-CN&oi=ao">Yadong Jiang</a>.
+&emsp; &emsp; 
+PKU: <a href="https://scholar.google.com.hk/citations?user=pXAf0agAAAAJ&hl=zh-CN&oi=ao">Jin Luo</a>, <a href="https://scholar.google.com.hk/citations?user=pXAf0agAAAAJ&hl=zh-CN&oi=ao">Donglin Liu</a>, Yong Peng</a>.
+&emsp; &emsp; 
+THU: <a href="https://scholar.google.com.hk/citations?user=pXAf0agAAAAJ&hl=zh-CN&oi=ao">Shousheng Han</a>, <a href="https://scholar.google.com.hk/citations?user=pXAf0agAAAAJ&hl=zh-CN&oi=ao">Zhengsong Wang</a>, Zongren Dai. 
+&emsp; &emsp; 
+SJTU: <a href="https://scholar.google.com.hk/citations?user=x0Uk7S8AAAAJ&hl=zh-CN&oi=ao">Haicheng Wang</a>, <a href="https://scholar.google.com.hk/citations?user=wSRKaWIAAAAJ&hl=zh-CN&oi=ao">Jinxiang Liu</a>, <a href="https://scholar.google.com.hk/citations?user=XBbwb78AAAAJ&hl=zh-CN&oi=ao">Yue Hu</a>, <a href="https://scholar.google.com.hk/citations?user=UgmMqV0AAAAJ&hl=zh-CN&oi=ao">Chenxin Xu</a>, <a href="https://scholar.google.com.hk/citations?user=BAZSE7wAAAAJ&hl=zh-CN&oi=ao">Chaoqin Huang</a>, 
+href="https://scholar.google.com.hk/citations?user=Zno4WggAAAAJ&hl=zh-CN&oi=ao">Xiaoman Zhang</a>.
 
-2. SJTU.  &emsp;
-<a href="https://scholar.google.com.hk/citations?user=XBbwb78AAAAJ&hl=zh-CN&oi=ao">Yue Hu</a>,
-<a href="https://scholar.google.com.hk/citations?user=UgmMqV0AAAAJ&hl=zh-CN&oi=ao">Chenxin Xu</a>,
-<a href="https://scholar.google.com.hk/citations?user=BAZSE7wAAAAJ&hl=zh-CN&oi=ao">Chaoqin Huang</a>,
+2. Alibaba Group. &emsp; &emsp;
+DAMO Academy (达摩院):
+<a href="https://scholar.google.com.hk/citations?user=QeSoG3sAAAAJ&hl=zh-CN&oi=sra">Chang Zhou</a>, <a href="https://xavierchen34.github.io/">Xi Chen</a>, <a href="https://scholar.google.com.hk/citations?user=6bTGGDAAAAAJ&hl=zh-CN&oi=ao">Mosha Chen</a>.
+&emsp; &emsp; 
+Ant Research (蚂蚁研究院): <a href="https://scholar.google.com.hk/citations?user=6FsgWBMAAAAJ&hl=zh-CN&oi=ao">Tong Zhan</a>, <a href="https://scholar.google.com.hk/citations?user=11HDEbkAAAAJ&hl=zh-CN&oi=ao">Qingpei Guo</a>.
+
+3. Huawei. &emsp; &emsp;
+Car BU (华为车): <a href="https://scholar.google.com.hk/citations?user=Qkx2FKoAAAAJ&hl=zh-CN&oi=ao">Maosen Li</a>. 
+&emsp; &emsp;
+Cloud BU (华为云): <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=GRcH3nAAAAAJ">Yucheng Liu</a>,
+<a href="https://scholar.google.com.hk/citations?user=JmEBaccAAAAJ&hl=zh-CN&oi=ao">Yaoming Wang</a>,
+<a href="https://scholar.google.com.hk/citations?user=jmFZZYMAAAAJ&hl=zh-CN&oi=ao">Shuangrui Ding</a>,
+<a href="https://scholar.google.com.hk/citations?user=9nqZkmUAAAAJ&hl=zh-CN&oi=ao">Haohang Xu</a>. 
+&emsp; &emsp;
+Consumer BG (终端消费者): Yongli Jia, <a href="https://phellonchen.github.io/">Feilong Chen</a>. 
+&emsp; &emsp;
+ICT (): 
 
 
-4. Baidu. Big Search, MEG: <a href="https://scholar.google.com.hk/citations?user=UFhcrs4AAAAJ&hl=zh-CN&oi=ao">Zhengyang Li</a>, Suqi Chen
+5. Baidu. &emsp; &emsp; 
+Big Search (大搜), MEG: <a href="https://scholar.google.com.hk/citations?user=UFhcrs4AAAAJ&hl=zh-CN&oi=ao">Zhengyang Li</a>, Suqi Chen. 
 &emsp; &emsp; 
 Ernie Bot (文心一言), AIG: Tian Wu, <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=9ClaqP0AAAAJ&view_op=list_works&sortby=pubdate">Jiachen Liu</a>. 
 
@@ -163,16 +183,10 @@ Ernie Bot (文心一言), AIG: Tian Wu, <a href="https://scholar.google.com.hk/c
 
 7. KuaiShou: 
 
-8. Alibaba Group. &emsp; &emsp;
-DAMO Academy: <a href="https://xavierchen34.github.io/">Xi Chen</a>, <a href="https://scholar.google.com.hk/citations?user=6bTGGDAAAAAJ&hl=zh-CN&oi=ao">Mosha Chen</a>.
-&emsp; &emsp; 
-Ant Research: <a href="https://scholar.google.com.hk/citations?user=6FsgWBMAAAAJ&hl=zh-CN&oi=ao">Tong Zhan</a>, <a href="https://scholar.google.com.hk/citations?user=11HDEbkAAAAJ&hl=zh-CN&oi=ao">Qingpei Guo</a>.
 
 
-10. Huawei: &emsp; &emsp;
-<a href="https://scholar.google.com.hk/citations?user=Qkx2FKoAAAAJ&hl=zh-CN&oi=ao">Maosen Li</a>,  &emsp; 
-<a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=GRcH3nAAAAAJ">Yucheng Liu</a>, &emsp;
-<a href="https://phellonchen.github.io/">Feilong Chen</a>, &emsp;
+
+
 
 11. NVIDIA: &emsp; &emsp;
 <a href="https://scholar.google.com.hk/citations?user=Etmn37YAAAAJ&hl=zh-CN&oi=ao">Jie Chang</a>, <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=Xv9DcdEAAAAJ">Yangheng Zhao</a>.
