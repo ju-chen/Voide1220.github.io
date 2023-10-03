@@ -16,7 +16,8 @@ I'm a PhD candidate at <a href="https://mediabrain.sjtu.edu.cn/">MediaBrain Grou
 
 Currently, I collaborate closely with some outstanding researchers from PanGu Large Model Team (盘古大模型), Huawei Cloud BU:   &emsp; &emsp; &emsp; &emsp; <a href="https://scholar.google.com/citations?user=61b6eYkAAAAJ">Prof. Qi Tian</a>, <a href="https://scholar.google.com/citations?user=EEMm7hwAAAAJ&hl=zh-CN&oi=ao">Dr. Lingxi Xie</a>, <a href="https://scholar.google.com.hk/citations?user=Ud6aBAcAAAAJ&hl=zh-CN&oi=ao">Dr. Xiaopeng Zhang</a>, <a href="https://scholar.google.com.hk/citations?user=RDwnNsQAAAAJ&hl=zh-CN&oi=ao">Dr. Jianlong Chang</a>, <a href="https://scholar.google.com.hk/citations?user=-JcFoOoAAAAJ&hl=zh-CN&oi=ao">Dr. Jiemin Fang</a>, and <a href="https://scholar.google.com.hk/citations?user=hCr8Km8AAAAJ&hl=zh-CN&oi=ao">Dr. Peisen Zhao</a>.
 
-I also collaborate closely with some outstanding researchers from PaiLiTao (拍立淘), Alibaba Group: <a href="https://scholar.google.com.hk/citations?user=78vU1IUAAAAJ&hl=zh-CN&oi=ao">Dr. Weilin Huang</a>, <a href="https://scholar.google.com.hk/citations?user=qBTDCawAAAAJ&hl=zh-CN&oi=ao">Dr. Shuai Xiao</a>, and <a href="https://scholar.google.com.hk/citations?user=6Qa2JCwAAAAJ&hl=zh-CN">Dr. Xu Chen</a>; 
+I also collaborate closely with some outstanding researchers from PaiLiTao (拍立淘), Alibaba Group: <a href="https://scholar.google.com.hk/citations?user=78vU1IUAAAAJ&hl=zh-CN&oi=ao">Dr. Weilin Huang</a>, <a href="https://scholar.google.com.hk/citations?user=qBTDCawAAAAJ&hl=zh-CN&oi=ao">Dr. Shuai Xiao</a>, <a href="https://scholar.google.com.hk/citations?user=6Qa2JCwAAAAJ&hl=zh-CN">Dr. Xu Chen</a>, and 
+<a href="https://scholar.google.com.hk/citations?user=o4SDCAYAAAAJ&hl=zh-CN&oi=ao">Dr. Zhonghua Zhai</a>; 
 with some outstanding researchers from WeChat Technology (微信技术架构), Tencent Group: <a href="https://scholar.google.com.hk/citations?user=38dACd4AAAAJ&hl=zh-CN&oi=ao">Dr. Fengyun Rao</a>, <a href="https://scholar.google.com.hk/citations?user=cKY8e8sAAAAJ&hl=zh-CN&oi=ao">Dr. Guangting Wang</a>, and <a href="https://scholar.google.com.hk/citations?user=dHBNmSkAAAAJ&hl=zh-CN&oi=ao">Dr. Yizhou Zhou</a>;
 with some outstanding researchers from TikTok (抖音), ByteDance Group: <a href="https://mileistone.github.io/">Dr. Yichao Xiong</a> and <a href="https://scholar.google.com.hk/scholar?hl=zh-CN&as_sdt=0%2C5&q=zhikang+li+alibaba&btnG=&oq=zhikang">Dr. Zhikang Li</a>.
 
@@ -138,41 +139,44 @@ arXiv preprint 2023
 <a href="https://scholar.google.com.hk/citations?user=pXAf0agAAAAJ&hl=zh-CN&oi=ao">Jin Luo</a>, PKU;  &emsp;
 <a href="https://scholar.google.com.hk/citations?user=pXAf0agAAAAJ&hl=zh-CN&oi=ao">Shousheng Han</a>, THU;  &emsp;
 <a href="https://scholar.google.com.hk/citations?user=hQJ5hwMAAAAJ&hl=zh-CN&oi=ao">Qinwei Xu</a>, Ruijin;  &emsp;
-<a href="https://scholar.google.com.hk/citations?user=BAZSE7wAAAAJ&hl=zh-CN&oi=ao">Chaoqin Huang</a>, SJTU;  &emsp;
-<a href="https://scholar.google.com.hk/citations?user=XBbwb78AAAAJ&hl=zh-CN&oi=ao">Yue Hu</a>, SJTU;  &emsp;
+
+
 <a href="https://scholar.google.com.hk/citations?user=d7r3NGQAAAAJ&hl=zh-CN&oi=ao">Yujie Pan</a>, Intel.
 
 
 - I am fortunate to meet many amazing people & Team:
-1. UESTC.  &emsp;
+1. UESTC. &emsp;
 <a href="https://scholar.google.com.hk/citations?user=r0aZUfoAAAAJ&hl=zh-CN&oi=ao">Yong Liu</a> &emsp;
 
-3. Baidu. Big Search, MEG: <a href="https://scholar.google.com.hk/citations?user=UFhcrs4AAAAJ&hl=zh-CN&oi=ao">Zhengyang Li</a>, Suqi Chen
-&emsp;
-Ernie Bot (文心一言), AIG: <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=9ClaqP0AAAAJ&view_op=list_works&sortby=pubdate">Jiachen Liu</a>. 
+2. SJTU.  &emsp;
+<a href="https://scholar.google.com.hk/citations?user=XBbwb78AAAAJ&hl=zh-CN&oi=ao">Yue Hu</a>,
+<a href="https://scholar.google.com.hk/citations?user=UgmMqV0AAAAJ&hl=zh-CN&oi=ao">Chenxin Xu</a>,
+<a href="https://scholar.google.com.hk/citations?user=BAZSE7wAAAAJ&hl=zh-CN&oi=ao">Chaoqin Huang</a>,
 
 
-4. JD. 
-
-5. KuaiShou: 
-
-6. Alibaba Group.
-DAMO Academy: <a href="https://xavierchen34.github.io/">Xi Chen</a>, &emsp;
-<a href="https://scholar.google.com.hk/citations?user=6bTGGDAAAAAJ&hl=zh-CN&oi=ao">Mosha Chen</a>, &emsp;
+4. Baidu. Big Search, MEG: <a href="https://scholar.google.com.hk/citations?user=UFhcrs4AAAAJ&hl=zh-CN&oi=ao">Zhengyang Li</a>, Suqi Chen
+&emsp; &emsp; 
+Ernie Bot (文心一言), AIG: Tian Wu, <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=9ClaqP0AAAAJ&view_op=list_works&sortby=pubdate">Jiachen Liu</a>. 
 
 
-7. Ant Group.
-Ant Research: <a href="https://scholar.google.com.hk/citations?user=6FsgWBMAAAAJ&hl=zh-CN&oi=ao">Tong Zhan</a>, &emsp;
+6. JD. 
+
+7. KuaiShou: 
+
+8. Alibaba Group. &emsp; &emsp;
+DAMO Academy: <a href="https://xavierchen34.github.io/">Xi Chen</a>, <a href="https://scholar.google.com.hk/citations?user=6bTGGDAAAAAJ&hl=zh-CN&oi=ao">Mosha Chen</a>.
+&emsp; &emsp; 
+Ant Research: <a href="https://scholar.google.com.hk/citations?user=6FsgWBMAAAAJ&hl=zh-CN&oi=ao">Tong Zhan</a>, <a href="https://scholar.google.com.hk/citations?user=11HDEbkAAAAJ&hl=zh-CN&oi=ao">Qingpei Guo</a>.
 
 
-9. Huawei:
+10. Huawei: &emsp; &emsp;
 <a href="https://scholar.google.com.hk/citations?user=Qkx2FKoAAAAJ&hl=zh-CN&oi=ao">Maosen Li</a>,  &emsp; 
 <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=GRcH3nAAAAAJ">Yucheng Liu</a>, &emsp;
 <a href="https://phellonchen.github.io/">Feilong Chen</a>, &emsp;
 
-11. NVIDIA: &emsp;
-<a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=Xv9DcdEAAAAJ">Yangheng Zhao</a>, &emsp;
-<a href="https://scholar.google.com.hk/citations?user=Etmn37YAAAAJ&hl=zh-CN&oi=ao">Jie Chang</a>, &emsp;
+11. NVIDIA: &emsp; &emsp;
+<a href="https://scholar.google.com.hk/citations?user=Etmn37YAAAAJ&hl=zh-CN&oi=ao">Jie Chang</a>, <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=Xv9DcdEAAAAJ">Yangheng Zhao</a>.
+
 
 13. 
 
