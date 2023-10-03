@@ -134,17 +134,19 @@ arXiv preprint 2023
 UESTC: <a href="https://scholar.google.com.hk/citations?user=r0aZUfoAAAAJ&hl=zh-CN&oi=ao">Yong Liu</a>, <a href="https://scholar.google.com.hk/citations?user=r0aZUfoAAAAJ&hl=zh-CN&oi=ao">Yadong Jiang</a>.
 &emsp; 
 PKU:
-<a href="https://scholar.google.com.hk/citations?user=4CQKG8oAAAAJ&hl=zh-CN&oi=ao">Hong Liu</a>, <a href="https://scholar.google.com.hk/citations?user=pXAf0agAAAAJ&hl=zh-CN&oi=ao">Jin Luo</a>, <a href="https://scholar.google.com.hk/citations?user=pXAf0agAAAAJ&hl=zh-CN&oi=ao">Donglin Liu</a>, Yong Peng</a>.
+<a href="https://scholar.google.com.hk/citations?user=4CQKG8oAAAAJ&hl=zh-CN&oi=ao">Hong Liu</a>, <a href="https://scholar.google.com.hk/citations?user=pXAf0agAAAAJ&hl=zh-CN&oi=ao">Jin Luo</a>, <a href="https://scholar.google.com.hk/citations?user=pXAf0agAAAAJ&hl=zh-CN&oi=ao">Donglin Liu</a>, Yong Peng.
 &emsp;
 THU: <a href="https://scholar.google.com.hk/citations?user=pXAf0agAAAAJ&hl=zh-CN&oi=ao">Shousheng Han</a>, <a href="https://scholar.google.com.hk/citations?user=pXAf0agAAAAJ&hl=zh-CN&oi=ao">Zhengsong Wang</a>, Zongren Dai. 
 &emsp; 
-SJTU: <a href="https://scholar.google.com.hk/citations?user=x0Uk7S8AAAAJ&hl=zh-CN&oi=ao">Haicheng Wang</a>, <a href="https://scholar.google.com.hk/citations?user=wSRKaWIAAAAJ&hl=zh-CN&oi=ao">Jinxiang Liu</a>, <a href="https://scholar.google.com.hk/citations?user=XBbwb78AAAAJ&hl=zh-CN&oi=ao">Yue Hu</a>, <a href="https://scholar.google.com.hk/citations?user=UgmMqV0AAAAJ&hl=zh-CN&oi=ao">Chenxin Xu</a>, <a href="https://scholar.google.com.hk/citations?user=BAZSE7wAAAAJ&hl=zh-CN&oi=ao">Chaoqin Huang</a>, <a href="https://scholar.google.com.hk/citations?user=Zno4WggAAAAJ&hl=zh-CN&oi=ao">Xiaoman Zhang</a>.
+SJTU: <a href="https://scholar.google.com.hk/citations?user=x0Uk7S8AAAAJ&hl=zh-CN&oi=ao">Haicheng Wang</a>, <a href="https://scholar.google.com.hk/citations?user=wSRKaWIAAAAJ&hl=zh-CN&oi=ao">Jinxiang Liu</a>, <a href="https://scholar.google.com.hk/citations?user=XBbwb78AAAAJ&hl=zh-CN&oi=ao">Yue Hu</a>, <a href="https://scholar.google.com.hk/citations?user=UgmMqV0AAAAJ&hl=zh-CN&oi=ao">Chenxin Xu</a>, <a href="https://scholar.google.com.hk/citations?user=BAZSE7wAAAAJ&hl=zh-CN&oi=ao">Chaoqin Huang</a>, <a href="https://scholar.google.com.hk/citations?user=Zno4WggAAAAJ&hl=zh-CN&oi=ao">Xiaoman Zhang</a>, <a href="https://scholar.google.com.hk/citations?user=JuRztWYAAAAJ&hl=zh-CN&oi=ao">Xuehui Wang</a>, Jiazhong Ceng, Chen Yang.
 &emsp;
 USTC: Jiaqing Gao, Yumin Xia, Qi Meng.
-&emsp; 
+&emsp;
 Oxford: <a href="https://tengdahan.github.io/">Tengda Han</a>, <a href="https://charigyang.github.io/">Charig Yang</a>.
 &emsp;
 KU Leuven: Haien Tang, Chunzhuo Wang, Liting Yang.
+&emsp;
+NUS: <a href="https://scholar.google.com.hk/citations?user=sj4FqEgAAAAJ&hl=zh-CN&oi=ao">Jialin Gao</a>
 &emsp; 
 OpenGVLab: <a href="https://yangxue0827.github.io/">Xue Yang</a>.
 &emsp; 
@@ -161,9 +163,9 @@ Alimama (阿里妈妈): Jiajie Wang, Hao Wu, Yuanzhe Gu.
 &emsp;
 T-head (平头哥): Yu Fu, He Guo.
 &emsp;
-Ant Research (蚂蚁研究院): <a href="https://scholar.google.com.hk/citations?user=6FsgWBMAAAAJ&hl=zh-CN&oi=ao">Tong Zhan</a>, <a href="https://scholar.google.com.hk/citations?user=11HDEbkAAAAJ&hl=zh-CN&oi=ao">Qingpei Guo</a>.
+AntGroup (蚂蚁金服): <a href="https://scholar.google.com.hk/citations?user=6FsgWBMAAAAJ&hl=zh-CN&oi=ao">Tong Zhan</a>, <a href="https://scholar.google.com.hk/citations?user=11HDEbkAAAAJ&hl=zh-CN&oi=ao">Qingpei Guo</a>, Yifei Hu.
 
-5. Huawei. &emsp; 
+4. Huawei. &emsp; 
 Cloud BU (华为云): <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=GRcH3nAAAAAJ">Yucheng Liu</a>,
 <a href="https://scholar.google.com.hk/citations?user=JmEBaccAAAAJ&hl=zh-CN&oi=ao">Yaoming Wang</a>,
 <a href="https://scholar.google.com.hk/citations?user=jmFZZYMAAAAJ&hl=zh-CN&oi=ao">Shuangrui Ding</a>,
@@ -177,26 +179,39 @@ ICT (信息通讯): Liang Zhao, Tongda Li.
 &emsp;
 2012 (诺亚): Yu Zhou, Guohao Gong.
 
-6. Baidu. &emsp; 
+5. Baidu. &emsp; 
 Big Search (大搜), MEG: <a href="https://scholar.google.com.hk/citations?user=UFhcrs4AAAAJ&hl=zh-CN&oi=ao">Zhengyang Li</a>, Suqi Chen. 
 &emsp; 
 Ernie Bot (文心一言), AIG: Tian Wu, <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=9ClaqP0AAAAJ&view_op=list_works&sortby=pubdate">Jiachen Liu</a>.
 &emsp;
 Phoenix Nest (凤巢), MEG: Chenyang Li.
 
-4. Software Company. &emsp; 
+6. Tencent. &emsp; 
+WXG (微信): Xiaoyi Jia, Honghui Lin, 
+&emsp; 
+CDG (腾讯广告): Tianyue Cao.
+&emsp;
+TEG (混元大模型): <a href="https://scholar.google.com.hk/citations?user=q9Fn50QAAAAJ&hl=zh-CN&oi=ao">Hongfa Wang</a>, <a href="https://scholar.google.com.hk/citations?user=AjxoEpIAAAAJ&hl=zh-CN&oi=ao">Wei Liu</a>.
+
+
+7. Software Company. &emsp; 
 Meta: <a href="https://dyekuu.github.io/">Kunhao Zheng</a>.
 &emsp;
 DiDi: <a href="https://scholar.google.com.hk/citations?user=CJgDlnoAAAAJ&hl=zh-CN&oi=ao">Zhe Xu</a>.
 &emsp;
+ByteDance: Kunyuan Du, Xuan Liao, Yuxuan Jiang, Shiqi Peng, Hangtian Zhao, Jian Li.
+&emsp;
+Bilibili: Luochen Lv.
+&emsp;
+Xiapi: Yu Li.
+&emsp;
+ZTE: Xiao Hu. 
+&emsp;
+KuaiShou: Liwei Chen, Kun Xu.
+&emsp;
+MeiTuan: <a href="https://scholar.google.com.hk/citations?user=9rY7WqAAAAAJ&hl=zh-CN&oi=ao">Yujie Zhong</a>, Yexun Zhang.  
 
-
-
-6. JD. 
-
-7. KuaiShou: 
-
-
+  
 8. Hardware Company. &emsp;
 INVIDIA: <a href="https://scholar.google.com.hk/citations?user=Etmn37YAAAAJ&hl=zh-CN&oi=ao">Jie Chang</a>, <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=Xv9DcdEAAAAJ">Yangheng Zhao</a>.
 &emsp;
@@ -204,7 +219,9 @@ Intel: <a href="https://scholar.google.com.hk/citations?user=d7r3NGQAAAAJ&hl=zh-
 &emsp;
 Hikvision: Tengfei Hou, Wanshun Gao. 
 &emsp;
-OPPO: Bo Wang.
+OPPO: Bo Wang, Chen Chen, Haonan Lu.
+&emsp;
+Honor: Yuanchao Du.
 
 
 # 📄 Patents
