@@ -124,16 +124,15 @@ arXiv preprint 2023
 
 
 
-# 🗞️ Academic Services
+# 🗞️ Academics and Communications
 - PC Member & Reviewer: AAAI 2024, WACV 2024, ICCV 2023, CVPR 2023, ACM MM 2023, AAAI 2023, ECCV 2022, IEEE T-MM
 
-- I am fortunate to meet many interesting people:  &emsp;
-<a href="https://scholar.google.com.hk/citations?user=r0aZUfoAAAAJ&hl=zh-CN&oi=ao">Yong Liu</a>, UESTC;  &emsp;
+- I am fortunate to meet many interesting people:
+
 <a href="https://tengdahan.github.io/">Tengda Han</a>, Oxford;  &emsp;
 <a href="https://dyekuu.github.io/">Kunhao Zheng</a>, Meta;  &emsp;
 <a href="https://zhenyangli.github.io/">Zhengyang Li</a>, Baidu;  &emsp;
 <a href="https://scholar.google.com.hk/citations?user=CJgDlnoAAAAJ&hl=zh-CN&oi=ao">Zhe Xu</a>, DiDi;  &emsp;
-<a href="https://mileistone.github.io/">Yichao Xiong</a>, ByteDance;  &emsp;
 <a href="https://yangxue0827.github.io/">Xue Yang</a>, OpenGVLab;  &emsp; 
 
 <a href="https://scholar.google.com.hk/citations?user=pXAf0agAAAAJ&hl=zh-CN&oi=ao">Jin Luo</a>, PKU;  &emsp;
@@ -144,17 +143,20 @@ arXiv preprint 2023
 <a href="https://scholar.google.com.hk/citations?user=d7r3NGQAAAAJ&hl=zh-CN&oi=ao">Yujie Pan</a>, Intel.
 
 
-- I am fortunate to meet many amazing people \& Team:
-1. Baidu. Big Search, MEG: <a href="https://scholar.google.com.hk/citations?user=UFhcrs4AAAAJ&hl=zh-CN&oi=ao">Zhengyang Li</a>, Suqi Chen
+- I am fortunate to meet many amazing people & Team:
+1. UESTC.  &emsp;
+<a href="https://scholar.google.com.hk/citations?user=r0aZUfoAAAAJ&hl=zh-CN&oi=ao">Yong Liu</a> &emsp;
+
+3. Baidu. Big Search, MEG: <a href="https://scholar.google.com.hk/citations?user=UFhcrs4AAAAJ&hl=zh-CN&oi=ao">Zhengyang Li</a>, Suqi Chen
 &emsp;
 Ernie Bot (文心一言), AIG: <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=9ClaqP0AAAAJ&view_op=list_works&sortby=pubdate">Jiachen Liu</a>. 
 
 
-3. JD. 
+4. JD. 
 
-4. KuaiShou: 
+5. KuaiShou: 
 
-5. Alibaba Group.
+6. Alibaba Group.
 DAMO Academy: <a href="https://xavierchen34.github.io/">Xi Chen</a>, &emsp;
 <a href="https://scholar.google.com.hk/citations?user=6bTGGDAAAAAJ&hl=zh-CN&oi=ao">Mosha Chen</a>, &emsp;
 
@@ -189,7 +191,7 @@ Yanfeng Wang, Chaofan Ma, Yuhuan Yang, **<u>Chen Ju</u>**, Fei Zhang, Ya Zhang.
 
 
 
-# 📖 Educations and Communications
+# 📖 Educations
 - *2018.09 - 2024.03*, PhD candidate, Shanghai Jiao Tong University, Shanghai, China
 - *2018*, Exchange Student, University of Amsterdam, Netherlands
 - *2018*, Exchange Student, KU Leuven, Belgium
