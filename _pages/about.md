@@ -91,7 +91,7 @@ Jinxiang Liu, Yu Wang, **Chen Ju**, Chaofan Ma, Ya Zhang, Weidi Xie
 1. [Bottom-Up Temporal Action Localization with
 Mutual Regularization](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123530528.pdf) \| [[Demo](https://voide1220.github.io/adapter/)]  \|   [[Code](https://github.com/PeisenZhao/Bottom-Up-TAL-with-MR)]   \|  [[Bibtex](./CITE/cite_bottom.txt)]               
 Peisen Zhao, Lingxi Xie, **Chen Ju**, Ya Zhang, Yanfeng Wang and Qi Tian               
-**ECCV 2020** 
+**ECCV 2020**
 
 1. [Adaptive Mutual Supervision for
 Weakly-Supervised Temporal Action Localization](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9920676)  \|  [[Project & Demo](https://voide1220.github.io/adapter/)]  \|   [[Bibtex](./CITE/cite_adaptive.txt)]            
@@ -108,7 +108,7 @@ arXiv preprint 2023
 Chaofan Ma, Yuhuan Yang, **Chen Ju**, Fei Zhang, Jinxiang Liu, Yu Wang, Ya Zhang and Yanfeng Wang                 
 **ICCV 2023**
 
-1. [Multi-Modal Prototypes for Open-Set Semantic Segmentation](https://arxiv.org/pdf/2307.02003.pdf) \| [[Bibtex](./CITE/cite_prototype.txt)]                  
+1. [Multi-Modal Prototypes for Open-Set Semantic Segmentation](https://arxiv.org/pdf/2307.02003.pdf) \| [[Bibtex](./CITE/cite_prototype.txt)]                    
 Yuhuan Yang, Chaofan Ma, **Chen Ju**, Ya Zhang and Yanfeng Wang             
 arXiv preprint 2023
 
@@ -145,13 +145,17 @@ arXiv preprint 2023
 
 
 - I am fortunate to meet many amazing people \& Team:
-1. Big Search, MEG, Baidu: 
+1. Baidu. Big Search, MEG: <a href="https://scholar.google.com.hk/citations?user=UFhcrs4AAAAJ&hl=zh-CN&oi=ao">Zhengyang Li</a>, 
+&emsp;
+Ernie Bot (文心一言), AIG: <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=9ClaqP0AAAAJ&view_op=list_works&sortby=pubdate">Jiachen Liu</a>. 
 
-2. , JD:
 
-3. KuaiShou: 
 
-4. DAMO Academy, Alibaba Group: <a href="https://xavierchen34.github.io/">Xi Chen</a>,
+3. JD. 
+
+4. KuaiShou: 
+
+5. DAMO Academy, Alibaba Group: <a href="https://xavierchen34.github.io/">Xi Chen</a>,
 &emsp;
 <a href="https://scholar.google.com.hk/citations?user=6bTGGDAAAAAJ&hl=zh-CN&oi=ao">Mosha Chen</a>,
 &emsp;
