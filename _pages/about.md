@@ -180,11 +180,11 @@ ICT (信息通讯): Liang Zhao, Tongda Li.
 2012 (诺亚): Yu Zhou, Guohao Gong.
 
 5. Baidu. &emsp; 
-Big Search (大搜), MEG: <a href="https://scholar.google.com.hk/citations?user=UFhcrs4AAAAJ&hl=zh-CN&oi=ao">Zhengyang Li</a>, Suqi Chen. 
+Big Search (大搜): <a href="https://scholar.google.com.hk/citations?user=UFhcrs4AAAAJ&hl=zh-CN&oi=ao">Zhengyang Li</a>, Suqi Chen. 
 &emsp; 
-Ernie Bot (文心一言), AIG: Tian Wu, <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=9ClaqP0AAAAJ&view_op=list_works&sortby=pubdate">Jiachen Liu</a>.
+Ernie Bot (文心一言): Tian Wu, <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=9ClaqP0AAAAJ&view_op=list_works&sortby=pubdate">Jiachen Liu</a>.
 &emsp;
-Phoenix Nest (凤巢), MEG: Chenyang Li.
+Phoenix Nest (凤巢): Chenyang Li.
 
 6. Tencent. &emsp; 
 WXG (微信): Xiaoyi Jia, Honghui Lin, 
