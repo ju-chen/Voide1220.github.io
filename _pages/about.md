@@ -189,7 +189,7 @@ Ernie Bot (文心一言): Tian Wu, <a href="https://scholar.google.com.hk/citati
 Phoenix Nest (凤巢): Chenyang Li.
 
 6. Tencent. &emsp; 
-WXG (微信): Xiaoyi Jia, Honghui Lin, 
+WXG (微信): Xiaoyi Jia, Honghui Lin, Yongsheng Luo, Yukun Su, Tianwei Wang, Zhenghua Liu.
 &emsp; 
 CDG (腾讯广告): Tianyue Cao.
 &emsp;
