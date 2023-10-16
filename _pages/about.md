@@ -124,6 +124,9 @@ Chaofan Ma, Yuhuan Yang, **Chen Ju**, Fei Zhang, Ya Zhang and Yanfeng Wang
 **Chen Ju**, Haicheng Wang, Zeqian Li, Shuai Xiao, Xu Chen, Zhonghua Zhai and Weilin Huang             
 arXiv preprint 2023   
 
+1. Mixer: A Novel Paradigm of Image to Multi-Modal Retrieval Learning              
+Zida Cheng, Shuai Xiao, Zhonghua Zhai, **Chen Ju**, Xiaoyi Zeng and Weilin Huang             
+arXiv preprint 2023   
 
 
 # 🗞️ Academics and Communications
