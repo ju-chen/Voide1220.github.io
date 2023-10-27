@@ -130,7 +130,7 @@ arXiv preprint 2023
 
 
 # 🗞️ Academics and Communications
-- PC Member & Reviewer: IEEE T-PAMI, AAAI 2024, WACV 2024, ICCV 2023, CVPR 2023, ACM MM 2023, AAAI 2023, ECCV 2022, IEEE T-MM
+- PC Member & Reviewer: AAAI 2024, WACV 2024, ICCV 2023, CVPR 2023, ACM MM 2023, AAAI 2023, ECCV 2022, IEEE T-PAMI, IEEE T-MM, NPL
 
 - I am fortunate to meet many interesting people & Team:
 
@@ -235,7 +235,7 @@ Ya Zhang, **<u>Chen Ju</u>**, Peisen Zhao, Siheng Chen, Xiaoyun Zhang, Yanfeng W
 Ya Zhang, **<u>Chen Ju</u>**, Kunhao Zheng, Jinxiang Liu, Weidi Xie, Yanfeng Wang.  
 - CN202211581256.7 [《局部监督长视频时序文本检索方法及系统》](https://cprs.patentstar.com.cn/Search/Detail?ANE=9GHG6CEA9FCA9DEA9IEE9GGE9BGDAIBA9IBB9IBC9EAA9ICH)       
 Ya Zhang, **<u>Chen Ju</u>**, Haicheng Wang, Jinxiang Liu, Chaofan Ma, Yanfeng Wang.  
-- CN202310913202.4 [《基于属性分解-聚合的开放词汇语义分割方法及系统》](https://cprs.patentstar.com.cn/Search/Detail?ANE=9GHG6CEA9FCA9DEA9IEE9GGE9BGDAIBA9IBB9IBC9EAA9ICH)       
+- CN202310913202.4 [《基于属性分解-聚合的开放词汇语义分割方法及系统》](https://cprs.patentstar.com.cn/Search/Detail?ANE=9HBB8IAA5CBA9CFB6CDA8EEAFFIA8GBA8FAA9BHB7FCA9EHE)       
 Yanfeng Wang, Chaofan Ma, Yuhuan Yang, **<u>Chen Ju</u>**, Fei Zhang, Ya Zhang.  
 
 
