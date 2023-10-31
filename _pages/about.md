@@ -25,7 +25,7 @@ with some outstanding researchers from WeChat Technology (微信技术架构), T
 As a young researcher, your interest and kind citation will definitely mean a lot for me and my collaborators.
 
 <p> <b>Email:</b> ju_chen[at]sjtu[dot]edu[dot]cn / cju[dot]void[at]gmail[dot]com         &emsp; &emsp; &emsp; &emsp; &emsp;             
-<b> Google Scholar:</b> Citations 400, H-index 8, I10-index 7 </p>  
+<b> Google Scholar:</b> Citations 410, H-index 8, I10-index 7 </p>  
 
 
 
@@ -70,8 +70,20 @@ Please feel free to drop me an email for any suggestions or potential collaborat
 **Chen Ju**, Zeqian Li, Peisen Zhao, Ya Zhang, Xiaopeng Zhang, Qi Tian, Yanfeng Wang and Weidi Xie     
 **Springer IJCV**
 
+1. [Open-Vocabulary Semantic Segmentation via Attribute Decomposition-Aggregation](https://arxiv.org/pdf/2307.02003.pdf) \| [[Bibtex](./CITE/cite_attribute.txt)]                  
+Chaofan Ma, Yuhuan Yang, **Chen Ju**, Fei Zhang, Ya Zhang and Yanfeng Wang             
+**NIPS 2023**
+
+1. [Multi-Modal Prototypes for Open-Set Semantic Segmentation](https://arxiv.org/pdf/2307.02003.pdf) \| [[Bibtex](./CITE/cite_prototype.txt)]                    
+Yuhuan Yang, Chaofan Ma, **Chen Ju**, Ya Zhang and Yanfeng Wang             
+arXiv preprint 2023
+
 
 ### 📒 Topic: Vision-Language-Audio Foundation Pre-trainings with Strong Generalization but Low Costs
+1. Entropy-Driven Turbo Plugin for Vision-Language Foundation Models                
+**Chen Ju**, Haicheng Wang, Xu Chen, Zhonghua Zhai, Weilin Huang and Shuai Xiao             
+arXiv preprint 2023   
+
 1. [Transformation Invariance and Equivariance for Self-supervised Sound Localization](https://arxiv.org/pdf/2206.12772.pdf)  \| [[Project & Demo](https://jinxiang-liu.github.io/SSL-TIE/)] \| [[Code](https://github.com/jinxiang-liu/SSL-TIE)] \| [[Bibtex](./CITE/cite_audio.txt)]                              
 Jinxiang Liu, **Chen Ju**, Weidi Xie and Ya Zhang         
 **ACM Multimedia 2022**   
@@ -100,33 +112,29 @@ Weakly-Supervised Temporal Action Localization](https://ieeexplore.ieee.org/stam
 **Chen Ju**, Peisen Zhao, Siheng Chen, Ya Zhang, Xiaoyun Zhang and Qi Tian               
 **IEEE Transactions on Multimedia** 
 
+1. [DiffusionSeg: Adapting Diffusion Towards Unsupervised Object Discovery](https://arxiv.org/pdf/2303.09813.pdf) \| [[Bibtex](./CITE/cite_diffusion.txt)]               
+Chaofan Ma, Yuhuan Yang, **Chen Ju**, Fei Zhang, Jinxiang Liu, Yu Wang, Ya Zhang and Yanfeng Wang                 
+**ICCV 2023**
+
 1. [Audio-Aware Query-Enhanced Transformer for Audio-Visual Segmentation](https://arxiv.org/abs/2307.13236.pdf)   \|    [[Project & Code](https://jinxiang-liu.github.io/anno-free-AVS/)]  \|  [[Bibtex](./CITE/cite_aqt.txt)]              
 Jinxiang Liu, **Chen Ju**, Chaofan Ma, Yanfeng Wang, Yu Wang, Ya Zhang    
 arXiv preprint 2023
 
 
-### 📒 Topic: AIGC for Video Editing, Music Composition, and Conversation-Driven Visual Understanding
-1. [DiffusionSeg: Adapting Diffusion Towards Unsupervised Object Discovery](https://arxiv.org/pdf/2303.09813.pdf) \| [[Bibtex](./CITE/cite_diffusion.txt)]               
-Chaofan Ma, Yuhuan Yang, **Chen Ju**, Fei Zhang, Jinxiang Liu, Yu Wang, Ya Zhang and Yanfeng Wang                 
-**ICCV 2023**
 
-1. [Multi-Modal Prototypes for Open-Set Semantic Segmentation](https://arxiv.org/pdf/2307.02003.pdf) \| [[Bibtex](./CITE/cite_prototype.txt)]                    
-Yuhuan Yang, Chaofan Ma, **Chen Ju**, Ya Zhang and Yanfeng Wang             
-arXiv preprint 2023
-
-1. [Open-Vocabulary Semantic Segmentation via Attribute Decomposition-Aggregation](https://arxiv.org/pdf/2307.02003.pdf) \| [[Bibtex](./CITE/cite_attribute.txt)]                  
-Chaofan Ma, Yuhuan Yang, **Chen Ju**, Fei Zhang, Ya Zhang and Yanfeng Wang             
-**NIPS 2023**
-
-
-### 📒 Topic: Training & Inference Acceleration for Vision-Language-Audio Understanding & Generation
-1. Entropy-Driven Turbo Plugin for Vision-Language Foundation Models                
-**Chen Ju**, Haicheng Wang, Zeqian Li, Shuai Xiao, Xu Chen, Zhonghua Zhai and Weilin Huang             
-arXiv preprint 2023   
-
-1. Mixer: A Novel Paradigm of Image to Multi-Modal Retrieval Learning              
+### 📒 Topic: MLLMs Guided Multi-Modal Information Retrieval, Sorting, Recall & Representation
+1. Mixer: Image to Multi-Modal Retrieval Learning for Industrial Scenarios              
 Zida Cheng, Shuai Xiao, Zhonghua Zhai, **Chen Ju**, Xiaoyi Zeng and Weilin Huang             
 arXiv preprint 2023   
+
+1. Enhancing Cross-domain Click-Through Rate Prediction via Explicit Feature Augmentation            
+Xu Chen, Zida Cheng, Jiangchao Yao, **Chen Ju**, Weilin Huang and Shuai Xiao             
+arXiv preprint 2023  
+
+1. Cell Variational Information Bottleneck Network           
+ Zhonghua Zhai, **Chen Ju**, Xiaoyi Zeng and Weilin Huang             
+arXiv preprint 2023 
+
 
 
 # 🗞️ Academics and Communications
@@ -167,7 +175,7 @@ Alimama (阿里妈妈): Jiajie Wang, Hao Wu, Yuanzhe Gu.
 &emsp;
 T-head (平头哥): Yu Fu, He Guo.
 &emsp;
-AntGroup (蚂蚁金服): <a href="https://scholar.google.com.hk/citations?user=6FsgWBMAAAAJ&hl=zh-CN&oi=ao">Tong Zhan</a>, <a href="https://scholar.google.com.hk/citations?user=11HDEbkAAAAJ&hl=zh-CN&oi=ao">Qingpei Guo</a>, Yifei Hu.
+AntGroup (蚂蚁金服): <a href="https://scholar.google.com.hk/citations?user=6FsgWBMAAAAJ&hl=zh-CN&oi=ao">Tong Zhan</a>, <a href="https://scholar.google.com.hk/citations?user=11HDEbkAAAAJ&hl=zh-CN&oi=ao">Qingpei Guo</a>, Yifei Hu, Ming Yang.
 
 4. Huawei. &emsp; 
 Cloud BU (华为云): <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=GRcH3nAAAAAJ">Yucheng Liu</a>,
