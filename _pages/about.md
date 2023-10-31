@@ -79,7 +79,7 @@ Yuhuan Yang, Chaofan Ma, **Chen Ju**, Ya Zhang and Yanfeng Wang
 arXiv preprint 2023
 
 
-### 📒 Topic: Vision-Language-Audio Foundation Pre-trainings with Strong Generalization but Low Costs
+### 📒 Topic: Vision-Language-Audio Pre-trainings & Inference with Strong Generalization but Low Costs
 1. Entropy-Driven Turbo Plugin for Vision-Language Foundation Models                
 **Chen Ju**, Haicheng Wang, Xu Chen, Zhonghua Zhai, Weilin Huang and Shuai Xiao             
 arXiv preprint 2023   
