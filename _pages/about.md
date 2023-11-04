@@ -25,7 +25,7 @@ with some outstanding researchers from WeChat Technology (微信技术架构), T
 As a young researcher, your interest and kind citation will definitely mean a lot for me and my collaborators.
 
 <p> <b>Email:</b> ju_chen[at]sjtu[dot]edu[dot]cn / cju[dot]void[at]gmail[dot]com         &emsp; &emsp; &emsp; &emsp; &emsp;             
-<b> Google Scholar:</b> Citations 410, H-index 8, I10-index 7 </p>  
+<b> Google Scholar:</b> Citations 420, H-index 8, I10-index 7 </p>  
 
 
 
@@ -95,6 +95,10 @@ arXiv preprint 2023
 1. [SAM Guided Annotation-free Audio-Visual Cross-modal Segmentation](https://arxiv.org/pdf/2305.11019.pdf)   \|    [[Project & Code](https://jinxiang-liu.github.io/anno-free-AVS/)]  \|     [[Bibtex](./CITE/cite_aavs.txt)]            
 Jinxiang Liu, Yu Wang, **Chen Ju**, Chaofan Ma, Ya Zhang, Weidi Xie       
 **WACV 2024** 
+
+1. Audio-Visual Segmentation via Unlabeled Frames Exploitation                
+Jinxiang Liu, Yikun Liu, Fei Zhang, **Chen Ju**, Yanfeng Wang and Ya Zhang            
+arXiv preprint 2023  
 
 
 ### 📒 Topic: Freeze Pre-trainings, Downstream Video Understanding with Limited Annotation & Supervision
