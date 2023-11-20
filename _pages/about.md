@@ -30,9 +30,10 @@ As a young researcher, your interest and kind citation will definitely mean a lo
 
 
 # 🔥 News
+- [*2023.12*] ![new paper](/images/new.gif) Our new work, [universal VLMs acceleration architecture, from the novel perspective of data de-redundancy](https://arxiv.org/pdf/2309.00096.pdf) is out!
 - [*2023.09*] ![new paper](/images/new.gif) Our new work, [diversifying semantics' attributes via LLMs for open-set visual system](https://arxiv.org/pdf/2309.00096.pdf) is out!
 - [*2023.07*] ![new paper](/images/new.gif) Our new work, [aligning LLMs' remarkable semantics for multi-modal understanding system](https://arxiv.org/pdf/2307.02003.pdf) is out!
-- [*2023.05*] ![new paper](/images/new.gif) Our new work, [distilling fine-grained priors from stable diffusion for unsupervised object discovery](https://arxiv.org/pdf/2303.09813.pdf) is out!
+- [*2023.05*] Our work, [distilling fine-grained priors from stable diffusion for unsupervised object discovery](https://arxiv.org/pdf/2303.09813.pdf) is out!
 - [*2023.04*] Our work, [multi-modal GPT prompting for vision-language foundation models](https://arxiv.org/pdf/2303.11732.pdf) is out!
 - [*2023.03*] Our work, [collaborative distillation so that multiple foundation pre-trainings complement each other](https://arxiv.org/pdf/2212.09335.pdf) is out!
 - [*2023.02*] Our work, [partial supervision with quadruple contrasts for cost-effective vision-language pre-training](https://arxiv.org/pdf/2302.09850.pdf) is out!
@@ -80,7 +81,7 @@ arXiv preprint 2023
 
 
 ### 📒 Topic: Vision-Language-Audio Pre-trainings & Inference with Strong Generalization but Low Costs
-1. Entropy-Driven Turbo Plugin for Vision-Language Foundation Models                
+1. Turbo: Informativity-Driven Acceleration Plugin for Vision-Language Foundation Models                
 **Chen Ju**, Haicheng Wang, Xu Chen, Zhonghua Zhai, Weilin Huang and Shuai Xiao             
 arXiv preprint 2023   
 
@@ -132,7 +133,7 @@ Zida Cheng, **Chen Ju**, Xu Chen, Zhonghua Zhai and Shuai Xiao
 arXiv preprint 2023   
 
 1. Enhancing Cross-domain Click-Through Rate Prediction via Explicit Feature Augmentation            
-Xu Chen, Zida Cheng, Jiangchao Yao, **Chen Ju**, Weilin Huang and Shuai Xiao             
+Xu Chen, Zida Cheng, Jiangchao Yao, **Chen Ju**, Weilin Huang, Xiaoyi Zeng and Shuai Xiao             
 arXiv preprint 2023  
 
 1. Cell Variational Information Bottleneck Network           
