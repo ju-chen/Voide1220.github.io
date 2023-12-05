@@ -128,11 +128,11 @@ arXiv preprint 2023
 
 
 ### 📒 Topic: MLLMs Guided Multi-Modal Information Retrieval, Sorting, Recall & Representation
-1. Image to Multi-Modal Retrieval Learning for Industrial Scenarios              
+1. [Image to Multi-Modal Retrieval Learning for Industrial Scenarios](https://arxiv.org/pdf/2305.03972.pdf)                 
 Zida Cheng, **Chen Ju**, Xu Chen, Zhonghua Zhai and Shuai Xiao              
 arXiv preprint 2023   
 
-1. Enhancing Cross-domain Click-Through Rate Prediction via Explicit Feature Augmentation            
+1. [Enhancing Cross-domain Click-Through Rate Prediction via Explicit Feature Augmentation](https://arxiv.org/pdf/2312.00078.pdf)                  
 Xu Chen, Zida Cheng, Jiangchao Yao, **Chen Ju**, Weilin Huang, Xiaoyi Zeng and Shuai Xiao             
 arXiv preprint 2023  
 
