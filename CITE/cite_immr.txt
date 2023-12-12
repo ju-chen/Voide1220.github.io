@@ -1,0 +1,6 @@
+@article{cheng2023mixer,
+  title={Image to Multi-Modal Retrieval Learning for Industrial Application},
+  author={Cheng, Zida and Ju, Chen and Chen, Xu and Zhai, Zhonghua and Xiao, Shuai},
+  journal={arXiv preprint arXiv:2305.03972},
+  year={2023}
+}
