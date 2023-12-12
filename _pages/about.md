@@ -25,7 +25,7 @@ with some outstanding researchers from WeChat Technology (微信技术架构), T
 As a young researcher, your interest and kind citation will definitely mean a lot for me and my collaborators.
 
 <p> <b>Email:</b> ju_chen[at]sjtu[dot]edu[dot]cn / cju[dot]void[at]gmail[dot]com         &emsp; &emsp; &emsp; &emsp; &emsp;             
-<b> Google Scholar:</b> Citations 450, H-index 8, I10-index 7 </p>  
+<b> Google Scholar:</b> Citations 460+, H-index 8, I10-index 7 </p>  
 
 
 
@@ -81,8 +81,8 @@ arXiv preprint 2023
 
 
 ### 📒 Topic: Vision-Language-Audio Pre-trainings & Inference with Strong Generalization but Low Costs
-1. Turbo: Informativity-Driven Acceleration Plugin for Vision-Language Foundation Models                
-**Chen Ju**, Haicheng Wang, Xu Chen, Zhonghua Zhai, Weilin Huang and Shuai Xiao             
+1. [Turbo: Informativity-Driven Acceleration Plugin for Vision-Language Foundation Models](https://arxiv.org/pdf/2206.12772.pdf)                    
+**Chen Ju**, Haicheng Wang, Zeqian Li, Xu Chen, Zhonghua Zhai, Weilin Huang and Shuai Xiao             
 arXiv preprint 2023   
 
 1. [Transformation Invariance and Equivariance for Self-supervised Sound Localization](https://arxiv.org/pdf/2206.12772.pdf)  \| [[Project & Demo](https://jinxiang-liu.github.io/SSL-TIE/)] \| [[Code](https://github.com/jinxiang-liu/SSL-TIE)] \| [[Bibtex](./CITE/cite_audio.txt)]                              
@@ -128,11 +128,11 @@ arXiv preprint 2023
 
 
 ### 📒 Topic: MLLMs Guided Multi-Modal Information Retrieval, Sorting, Recall & Representation
-1. [Image to Multi-Modal Retrieval Learning for Industrial Scenarios](https://arxiv.org/pdf/2305.03972.pdf)                 
+1. [Image to Multi-Modal Retrieval Learning for Industrial Scenarios](https://arxiv.org/pdf/2305.03972.pdf)      \|  [[Bibtex](./CITE/cite_immr.txt)]               
 Zida Cheng, **Chen Ju**, Xu Chen, Zhonghua Zhai and Shuai Xiao              
 arXiv preprint 2023   
 
-1. [Enhancing Cross-domain Click-Through Rate Prediction via Explicit Feature Augmentation](https://arxiv.org/pdf/2312.00078.pdf)                  
+1. [Enhancing Cross-domain Click-Through Rate Prediction via Explicit Feature Augmentation](https://arxiv.org/pdf/2312.00078.pdf)          \|  [[Bibtex](./CITE/cite_cctr.txt)]                            
 Xu Chen, Zida Cheng, Jiangchao Yao, **Chen Ju**, Weilin Huang, Xiaoyi Zeng and Shuai Xiao             
 arXiv preprint 2023  
 
