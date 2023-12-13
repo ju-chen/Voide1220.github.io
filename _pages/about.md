@@ -30,7 +30,7 @@ As a young researcher, your interest and kind citation will definitely mean a lo
 
 
 # 🔥 News
-- [*2023.12*] ![new paper](/images/new.gif) Our new work, [universal VLMs acceleration architecture, from the novel perspective of data de-redundancy](https://arxiv.org/pdf/2309.00096.pdf) is out!
+- [*2023.12*] ![new paper](/images/new.gif) Our new work, [universal VLMs acceleration architecture, from one novel perspective of data de-redundancy](https://arxiv.org/pdf/2312.07408.pdf) is out!
 - [*2023.09*] ![new paper](/images/new.gif) Our new work, [diversifying semantics' attributes via LLMs for open-set visual system](https://arxiv.org/pdf/2309.00096.pdf) is out!
 - [*2023.07*] ![new paper](/images/new.gif) Our new work, [aligning LLMs' remarkable semantics for multi-modal understanding system](https://arxiv.org/pdf/2307.02003.pdf) is out!
 - [*2023.05*] Our work, [distilling fine-grained priors from stable diffusion for unsupervised object discovery](https://arxiv.org/pdf/2303.09813.pdf) is out!
@@ -81,7 +81,7 @@ arXiv preprint 2023
 
 
 ### 📒 Topic: Vision-Language-Audio Pre-trainings & Inference with Strong Generalization but Low Costs
-1. [Turbo: Informativity-Driven Acceleration Plugin for Vision-Language Foundation Models](https://arxiv.org/pdf/2206.12772.pdf)                    
+1. [Turbo: Informativity-Driven Acceleration Plugin for Vision-Language Foundation Models](https://arxiv.org/pdf/2312.07408.pdf)   \| [[Bibtex](./CITE/cite_turbo.txt)]                       
 **Chen Ju**, Haicheng Wang, Zeqian Li, Xu Chen, Zhonghua Zhai, Weilin Huang and Shuai Xiao             
 arXiv preprint 2023   
 
