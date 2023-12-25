@@ -57,7 +57,7 @@ My primary research interests lie in
 
 - Video Understanding: Retrieval & Caption & Summary for Video Clips, Detection & Classification for Untrimmed Long Videos.
 
-- Data Mining: Cross-Modal Retrieval & Recommendation, Recall, Embedding, Sorting for Multi-Media Services.
+- Data Mining: Cross-Modal Retrieval & Recommendation, Recall & Embedding & Sorting for Multi-Media Services.
 
 Please feel free to drop me an email for any suggestions or potential collaborations.
 
