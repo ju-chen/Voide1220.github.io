@@ -77,7 +77,8 @@ Please feel free to drop me an email for any suggestions or potential collaborat
 **Chen Ju**, Zeqian Li, Peisen Zhao, Ya Zhang, Xiaopeng Zhang, Qi Tian, Yanfeng Wang and Weidi Xie     
 **Springer IJCV**
 
-1. [Open-Vocabulary Semantic Segmentation via Attribute Decomposition-Aggregation](https://arxiv.org/pdf/2307.02003.pdf) \| [[Bibtex](./CITE/cite_attribute.txt)]                  
+1. [Open-Vocabulary Semantic Segmentation via Attribute Decomposition-Aggregation] 
+(https://arxiv.org/pdf/2307.02003.pdf) \| [[Bibtex](./CITE/cite_attribute.txt)]                  
 Chaofan Ma, Yuhuan Yang, **Chen Ju**, Fei Zhang, Ya Zhang and Yanfeng Wang             
 **NIPS 2023**
 
@@ -89,7 +90,7 @@ arXiv preprint 2023
 ### 📒 Topic: Vision-Language-Audio Pre-trainings & Inference with Strong Generalization but Low Costs
 1. [Turbo: Informativity-Driven Acceleration Plugin for Vision-Language Foundation Models](https://arxiv.org/pdf/2312.07408.pdf)   \| [[Bibtex](./CITE/cite_turbo.txt)]                       
 **Chen Ju**, Haicheng Wang, Zeqian Li, Xu Chen, Zhonghua Zhai, Weilin Huang and Shuai Xiao             
-arXiv preprint 2023   
+arXiv preprint 2023     
 
 1. [Transformation Invariance and Equivariance for Self-supervised Sound Localization](https://arxiv.org/pdf/2206.12772.pdf)  \| [[Project & Demo](https://jinxiang-liu.github.io/SSL-TIE/)] \| [[Code](https://github.com/jinxiang-liu/SSL-TIE)] \| [[Bibtex](./CITE/cite_audio.txt)]                              
 Jinxiang Liu, **Chen Ju**, Weidi Xie and Ya Zhang         
@@ -133,7 +134,7 @@ arXiv preprint 2023
 
 
 
-### 📒 Topic: MLLMs Guided Multi-Modal Information Retrieval, Sorting, Recall & Representation
+### 📒 Topic: MLLMs Guided Multi-Modal Information Retrieval & Sorting & Recall & Representation
 1. [Image to Multi-Modal Retrieval Learning for Industrial Scenarios](https://arxiv.org/pdf/2305.03972.pdf)      \|  [[Bibtex](./CITE/cite_immr.txt)]               
 Zida Cheng, **Chen Ju**, Xu Chen, Zhonghua Zhai and Shuai Xiao              
 arXiv preprint 2023   
@@ -186,9 +187,10 @@ Alimama: Jiajie Wang, Hao Wu, Yuanzhe Gu.
 &emsp;
 T-head: Yu Fu, He Guo.
 &emsp;
-AntGroup: <a href="https://scholar.google.com.hk/citations?user=6FsgWBMAAAAJ&hl=zh-CN&oi=ao">Tong Zhan</a>, <a href="https://scholar.google.com.hk/citations?user=11HDEbkAAAAJ&hl=zh-CN&oi=ao">Qingpei Guo</a>, Yifei Hu, Ming Yang.
+AntGroup: <a href="https://scholar.google.com.hk/citations?user=6FsgWBMAAAAJ&hl=zh-CN&oi=ao">Tong Zhan</a>, <a href="https://scholar.google.com.hk/citations?user=11HDEbkAAAAJ&hl=zh-CN&oi=ao">Qingpei Guo</a>, Yifei Hu,
+<a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=uBHJx08AAAAJ&view_op=list_works&sortby=pubdate">Ming Yang</a>, <a href="https://scholar.google.com.hk/citations?user=8SCEv-YAAAAJ&hl=zh-CN&oi=ao">Jingdong Chen</a>. 
 
-4. Huawei. &emsp; 
+5. Huawei. &emsp; 
 Cloud BU: <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=GRcH3nAAAAAJ">Yucheng Liu</a>,
 <a href="https://scholar.google.com.hk/citations?user=JmEBaccAAAAJ&hl=zh-CN&oi=ao">Yaoming Wang</a>,
 <a href="https://scholar.google.com.hk/citations?user=jmFZZYMAAAAJ&hl=zh-CN&oi=ao">Shuangrui Ding</a>,
@@ -202,14 +204,14 @@ ICT: Liang Zhao, Tongda Li.
 &emsp;
 2012: Yu Zhou, Guohao Gong.
 
-5. Baidu. &emsp; 
+6. Baidu. &emsp; 
 Big Search: <a href="https://scholar.google.com.hk/citations?user=UFhcrs4AAAAJ&hl=zh-CN&oi=ao">Zhengyang Li</a>, Suqi Chen. 
 &emsp; 
 Ernie Bot: Tian Wu, <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=9ClaqP0AAAAJ&view_op=list_works&sortby=pubdate">Jiachen Liu</a>.
 &emsp;
 Phoenix Nest: Chenyang Li.
 
-6. Tencent. &emsp; 
+7. Tencent. &emsp; 
 WXG: Xiaoyi Jia, Honghui Lin, Yongsheng Luo, Tianyi Wang, Zhenghua Liu, <a href="https://hellwayxue.github.io/">Dr. Hongwei Xue</a>, <a href="https://scholar.google.com.hk/citations?user=bvSAvkcAAAAJ&hl=zh-CN&oi=ao">Dr. Dacheng Yin</a>.
 &emsp; 
 CDG: Tianyue Cao.
@@ -217,7 +219,7 @@ CDG: Tianyue Cao.
 TEG: <a href="https://scholar.google.com.hk/citations?user=q9Fn50QAAAAJ&hl=zh-CN&oi=ao">Hongfa Wang</a>, <a href="https://scholar.google.com.hk/citations?user=AjxoEpIAAAAJ&hl=zh-CN&oi=ao">Wei Liu</a>.
 
 
-7. Software Company. &emsp; 
+8. Software Company. &emsp; 
 Meta: <a href="https://dyekuu.github.io/">Kunhao Zheng</a>.
 &emsp;
 DiDi: <a href="https://scholar.google.com.hk/citations?user=CJgDlnoAAAAJ&hl=zh-CN&oi=ao">Zhe Xu</a>.
@@ -233,7 +235,7 @@ KuaiShou: Liwei Chen, Kun Xu.
 MeiTuan: <a href="https://scholar.google.com.hk/citations?user=9rY7WqAAAAAJ&hl=zh-CN&oi=ao">Yujie Zhong</a>, Yexun Zhang.  
 
   
-8. Hardware Company. &emsp;
+9. Hardware Company. &emsp;
 INVIDIA: <a href="https://scholar.google.com.hk/citations?user=Etmn37YAAAAJ&hl=zh-CN&oi=ao">Jie Chang</a>, <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=Xv9DcdEAAAAJ">Yangheng Zhao</a>.
 &emsp;
 Intel: <a href="https://scholar.google.com.hk/citations?user=d7r3NGQAAAAJ&hl=zh-CN&oi=ao">Yujie Pan</a>, Yingying Xue.
