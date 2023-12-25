@@ -51,13 +51,13 @@ As a young researcher, your interest and kind citation will definitely mean a lo
 # 💻 Researches
 My primary research interests lie in 
 
-- Vision-Language-Audio Learning: Multi-Modal Pre-training, Efficient Adaptation, Accelerate Deployment for Downstream Tasks.
+- **Vision-Language-Audio Learning**: Multi-Modal Pre-training, Efficient Adaptation, Accelerate Deployment for Downstream Tasks.
 
-- AIGC：Generation or Editing for Image & Video & Music, Conversation-Driven Multi-Modal Understanding and Composition.
+- **AIGC**：Generation or Editing for Image & Video & Music, Conversation-Driven Multi-Modal Understanding and Composition.
 
-- Video Understanding: Retrieval & Caption & Summary for Video Clips, Detection & Classification for Untrimmed Long Videos.
+- **Video Understanding**: Retrieval & Caption & Summary for Video Clips, Detection & Classification for Untrimmed Long Videos.
 
-- Data Mining: Cross-Modal Retrieval & Recommendation, Recall & Embedding & Sorting for Multi-Media Services.
+- **Data Mining**: Cross-Modal Retrieval & Recommendation, Recall & Embedding & Sorting for Multi-Media Services.
 
 Please feel free to drop me an email for any suggestions or potential collaborations.
 
