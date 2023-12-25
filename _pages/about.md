@@ -13,19 +13,23 @@ redirect_from:
 Hello! I’m Chen Ju (鞠陈).
 
 I'm a PhD candidate at <a href="https://mediabrain.sjtu.edu.cn/">MediaBrain Group</a>, Shanghai Jiao Tong University, advised by <a href="https://scholar.google.com.hk/citations?user=x_sgJskAAAAJ&hl=zh-CN">Prof. Yanfeng Wang</a> and <a href="https://mediabrain.sjtu.edu.cn/yazhang/">Prof. Ya Zhang</a>, also collaborating with <a href="https://weidixie.github.io/">Prof. Weidi Xie</a>, <a href="https://siheng-chen.github.io/">Prof. Siheng Chen</a>, <a href="https://mediabrain.sjtu.edu.cn/yuwang/">Prof. Yu Wang</a> and <a href="https://sunarker.github.io/index.html">Prof. Jiangchao Yao</a>. 
-Before that, I obtained a Bachelor's degree in Engineering from University of Electronic Science and Technology of China, where I studied under <a href="https://scholar.google.com.hk/citations?user=r0aZUfoAAAAJ&hl=zh-CN&oi=ao">Yong Liu</a> and <a href="https://scholar.google.com.hk/citations?user=r0aZUfoAAAAJ&hl=zh-CN&oi=ao">Yadong Jiang</a> (国家杰青，长江学者), awarded with the honor of Outstanding Graduate.
+Before that, I obtained a Bachelor's degree in Engineering from University of Electronic Science and Technology of China, where I studied under <a href="https://scholar.google.com.hk/citations?user=r0aZUfoAAAAJ&hl=zh-CN&oi=ao">Prof. Yong Liu</a> (杰青 & 长江), awarded with the honor of Outstanding Graduate.
 
 
-Currently, I collaborate closely with some outstanding researchers from PanGu Large Model Team (盘古大模型), Huawei Cloud BU:   &emsp; &emsp; &emsp; &emsp; <a href="https://scholar.google.com/citations?user=61b6eYkAAAAJ">Prof. Qi Tian</a>, <a href="https://scholar.google.com/citations?user=EEMm7hwAAAAJ&hl=zh-CN&oi=ao">Dr. Lingxi Xie</a>, <a href="https://scholar.google.com.hk/citations?user=Ud6aBAcAAAAJ&hl=zh-CN&oi=ao">Dr. Xiaopeng Zhang</a>, <a href="https://scholar.google.com.hk/citations?user=RDwnNsQAAAAJ&hl=zh-CN&oi=ao">Dr. Jianlong Chang</a>, <a href="https://scholar.google.com.hk/citations?user=-JcFoOoAAAAJ&hl=zh-CN&oi=ao">Dr. Jiemin Fang</a>, and <a href="https://scholar.google.com.hk/citations?user=hCr8Km8AAAAJ&hl=zh-CN&oi=ao">Dr. Peisen Zhao</a>.
+Currently, I collaborate closely with some outstanding researchers from TAO Technology (拍立淘), Alibaba: <a href="https://scholar.google.com.hk/citations?user=78vU1IUAAAAJ&hl=zh-CN&oi=ao">Dr. Weilin Huang</a>, <a href="https://scholar.google.com.hk/citations?user=qBTDCawAAAAJ&hl=zh-CN&oi=ao">Dr. Shuai Xiao</a>, <a href="https://scholar.google.com.hk/citations?user=6Qa2JCwAAAAJ&hl=zh-CN">Dr. Xu Chen</a>, and <a href="https://scholar.google.com.hk/citations?user=o4SDCAYAAAAJ&hl=zh-CN&oi=ao">Dr. Zhonghua Zhai</a>. 
+The vision is to develop large-scale visual searching system for various e-commerce applications, such as superlarge-scale multi-modal learning (10-billion image-text product data), AIGC (GPT & Diffusion).
 
-I also collaborate closely with some outstanding researchers from TAO Technology (淘天拍立淘), Alibaba Group: <a href="https://scholar.google.com.hk/citations?user=78vU1IUAAAAJ&hl=zh-CN&oi=ao">Dr. Weilin Huang</a>, <a href="https://scholar.google.com.hk/citations?user=qBTDCawAAAAJ&hl=zh-CN&oi=ao">Dr. Shuai Xiao</a>, <a href="https://scholar.google.com.hk/citations?user=6Qa2JCwAAAAJ&hl=zh-CN">Dr. Xu Chen</a>, and 
-<a href="https://scholar.google.com.hk/citations?user=o4SDCAYAAAAJ&hl=zh-CN&oi=ao">Dr. Zhonghua Zhai</a>; 
-with some outstanding researchers from WeChat Technology (微信技术架构), Tencent Group: <a href="https://scholar.google.com.hk/citations?user=38dACd4AAAAJ&hl=zh-CN&oi=ao">Dr. Fengyun Rao</a>, <a href="https://scholar.google.com.hk/citations?user=cKY8e8sAAAAJ&hl=zh-CN&oi=ao">Dr. Guangting Wang</a>, <a href="https://scholar.google.com.hk/citations?user=dHBNmSkAAAAJ&hl=zh-CN&oi=ao">Dr. Yizhou Zhou</a>, <a href="https://scholar.google.com.hk/citations?user=O00rbxoAAAAJ&hl=zh-CN&oi=sra">Dr. Yukun Su</a>, <a href="https://hellwayxue.github.io/">Dr. Hongwei Xue</a>, and <a href="https://scholar.google.com.hk/citations?user=bvSAvkcAAAAJ&hl=zh-CN&oi=ao">Dr. Dacheng Yin</a>; with outstanding researchers from TikTok (抖音), ByteDance Group: <a href="https://mileistone.github.io/">Dr. Yichao Xiong</a> and <a href="https://scholar.google.com.hk/scholar?hl=zh-CN&as_sdt=0%2C5&q=zhikang+li+alibaba&btnG=&oq=zhikang">Dr. Zhikang Li</a>.
+
+Before, I study with some outstanding researchers from WeChat Technology (微信技术架构), Tencent: <a href="https://scholar.google.com.hk/citations?user=38dACd4AAAAJ&hl=zh-CN&oi=ao">Dr. Fengyun Rao</a>, <a href="https://scholar.google.com.hk/citations?user=dHBNmSkAAAAJ&hl=zh-CN&oi=ao">Dr. Yizhou Zhou</a>, <a href="https://scholar.google.com.hk/citations?user=cKY8e8sAAAAJ&hl=zh-CN&oi=ao">Dr. Guangting Wang</a> and <a href="https://scholar.google.com.hk/citations?user=O00rbxoAAAAJ&hl=zh-CN&oi=sra">Dr. Yukun Su</a>, working to develop chinese pre-trainings of image-text-video-music, namely WeMM, WeCLIP.
+
+
+Earlier, I cooperate with some outstanding researchers from PanGu Large Model (盘古大模型), Huawei Cloud BU:   &emsp; &emsp; &emsp; &emsp; <a href="https://scholar.google.com/citations?user=61b6eYkAAAAJ">Prof. Qi Tian</a>, <a href="https://scholar.google.com/citations?user=EEMm7hwAAAAJ&hl=zh-CN&oi=ao">Dr. Lingxi Xie</a>, <a href="https://scholar.google.com.hk/citations?user=Ud6aBAcAAAAJ&hl=zh-CN&oi=ao">Dr. Xiaopeng Zhang</a>, <a href="https://scholar.google.com.hk/citations?user=RDwnNsQAAAAJ&hl=zh-CN&oi=ao">Dr. Jianlong Chang</a>, <a href="https://scholar.google.com.hk/citations?user=-JcFoOoAAAAJ&hl=zh-CN&oi=ao">Dr. Jiemin Fang</a>, and <a href="https://scholar.google.com.hk/citations?user=hCr8Km8AAAAJ&hl=zh-CN&oi=ao">Dr. Peisen Zhao</a>, to explore MLLM for B-side industrial scenarios.
+
 
 As a young researcher, your interest and kind citation will definitely mean a lot for me and my collaborators.
 
 <p> <b>Email:</b> ju_chen[at]sjtu[dot]edu[dot]cn / cju[dot]void[at]gmail[dot]com         &emsp; &emsp; &emsp; &emsp; &emsp;             
-<b> Google Scholar:</b> Citations 460+, H-index 8, I10-index 7 </p>  
+<b> Google Scholar:</b> Citations 480+, H-index 8, I10-index 7 </p>  
 
 
 
@@ -171,44 +175,44 @@ Ruijin: <a href="https://scholar.google.com.hk/citations?user=hQJ5hwMAAAAJ&hl=zh
 
 
 3. Alibaba. &emsp;
-TAO Technology (淘天): Zida Cheng, Mengting Chen, Xuewen Hong, Yixuan Huang, Lianyu Du.
+TAO Technology: Zida Cheng, Mengting Chen, Xuewen Hong, Yixuan Huang, Lianyu Du.
 &emsp;
-DAMO Academy (达摩院):
+DAMO Academy:
 <a href="https://scholar.google.com.hk/citations?user=QeSoG3sAAAAJ&hl=zh-CN&oi=sra">Chang Zhou</a>, <a href="https://xavierchen34.github.io/">Xi Chen</a>, <a href="https://scholar.google.com.hk/citations?user=6bTGGDAAAAAJ&hl=zh-CN&oi=ao">Mosha Chen</a>.
 &emsp;
-Alimama (阿里妈妈): Jiajie Wang, Hao Wu, Yuanzhe Gu.
+Alimama: Jiajie Wang, Hao Wu, Yuanzhe Gu.
 &emsp;
-T-head (平头哥): Yu Fu, He Guo.
+T-head: Yu Fu, He Guo.
 &emsp;
-AntGroup (蚂蚁金服): <a href="https://scholar.google.com.hk/citations?user=6FsgWBMAAAAJ&hl=zh-CN&oi=ao">Tong Zhan</a>, <a href="https://scholar.google.com.hk/citations?user=11HDEbkAAAAJ&hl=zh-CN&oi=ao">Qingpei Guo</a>, Yifei Hu, Ming Yang.
+AntGroup: <a href="https://scholar.google.com.hk/citations?user=6FsgWBMAAAAJ&hl=zh-CN&oi=ao">Tong Zhan</a>, <a href="https://scholar.google.com.hk/citations?user=11HDEbkAAAAJ&hl=zh-CN&oi=ao">Qingpei Guo</a>, Yifei Hu, Ming Yang.
 
 4. Huawei. &emsp; 
-Cloud BU (华为云): <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=GRcH3nAAAAAJ">Yucheng Liu</a>,
+Cloud BU: <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=GRcH3nAAAAAJ">Yucheng Liu</a>,
 <a href="https://scholar.google.com.hk/citations?user=JmEBaccAAAAJ&hl=zh-CN&oi=ao">Yaoming Wang</a>,
 <a href="https://scholar.google.com.hk/citations?user=jmFZZYMAAAAJ&hl=zh-CN&oi=ao">Shuangrui Ding</a>,
 <a href="https://scholar.google.com.hk/citations?user=9nqZkmUAAAAJ&hl=zh-CN&oi=ao">Haohang Xu</a>. 
 &emsp;
-Car BU (华为车): <a href="https://scholar.google.com.hk/citations?user=Qkx2FKoAAAAJ&hl=zh-CN&oi=ao">Maosen Li</a>. 
+Car BU: <a href="https://scholar.google.com.hk/citations?user=Qkx2FKoAAAAJ&hl=zh-CN&oi=ao">Maosen Li</a>. 
 &emsp;
-Consumer BG (终端): Yongli Jia, <a href="https://phellonchen.github.io/">Feilong Chen</a>, Chenliang Hu. 
+Consumer BG: Yongli Jia, <a href="https://phellonchen.github.io/">Feilong Chen</a>, Chenliang Hu. 
 &emsp; 
-ICT (信息通讯): Liang Zhao, Tongda Li.
+ICT: Liang Zhao, Tongda Li.
 &emsp;
-2012 (诺亚): Yu Zhou, Guohao Gong.
+2012: Yu Zhou, Guohao Gong.
 
 5. Baidu. &emsp; 
-Big Search (大搜): <a href="https://scholar.google.com.hk/citations?user=UFhcrs4AAAAJ&hl=zh-CN&oi=ao">Zhengyang Li</a>, Suqi Chen. 
+Big Search: <a href="https://scholar.google.com.hk/citations?user=UFhcrs4AAAAJ&hl=zh-CN&oi=ao">Zhengyang Li</a>, Suqi Chen. 
 &emsp; 
-Ernie Bot (文心一言): Tian Wu, <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=9ClaqP0AAAAJ&view_op=list_works&sortby=pubdate">Jiachen Liu</a>.
+Ernie Bot: Tian Wu, <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=9ClaqP0AAAAJ&view_op=list_works&sortby=pubdate">Jiachen Liu</a>.
 &emsp;
-Phoenix Nest (凤巢): Chenyang Li.
+Phoenix Nest: Chenyang Li.
 
 6. Tencent. &emsp; 
-WXG (微信): Xiaoyi Jia, Honghui Lin, Yongsheng Luo, Yukun Su, Tianwei Wang, Zhenghua Liu.
+WXG: Xiaoyi Jia, Honghui Lin, Yongsheng Luo, Tianyi Wang, Zhenghua Liu, <a href="https://hellwayxue.github.io/">Dr. Hongwei Xue</a>, <a href="https://scholar.google.com.hk/citations?user=bvSAvkcAAAAJ&hl=zh-CN&oi=ao">Dr. Dacheng Yin</a>.
 &emsp; 
-CDG (腾讯广告): Tianyue Cao.
+CDG: Tianyue Cao.
 &emsp;
-TEG (混元大模型): <a href="https://scholar.google.com.hk/citations?user=q9Fn50QAAAAJ&hl=zh-CN&oi=ao">Hongfa Wang</a>, <a href="https://scholar.google.com.hk/citations?user=AjxoEpIAAAAJ&hl=zh-CN&oi=ao">Wei Liu</a>.
+TEG: <a href="https://scholar.google.com.hk/citations?user=q9Fn50QAAAAJ&hl=zh-CN&oi=ao">Hongfa Wang</a>, <a href="https://scholar.google.com.hk/citations?user=AjxoEpIAAAAJ&hl=zh-CN&oi=ao">Wei Liu</a>.
 
 
 7. Software Company. &emsp; 
@@ -216,7 +220,7 @@ Meta: <a href="https://dyekuu.github.io/">Kunhao Zheng</a>.
 &emsp;
 DiDi: <a href="https://scholar.google.com.hk/citations?user=CJgDlnoAAAAJ&hl=zh-CN&oi=ao">Zhe Xu</a>.
 &emsp;
-ByteDance: Kunyuan Du, Xuan Liao, Yuxuan Jiang, Shiqi Peng, Hangtian Zhao, Jian Li.
+ByteDance: Yichao Xiong, Zhikang Li, Kunyuan Du, Xuan Liao, Yuxuan Jiang, Shiqi Peng, Hangtian Zhao, Jian Li.
 &emsp;
 Bilibili: Luochen Lv.
 &emsp;
