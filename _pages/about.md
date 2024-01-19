@@ -54,11 +54,12 @@ My primary research interests lie in
 
 - **Vision-Language-Audio Learning**: Multi-Modal Pre-training, Efficient Adaptation, Accelerate Deployment for Downstream Tasks.
 
+- **Data Mining**: Cross-Modal Retrieval & Recommendation, Recall & Embedding & Sorting for Multi-Media Services.
+
 - **AIGC**：Generation or Editing for Image & Video & Music, Conversation-Driven Multi-Modal Understanding and Composition.
 
 - **Video Understanding**: Retrieval & Caption & Summary for Video Clips, Detection & Classification for Untrimmed Long Videos.
 
-- **Data Mining**: Cross-Modal Retrieval & Recommendation, Recall & Embedding & Sorting for Multi-Media Services.
 
 Please feel free to drop me an email for any suggestions or potential collaborations.
 
@@ -78,8 +79,7 @@ Please feel free to drop me an email for any suggestions or potential collaborat
 **Chen Ju**, Zeqian Li, Peisen Zhao, Ya Zhang, Xiaopeng Zhang, Qi Tian, Yanfeng Wang and Weidi Xie     
 **Springer IJCV**
 
-1. [Open-Vocabulary Semantic Segmentation via Attribute Decomposition-Aggregation] 
-(https://arxiv.org/pdf/2307.02003.pdf) \| [[Bibtex](./CITE/cite_attribute.txt)]                  
+1. [Open-Vocabulary Semantic Segmentation via Attribute Decomposition-Aggregation](https://arxiv.org/pdf/2307.02003.pdf) \| [[Bibtex](./CITE/cite_attribute.txt)]                  
 Chaofan Ma, Yuhuan Yang, **Chen Ju**, Fei Zhang, Ya Zhang and Yanfeng Wang             
 **NIPS 2023**
 
