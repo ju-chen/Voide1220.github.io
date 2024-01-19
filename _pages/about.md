@@ -34,9 +34,10 @@ As a young researcher, your interest and kind citation will definitely mean a lo
 
 
 # 🔥 News
+- [*2024.01*] ![new paper](/images/new.gif) Remarking for 500 Citations in Google Scholar.
 - [*2023.12*] ![new paper](/images/new.gif) Our new work, [universal VLMs acceleration architecture, from one novel perspective of data de-redundancy](https://arxiv.org/pdf/2312.07408.pdf) is out!
-- [*2023.09*] ![new paper](/images/new.gif) Our new work, [diversifying semantics' attributes via LLMs for open-set visual system](https://arxiv.org/pdf/2309.00096.pdf) is out!
-- [*2023.07*] ![new paper](/images/new.gif) Our new work, [aligning LLMs' remarkable semantics for multi-modal understanding system](https://arxiv.org/pdf/2307.02003.pdf) is out!
+- [*2023.09*] Our work, [diversifying semantics' attributes via LLMs for open-set visual system](https://arxiv.org/pdf/2309.00096.pdf) is out!
+- [*2023.07*] Our work, [aligning LLMs' remarkable semantics for multi-modal understanding system](https://arxiv.org/pdf/2307.02003.pdf) is out!
 - [*2023.05*] Our work, [distilling fine-grained priors from stable diffusion for unsupervised object discovery](https://arxiv.org/pdf/2303.09813.pdf) is out!
 - [*2023.04*] Our work, [multi-modal GPT prompting for vision-language foundation models](https://arxiv.org/pdf/2303.11732.pdf) is out!
 - [*2023.03*] Our work, [collaborative distillation so that multiple foundation pre-trainings complement each other](https://arxiv.org/pdf/2212.09335.pdf) is out!
@@ -150,7 +151,7 @@ arXiv preprint 2023
 
 
 # 🗞️ Academics and Communications
-- PC Member & Reviewer: CVPR 2024, AAAI 2024, ICCV 2023, CVPR 2023, ACM MM 2023, AAAI 2023, ECCV 2022, IEEE T-PAMI, IEEE T-MM, NPL
+- PC Member & Reviewer: ECCV 2024, CVPR 2024, AAAI 2024, ICCV 2023, CVPR 2023, ACM MM 2023, AAAI 2023, ECCV 2022, IEEE T-PAMI, IEEE T-MM, NPL
 
 - I am fortunate to meet many interesting people & Team:
 
