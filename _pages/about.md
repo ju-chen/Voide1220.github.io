@@ -271,7 +271,7 @@ Yanfeng Wang, Chaofan Ma, Yuhuan Yang, **<u>Chen Ju</u>**, Fei Zhang, Ya Zhang.
 
 
 # 🎖 Honors and Awards
-- [*2024*] Top Talent Program by Internet companies (Ali-Star, Tencent-DAKA, AIDU, KuaiShou-Star, JD-DMT)
+- [*2024*] Top Talent Program by Technology Companies (Alibaba-Star, Tencent-DaKa, BaiDu-AIDU, KuaiShou-Star, JD-DMT)
 - [*2023*] First Prize of Shanghai Technology Invention Award
 - [*2022*] CMIC Outstanding Scholarship at SJTU (Top 5%)
 - [*2021*] CMIC Outstanding Scholarship at SJTU (Top 5%)
@@ -282,4 +282,3 @@ Yanfeng Wang, Chaofan Ma, Yuhuan Yang, **<u>Chen Ju</u>**, Fei Zhang, Ya Zhang.
 - [*2017*] Undergraduate National Scholarship at UESTC (Top 1%)
 - [*2016*] Undergraduate National Scholarship at UESTC (Top 1%)
 - [*2015*] Undergraduate National Scholarship at UESTC (Top 1%)
-
