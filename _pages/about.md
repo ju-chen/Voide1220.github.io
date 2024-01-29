@@ -53,7 +53,7 @@ As a young researcher, your interest and kind citation will definitely mean a lo
 # 💻 Researches
 My primary research interests lie in 
 
-- **Vision-Language-Audio Learning**: Multi-Modal Pre-training, Efficient Adaptation, Accelerate Deployment for Downstream Tasks.
+- **Vision-Language-Music Learning**: Multi-Modal Pre-training, Efficient Adaptation, Accelerate Deployment for Downstream Tasks.
 
 - **Data Mining**: Cross-Modal Retrieval & Recommendation, Recall & Embedding & Sorting for Multi-Media Services.
 
