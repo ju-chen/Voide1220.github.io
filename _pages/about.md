@@ -12,7 +12,7 @@ redirect_from:
 
 Hello! I’m Chen Ju (鞠陈).
 
-I'm a PhD candidate at <a href="https://mediabrain.sjtu.edu.cn/">MediaBrain Group</a>, Shanghai Jiao Tong University, advised by <a href="https://scholar.google.com.hk/citations?user=x_sgJskAAAAJ&hl=zh-CN">Prof. Yanfeng Wang</a> and <a href="https://mediabrain.sjtu.edu.cn/yazhang/">Prof. Ya Zhang</a>, also collaborating with <a href="https://weidixie.github.io/">Prof. Weidi Xie</a>, <a href="https://siheng-chen.github.io/">Prof. Siheng Chen</a>, <a href="https://mediabrain.sjtu.edu.cn/yuwang/">Prof. Yu Wang</a> and <a href="https://sunarker.github.io/index.html">Prof. Jiangchao Yao</a>. 
+I'm a final-year PhD candidate at <a href="https://mediabrain.sjtu.edu.cn/">MediaBrain Group</a>, Shanghai Jiao Tong University, advised by <a href="https://scholar.google.com.hk/citations?user=x_sgJskAAAAJ&hl=zh-CN">Prof. Yanfeng Wang</a> and <a href="https://mediabrain.sjtu.edu.cn/yazhang/">Prof. Ya Zhang</a>, also collaborating with <a href="https://weidixie.github.io/">Prof. Weidi Xie</a>, <a href="https://siheng-chen.github.io/">Prof. Siheng Chen</a>, <a href="https://mediabrain.sjtu.edu.cn/yuwang/">Prof. Yu Wang</a> and <a href="https://sunarker.github.io/index.html">Prof. Jiangchao Yao</a>. 
 Before that, I obtained a Bachelor's degree in Engineering from University of Electronic Science and Technology of China, where I studied under <a href="https://scholar.google.com.hk/citations?user=r0aZUfoAAAAJ&hl=zh-CN&oi=ao">Prof. Yong Liu</a> (杰青 & 长江), awarded with the honor of Outstanding Graduate.
 
 I’m leading one small group that mainly works on <b> Data Governance </b> and <b> Multi-Modal Learning</b>. Actively recruiting research interns and engineering interns, please feel free to contact me!
