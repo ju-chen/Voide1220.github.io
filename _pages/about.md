@@ -35,6 +35,7 @@ As a young researcher, your interest and kind citation will definitely mean a lo
 
 
 # 🔥 News
+- [*2024.02*] ![new paper](/images/new.gif) One paper is accepted to WWW 2024, about cross-domain CTR prediction via explicit feature augmentation.
 - [*2024.01*] ![new paper](/images/new.gif) Remarking for 500 Citations in Google Scholar.
 - [*2023.12*] ![new paper](/images/new.gif) Our new work, [universal VLMs acceleration architecture, from one novel perspective of data de-redundancy](https://arxiv.org/pdf/2312.07408.pdf) is out!
 - [*2023.09*] Our work, [diversifying semantics' attributes via LLMs for open-set visual system](https://arxiv.org/pdf/2309.00096.pdf) is out!
@@ -55,7 +56,7 @@ My primary research interests lie in
 
 - **Vision-Language-Music Learning**: Multi-Modal Pre-training, Efficient Adaptation, Accelerate Deployment for Downstream Tasks.
 
-- **Data Mining**: Cross-Modal Retrieval & Recommendation, Recall & Embedding & Sorting for Multi-Media Services.
+- **Data Governance & Mining**: Clean & Compress & Synthesize Data, Cross-Modal Retrieval & Recommendation & Advert. 
 
 - **AIGC**：Generation or Editing for Image & Video & Music, Conversation-Driven Multi-Modal Understanding and Composition.
 
@@ -99,7 +100,7 @@ Jinxiang Liu, **Chen Ju**, Weidi Xie and Ya Zhang
 **ACM Multimedia 2022**   
 
 1. [Contrast and Unity for Partially-Supervised Temporal Sentence Grounding](https://arxiv.org/pdf/2302.09850.pdf)  \|   [[Project & Code](https://voide1220.github.io/constraint_union/)]  \|    [[Bibtex](./CITE/cite_partial.txt)]            
-**Chen Ju**, Haicheng Wang, Jinxiang Liu, Chaofan Ma, Ya Zhang, Peisen Zhao, Jianlong Chang and Qi Tian          
+**Chen Ju**, Haicheng Wang, Jinxiang Liu, Chaofan Ma, Ya Zhang         
 arXiv preprint 2023
 
 1. [SAM Guided Annotation-free Audio-Visual Cross-modal Segmentation](https://arxiv.org/pdf/2305.11019.pdf)   \|    [[Project & Code](https://jinxiang-liu.github.io/anno-free-AVS/)]  \|     [[Bibtex](./CITE/cite_aavs.txt)]            
@@ -137,13 +138,13 @@ arXiv preprint 2023
 
 
 ### 📒 Topic: MLLMs Guided Multi-Modal Information Retrieval & Sorting & Recall & Representation
+1. [Enhancing Cross-domain Click-Through Rate Prediction via Explicit Feature Augmentation](https://arxiv.org/pdf/2312.00078.pdf)          \|  [[Bibtex](./CITE/cite_cctr.txt)]                            
+Xu Chen, Zida Cheng, Jiangchao Yao, **Chen Ju**, Weilin Huang, Xiaoyi Zeng and Shuai Xiao             
+**WWW 2024**
+
 1. [Image to Multi-Modal Retrieval Learning for Industrial Scenarios](https://arxiv.org/pdf/2305.03972.pdf)      \|  [[Bibtex](./CITE/cite_immr.txt)]               
 Zida Cheng, **Chen Ju**, Xu Chen, Zhonghua Zhai and Shuai Xiao              
 arXiv preprint 2023   
-
-1. [Enhancing Cross-domain Click-Through Rate Prediction via Explicit Feature Augmentation](https://arxiv.org/pdf/2312.00078.pdf)          \|  [[Bibtex](./CITE/cite_cctr.txt)]                            
-Xu Chen, Zida Cheng, Jiangchao Yao, **Chen Ju**, Weilin Huang, Xiaoyi Zeng and Shuai Xiao             
-arXiv preprint 2023  
 
 1. Cell Variational Information Bottleneck Network           
 Zhonghua Zhai, **Chen Ju**, Xiaoyi Zeng and Weilin Huang             
