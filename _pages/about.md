@@ -265,10 +265,10 @@ Yanfeng Wang, Chaofan Ma, Yuhuan Yang, **<u>Chen Ju</u>**, Fei Zhang, Ya Zhang.
 
 
 # 📖 Educations
-- *2018.09 - 2024.03*, PhD candidate, Shanghai Jiao Tong University, Shanghai, China
+- *2018 - 2024*, PhD candidate, Shanghai Jiao Tong University, Shanghai, China
 - *2018*, Exchange Student, University of Amsterdam, Netherlands
 - *2018*, Exchange Student, KU Leuven, Belgium
-- *2014.09 - 2018.06*, Undergraduate, University of Electronic Science and Technology of China, Chengdu, China
+- *2014 - 2018*, Undergraduate, University of Electronic Science and Technology of China, Chengdu, China
 
 
 
