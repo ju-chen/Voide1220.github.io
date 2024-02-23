@@ -152,7 +152,9 @@ arXiv preprint 2023
 
 
 # 🗞️ Academics and Communications
-- PC Member & Reviewer: ECCV 2024, CVPR 2024, AAAI 2024, ICCV 2023, CVPR 2023, ACM MM 2023, AAAI 2023, ECCV 2022, IEEE T-PAMI, IEEE T-MM, NPL
+
+- PC Member & Conference Reviewer: ECCV 2024/2022, CVPR 2024/2023, AAAI 2024/2023, ICCV 2023, ACM MM 2024/2023, WACV 2024
+- Journal Reviewers: IEEE T-PAMI, Springer IJCV, IEEE T-MM, NPL
 
 - I am fortunate to meet many interesting people & Team:
 
