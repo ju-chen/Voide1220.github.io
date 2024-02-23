@@ -15,7 +15,6 @@ Hello! I’m Chen Ju (鞠陈).
 I'm a final-year PhD candidate at <a href="https://mediabrain.sjtu.edu.cn/">MediaBrain Group</a>, Shanghai Jiao Tong University, advised by <a href="https://scholar.google.com.hk/citations?user=x_sgJskAAAAJ&hl=zh-CN">Prof. Yanfeng Wang</a> and <a href="https://mediabrain.sjtu.edu.cn/yazhang/">Prof. Ya Zhang</a>, also collaborating with <a href="https://weidixie.github.io/">Prof. Weidi Xie</a>, <a href="https://siheng-chen.github.io/">Prof. Siheng Chen</a>, <a href="https://mediabrain.sjtu.edu.cn/yuwang/">Prof. Yu Wang</a> and <a href="https://sunarker.github.io/index.html">Prof. Jiangchao Yao</a>. 
 Before that, I obtained a Bachelor's degree in Engineering from University of Electronic Science and Technology of China, where I studied under <a href="https://scholar.google.com.hk/citations?user=r0aZUfoAAAAJ&hl=zh-CN&oi=ao">Prof. Yong Liu</a> (杰青 & 长江), awarded with the honor of Outstanding Graduate.
 
-I’m now leading one small group that mainly works on <b> Efficient Data Governance </b>. Actively recruiting research interns and engineering interns, please feel free to contact me!
 
 Currently, I collaborate closely with some outstanding researchers from TAO Technology (拍立淘), Alibaba: <a href="https://scholar.google.com.hk/citations?user=78vU1IUAAAAJ&hl=zh-CN&oi=ao">Dr. Weilin Huang</a>, <a href="https://scholar.google.com.hk/citations?user=qBTDCawAAAAJ&hl=zh-CN&oi=ao">Dr. Shuai Xiao</a>, <a href="https://scholar.google.com.hk/citations?user=6Qa2JCwAAAAJ&hl=zh-CN">Dr. Xu Chen</a>, and <a href="https://scholar.google.com.hk/citations?user=o4SDCAYAAAAJ&hl=zh-CN&oi=ao">Dr. Zhonghua Zhai</a>. 
 The vision is to develop large-scale visual searching system for various e-commerce applications, such as superlarge-scale multi-modal learning (10-billion image-text product data), AIGC (GPT & Diffusion).
@@ -27,7 +26,8 @@ Before, I study with some outstanding researchers from WeChat Technology (微信
 Earlier, I cooperate with some outstanding researchers from PanGu Large Model (盘古大模型), Huawei Cloud BU: <a href="https://scholar.google.com/citations?user=61b6eYkAAAAJ">Prof. Qi Tian</a>, <a href="https://scholar.google.com/citations?user=EEMm7hwAAAAJ&hl=zh-CN&oi=ao">Dr. Lingxi Xie</a>, <a href="https://scholar.google.com.hk/citations?user=Ud6aBAcAAAAJ&hl=zh-CN&oi=ao">Dr. Xiaopeng Zhang</a>, <a href="https://scholar.google.com.hk/citations?user=RDwnNsQAAAAJ&hl=zh-CN&oi=ao">Dr. Jianlong Chang</a>, <a href="https://scholar.google.com.hk/citations?user=-JcFoOoAAAAJ&hl=zh-CN&oi=ao">Dr. Jiemin Fang</a>, and <a href="https://scholar.google.com.hk/citations?user=hCr8Km8AAAAJ&hl=zh-CN&oi=ao">Dr. Peisen Zhao</a>, to explore MLLM for B-side industrial scenarios.
 
 
-As a young researcher, your interest and kind citation will definitely mean a lot for me and my collaborators.
+I’m now leading one small group that mainly works on <b> Efficient Data Governance (Cleaner; Organizer; Compressor; Synthesizer; Evolver)</b>. Actively recruiting research interns and engineering interns, please feel free to contact me!
+
 
 <p> <b>Email:</b> ju_chen[at]sjtu[dot]edu[dot]cn / cju[dot]void[at]gmail[dot]com         &emsp; &emsp; &emsp; &emsp; &emsp;             
 <b> Google Scholar:</b> Citations 520+, H-index 8, I10-index 8 </p>  
@@ -62,8 +62,7 @@ My primary research interests lie in
 
 - **Video Understanding**: Retrieval & Caption & Summary for Video Clips, Detection & Classification for Untrimmed Long Videos.
 
-
-Please feel free to drop me an email for any suggestions or potential collaborations.
+As a young researcher, your interest and kind citation will definitely mean a lot for me and my collaborators. Also feel free to drop me an email for any suggestions or potential collaborations.
 
 
 
