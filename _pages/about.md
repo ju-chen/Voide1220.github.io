@@ -143,7 +143,7 @@ Xu Chen, Zida Cheng, Jiangchao Yao, **Chen Ju**, Weilin Huang, Xiaoyi Zeng and S
 **WWW 2024**
 
 1. [Image to Multi-Modal Retrieval Learning for Industrial Scenarios](https://arxiv.org/pdf/2305.03972.pdf)      \|  [[Bibtex](./CITE/cite_immr.txt)]               
-Zida Cheng, **Chen Ju**, Xu Chen, Zhonghua Zhai and Shuai Xiao              
+Zida Cheng, **Chen Ju**, Xu Chen, Zhonghua Zhai, Shuai Xiao and Junchi Yan           
 arXiv preprint 2023   
 
 1. Cell Variational Information Bottleneck Network           
