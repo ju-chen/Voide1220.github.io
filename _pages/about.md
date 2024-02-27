@@ -35,9 +35,10 @@ I’m now leading one small group that mainly works on <b> Efficient Data Govern
 
 
 # 🔥 News
+- [*2024.03*] ![new paper](/images/new.gif) One paper is accepted to CVPR 2024, about audio-visual segmentation via unlabeled frame exploitation.
 - [*2024.02*] ![new paper](/images/new.gif) One paper is accepted to WWW 2024, about cross-domain CTR prediction via explicit feature augmentation.
 - [*2024.01*] ![new paper](/images/new.gif) Remarking for 500 Citations in Google Scholar.
-- [*2023.12*] ![new paper](/images/new.gif) Our new work, [universal VLMs acceleration architecture, from one novel perspective of data de-redundancy](https://arxiv.org/pdf/2312.07408.pdf) is out!
+- [*2023.12*] Our work, [universal VLMs acceleration architecture, from one novel perspective of data de-redundancy](https://arxiv.org/pdf/2312.07408.pdf) is out!
 - [*2023.09*] Our work, [diversifying semantics' attributes via LLMs for open-set visual system](https://arxiv.org/pdf/2309.00096.pdf) is out!
 - [*2023.07*] Our work, [aligning LLMs' remarkable semantics for multi-modal understanding system](https://arxiv.org/pdf/2307.02003.pdf) is out!
 - [*2023.05*] Our work, [distilling fine-grained priors from stable diffusion for unsupervised object discovery](https://arxiv.org/pdf/2303.09813.pdf) is out!
@@ -108,7 +109,7 @@ Jinxiang Liu, Yu Wang, **Chen Ju**, Chaofan Ma, Ya Zhang, Weidi Xie
 
 1. Audio-Visual Segmentation via Unlabeled Frames Exploitation                
 Jinxiang Liu, Yikun Liu, Fei Zhang, **Chen Ju**, Yanfeng Wang and Ya Zhang            
-arXiv preprint 2023  
+**CVPR 2024** 
 
 
 ### 📒 Topic: Freeze Pre-trainings, Downstream Video Understanding with Limited Annotation & Supervision
