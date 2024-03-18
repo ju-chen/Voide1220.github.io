@@ -26,7 +26,7 @@ Before, I study with some outstanding researchers from WeChat Technology (微信
 Earlier, I cooperate with some outstanding researchers from PanGu Large Model (盘古大模型), Huawei: <a href="https://scholar.google.com/citations?user=61b6eYkAAAAJ">Prof. Qi Tian</a>, <a href="https://scholar.google.com/citations?user=EEMm7hwAAAAJ&hl=zh-CN&oi=ao">Dr. Lingxi Xie</a>, <a href="https://scholar.google.com.hk/citations?user=Ud6aBAcAAAAJ&hl=zh-CN&oi=ao">Dr. Xiaopeng Zhang</a>, <a href="https://scholar.google.com.hk/citations?user=RDwnNsQAAAAJ&hl=zh-CN&oi=ao">Dr. Jianlong Chang</a>, <a href="https://scholar.google.com.hk/citations?user=-JcFoOoAAAAJ&hl=zh-CN&oi=ao">Dr. Jiemin Fang</a>, and <a href="https://scholar.google.com.hk/citations?user=hCr8Km8AAAAJ&hl=zh-CN&oi=ao">Dr. Peisen Zhao</a>, to explore MLLM for B-side industrial scenarios.
 
 
-I’m now leading one small group that mainly works on <b> Efficient Data Governance (Cleaner; Organizer; Compressor; Synthesizer; Evolver)</b>. Actively recruiting research interns and engineering interns, please feel free to contact me!
+I’m now leading one small group that mainly works on <b> Efficient Data Governance (Cleaner; Organizer; Compressor; Distiller; Synthesizer; Evolver)</b>. Actively recruiting research interns and engineering interns, please feel free to contact me!
 
 
 <p> <b>Email:</b> ju_chen[at]sjtu[dot]edu[dot]cn / cju[dot]void[at]gmail[dot]com         &emsp; &emsp; &emsp; &emsp; &emsp;             
@@ -35,8 +35,7 @@ I’m now leading one small group that mainly works on <b> Efficient Data Govern
 
 
 # 🔥 News
-- [*2024.03*] ![new paper](/images/new.gif) One paper is accepted to CVPR 2024, about audio-visual segmentation via unlabeled frame exploitation.
-- [*2024.02*] ![new paper](/images/new.gif) One paper is accepted to WWW 2024, about cross-domain CTR prediction via explicit feature augmentation.
+- [*2024.03*] ![new paper](/images/new.gif) Our work, [vision-audio-text alignment, from large-scale self-supervised video streaming](https://arxiv.org/pdf/2312.07408.pdf) is out!
 - [*2024.01*] ![new paper](/images/new.gif) Remarking for 500 Citations in Google Scholar.
 - [*2023.12*] Our work, [universal VLMs acceleration architecture, from one novel perspective of data de-redundancy](https://arxiv.org/pdf/2312.07408.pdf) is out!
 - [*2023.09*] Our work, [diversifying semantics' attributes via LLMs for open-set visual system](https://arxiv.org/pdf/2309.00096.pdf) is out!
@@ -45,6 +44,8 @@ I’m now leading one small group that mainly works on <b> Efficient Data Govern
 - [*2023.04*] Our work, [multi-modal GPT prompting for vision-language foundation models](https://arxiv.org/pdf/2303.11732.pdf) is out!
 - [*2023.03*] Our work, [collaborative distillation so that multiple foundation pre-trainings complement each other](https://arxiv.org/pdf/2212.09335.pdf) is out!
 - [*2023.02*] Our work, [partial supervision with quadruple contrasts for cost-effective vision-language pre-training](https://arxiv.org/pdf/2302.09850.pdf) is out!
+- One paper is accepted to CVPR 2024, about audio-visual segmentation via unlabeled frame exploitation.
+- One paper is accepted to WWW 2024, about cross-domain CTR prediction via explicit feature augmentation.
 - One paper is accepted to NIPS 2023, about general semantic understanding for multi-modal large models.
 - One paper is accepted to ICCV 2023, about finer visual understanding from multiple diffusion models.
 - One paper is accepted to CVPR 2023, about effective collaboration of multiple foundation models.
@@ -97,7 +98,11 @@ arXiv preprint 2023
 
 1. [Transformation Invariance and Equivariance for Self-supervised Sound Localization](https://arxiv.org/pdf/2206.12772.pdf)  \| [[Project & Demo](https://jinxiang-liu.github.io/SSL-TIE/)] \| [[Code](https://github.com/jinxiang-liu/SSL-TIE)] \| [[Bibtex](./CITE/cite_audio.txt)]                              
 Jinxiang Liu, **Chen Ju**, Weidi Xie and Ya Zhang         
-**ACM Multimedia 2022**   
+**ACM Multimedia 2022**
+
+1. Audio-Visual Segmentation via Unlabeled Frames Exploitation                
+Jinxiang Liu, Yikun Liu, Fei Zhang, **Chen Ju**, Yanfeng Wang and Ya Zhang            
+**CVPR 2024** 
 
 1. [Contrast and Unity for Partially-Supervised Temporal Sentence Grounding](https://arxiv.org/pdf/2302.09850.pdf)  \|   [[Project & Code](https://voide1220.github.io/constraint_union/)]  \|    [[Bibtex](./CITE/cite_partial.txt)]            
 **Chen Ju**, Haicheng Wang, Jinxiang Liu, Chaofan Ma, Ya Zhang         
@@ -107,9 +112,7 @@ arXiv preprint 2023
 Jinxiang Liu, Yu Wang, **Chen Ju**, Chaofan Ma, Ya Zhang, Weidi Xie       
 **WACV 2024** 
 
-1. Audio-Visual Segmentation via Unlabeled Frames Exploitation                
-Jinxiang Liu, Yikun Liu, Fei Zhang, **Chen Ju**, Yanfeng Wang and Ya Zhang            
-**CVPR 2024** 
+
 
 
 ### 📒 Topic: Freeze Pre-trainings, Downstream Video Understanding with Limited Annotation & Supervision
