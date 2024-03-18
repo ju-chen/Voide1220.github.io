@@ -30,7 +30,7 @@ I’m now leading one small group that mainly works on <b> Efficient Data Govern
 
 
 <p> <b>Email:</b> ju_chen[at]sjtu[dot]edu[dot]cn / cju[dot]void[at]gmail[dot]com         &emsp; &emsp; &emsp; &emsp; &emsp;             
-<b> Google Scholar:</b> Citations 530+, H-index 8, I10-index 8 </p>  
+<b> Google Scholar:</b> Citations 550+, H-index 8, I10-index 8 </p>  
 
 
 
