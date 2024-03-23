@@ -36,6 +36,7 @@ I’m now leading one small group that mainly works on <b> Efficient Data Govern
 
 # 🔥 News
 - [*2024.04*] ![new paper](/images/new.gif) Our work, [wear-any-way: manipulable virtual try-on via sparse correspondence alignment](https://arxiv.org/pdf/2403.12965.pdf) is out!
+- [*2024.04*] ![new paper](/images/new.gif) Our work, [rethinking the robustness for open-vocabulary visual understanding](https://arxiv.org/pdf/2403.12965.pdf) will be out!
 - [*2024.03*] ![new paper](/images/new.gif) Our work, [vision-audio-text alignment, from large-scale self-supervised video streaming](https://arxiv.org/pdf/2403.11074.pdf) is out!
 - [*2024.01*] Remarking for 500 Citations in Google Scholar.
 - [*2023.12*] Our work, [universal VLMs acceleration architecture, from one novel perspective of data de-redundancy](https://arxiv.org/pdf/2312.07408.pdf) is out!
@@ -105,19 +106,19 @@ Jinxiang Liu, Yu Wang, **Chen Ju**, Chaofan Ma, Ya Zhang, Weidi Xie
 
 
 ### 📒 Topic: Understand World through Open-Vocabulary Learning, and also Rethinking Limitations
-1. [Open-Vocabulary Semantic Segmentation via Attribute Decomposition-Aggregation](https://arxiv.org/pdf/2307.02003.pdf) \| [[Bibtex](./CITE/cite_attribute.txt)]                  
-Chaofan Ma, Yuhuan Yang, **Chen Ju**, Fei Zhang, Ya Zhang and Yanfeng Wang             
-**NIPS 2023**
-
 1. [Multi-modal GPT Prompts for Open-Vocabulary Video Understanding](https://arxiv.org/pdf/2303.11732.pdf) \|  [[Project & Code](https://voide1220.github.io/GPT_prompt/)]  \| [[Bibtex](./CITE/cite_map.txt)]                                    
 **Chen Ju**, Zeqian Li, Peisen Zhao, Ya Zhang, Xiaopeng Zhang, Qi Tian, Yanfeng Wang and Weidi Xie     
 **Springer IJCV**
+
+1. [Open-Vocabulary Semantic Segmentation via Attribute Decomposition-Aggregation](https://arxiv.org/pdf/2307.02003.pdf) \| [[Bibtex](./CITE/cite_attribute.txt)]                  
+Chaofan Ma, Yuhuan Yang, **Chen Ju**, Fei Zhang, Ya Zhang and Yanfeng Wang             
+**NIPS 2023**
 
 1. [Multi-Modal Prototypes for Open-Set Semantic Segmentation](https://arxiv.org/pdf/2307.02003.pdf) \| [[Bibtex](./CITE/cite_prototype.txt)]                    
 Yuhuan Yang, Chaofan Ma, **Chen Ju**, Ya Zhang and Yanfeng Wang             
 arXiv preprint 2023
 
-1. [DENOISER: Rethinking the Robustness for Open-Vocabulary Action Recognition]                    
+1. DENOISER: Rethinking the Robustness for Open-Vocabulary Action Recognition                   
 Haozhe Cheng, **Chen Ju**, Haicheng Wang, Jinxiang Liu, Mengting Chen and Xiaoyun Zhang             
 arXiv preprint 2024
 
