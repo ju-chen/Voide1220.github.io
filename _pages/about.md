@@ -35,7 +35,8 @@ I’m now leading one small group that mainly works on <b> Efficient Data Govern
 
 
 # 🔥 News
-- [*2024.03*] ![new paper](/images/new.gif) Our work, [vision-audio-text alignment, from large-scale self-supervised video streaming](https://arxiv.org/pdf/2312.07408.pdf) is out!
+- [*2024.04*] ![new paper](/images/new.gif) Our work, [wear-any-way: manipulable virtual try-on via sparse correspondence alignment](https://arxiv.org/pdf/2403.12965.pdf) is out!
+- [*2024.03*] ![new paper](/images/new.gif) Our work, [vision-audio-text alignment, from large-scale self-supervised video streaming](https://arxiv.org/pdf/2403.11074.pdf) is out!
 - [*2024.01*] ![new paper](/images/new.gif) Remarking for 500 Citations in Google Scholar.
 - [*2023.12*] Our work, [universal VLMs acceleration architecture, from one novel perspective of data de-redundancy](https://arxiv.org/pdf/2312.07408.pdf) is out!
 - [*2023.09*] Our work, [diversifying semantics' attributes via LLMs for open-set visual system](https://arxiv.org/pdf/2309.00096.pdf) is out!
@@ -70,7 +71,7 @@ As a young researcher, your interest and kind citation will definitely mean a lo
 
 # 📝 Publications 
 ### 📒 Topic: Efficiently Adapt Multi-modal Foundation Models to Unify/Generalize Downstream Tasks
-1. [Prompting Visual-Language Models for Efficient Video Understanding](https://arxiv.org/pdf/2112.04478.pdf)  \|  [[Project](https://ju-chen.github.io/efficient-prompt/)]  \| [[Code & Data](https://github.com/ju-chen/Efficient-Prompt)]  \| [[Report](https://mp.weixin.qq.com/s/F8RGa0IQyljfue3fAxvATw)]  \| [[Bibtex](./CITE/cite_prompt.txt)]                                 
+1. [Prompting Visual-Language Models for Efficient Video Understanding](https://arxiv.org/pdf/2112.04478.pdf)  \|  [[Project](https://ju-chen.github.io/efficient-prompt/)]  \| [[Code & Data](https://github.com/ju-chen/Efficient-Prompt)]  \| [[Report](https://mp.weixin.qq.com/s/F8RGa0IQyljfue3fAxvATw)]  \| [[Bibtex](./CITE/cite_prompt.txt)]                  
 **Chen Ju**, Tengda Han, Kunhao Zheng, Ya Zhang and Weidi Xie  
 **ECCV 2022**  
 
@@ -78,29 +79,18 @@ As a young researcher, your interest and kind citation will definitely mean a lo
 **Chen Ju**, Kunhao Zheng, Jinxiang Liu, Peisen Zhao, Ya Zhang, Jianlong Chang, Qi Tian and Yanfeng Wang      
 **CVPR 2023** 
 
-1. [Multi-modal GPT Prompts for Open-Vocabulary Video Understanding](https://arxiv.org/pdf/2303.11732.pdf)   \|   [[Project & Code](https://voide1220.github.io/GPT_prompt/)]  \| [[Bibtex](./CITE/cite_map.txt)]                                                        
-**Chen Ju**, Zeqian Li, Peisen Zhao, Ya Zhang, Xiaopeng Zhang, Qi Tian, Yanfeng Wang and Weidi Xie     
-**Springer IJCV**
-
-1. [Open-Vocabulary Semantic Segmentation via Attribute Decomposition-Aggregation](https://arxiv.org/pdf/2307.02003.pdf) \| [[Bibtex](./CITE/cite_attribute.txt)]                  
-Chaofan Ma, Yuhuan Yang, **Chen Ju**, Fei Zhang, Ya Zhang and Yanfeng Wang             
-**NIPS 2023**
-
-1. [Multi-Modal Prototypes for Open-Set Semantic Segmentation](https://arxiv.org/pdf/2307.02003.pdf) \| [[Bibtex](./CITE/cite_prototype.txt)]                    
-Yuhuan Yang, Chaofan Ma, **Chen Ju**, Ya Zhang and Yanfeng Wang             
-arXiv preprint 2023
-
-
-### 📒 Topic: Vision-Language-Audio Pre-trainings & Inference with Strong Generalization but Low Costs
 1. [Turbo: Informativity-Driven Acceleration Plugin for Vision-Language Foundation Models](https://arxiv.org/pdf/2312.07408.pdf)   \| [[Bibtex](./CITE/cite_turbo.txt)]                       
 **Chen Ju**, Haicheng Wang, Zeqian Li, Xu Chen, Zhonghua Zhai, Weilin Huang and Shuai Xiao             
 arXiv preprint 2023     
 
+
+
+### 📒 Topic: Vision-Language-Audio Pre-trainings & Inference with Strong Generalization but Low Costs
 1. [Transformation Invariance and Equivariance for Self-supervised Sound Localization](https://arxiv.org/pdf/2206.12772.pdf)  \| [[Project & Demo](https://jinxiang-liu.github.io/SSL-TIE/)] \| [[Code](https://github.com/jinxiang-liu/SSL-TIE)] \| [[Bibtex](./CITE/cite_audio.txt)]                              
 Jinxiang Liu, **Chen Ju**, Weidi Xie and Ya Zhang         
 **ACM Multimedia 2022**
 
-1. Audio-Visual Segmentation via Unlabeled Frames Exploitation                
+1. [Audio-Visual Segmentation via Unlabeled Frames Exploitation](https://arxiv.org/pdf/2403.11074.pdf)   \|     [[Bibtex](./CITE/cite_unlabel.txt)]                           
 Jinxiang Liu, Yikun Liu, Fei Zhang, **Chen Ju**, Yanfeng Wang and Ya Zhang            
 **CVPR 2024** 
 
@@ -108,10 +98,39 @@ Jinxiang Liu, Yikun Liu, Fei Zhang, **Chen Ju**, Yanfeng Wang and Ya Zhang
 **Chen Ju**, Haicheng Wang, Jinxiang Liu, Chaofan Ma, Ya Zhang         
 arXiv preprint 2023
 
-1. [SAM Guided Annotation-free Audio-Visual Cross-modal Segmentation](https://arxiv.org/pdf/2305.11019.pdf)   \|    [[Project & Code](https://jinxiang-liu.github.io/anno-free-AVS/)]  \|     [[Bibtex](./CITE/cite_aavs.txt)]            
+1. [SAM Guided Annotation-free Audio-Visual Cross-modal Segmentation](https://arxiv.org/pdf/2305.11019.pdf)  \|    [[Project & Code](https://jinxiang-liu.github.io/anno-free-AVS/)] \| [[Bibtex](./CITE/cite_aavs.txt)]           
 Jinxiang Liu, Yu Wang, **Chen Ju**, Chaofan Ma, Ya Zhang, Weidi Xie       
 **WACV 2024** 
 
+
+
+### 📒 Topic: Understand World through Open-Vocabulary Learning, and also Rethinking Limitations
+1. [Open-Vocabulary Semantic Segmentation via Attribute Decomposition-Aggregation](https://arxiv.org/pdf/2307.02003.pdf) \| [[Bibtex](./CITE/cite_attribute.txt)]                  
+Chaofan Ma, Yuhuan Yang, **Chen Ju**, Fei Zhang, Ya Zhang and Yanfeng Wang             
+**NIPS 2023**
+
+1. [Multi-modal GPT Prompts for Open-Vocabulary Video Understanding](https://arxiv.org/pdf/2303.11732.pdf) \|  [[Project & Code](https://voide1220.github.io/GPT_prompt/)]  \| [[Bibtex](./CITE/cite_map.txt)]                                    
+**Chen Ju**, Zeqian Li, Peisen Zhao, Ya Zhang, Xiaopeng Zhang, Qi Tian, Yanfeng Wang and Weidi Xie     
+**Springer IJCV**
+
+1. [Multi-Modal Prototypes for Open-Set Semantic Segmentation](https://arxiv.org/pdf/2307.02003.pdf) \| [[Bibtex](./CITE/cite_prototype.txt)]                    
+Yuhuan Yang, Chaofan Ma, **Chen Ju**, Ya Zhang and Yanfeng Wang             
+arXiv preprint 2023
+
+1. [DENOISER: Rethinking the Robustness for Open-Vocabulary Action Recognition]                    
+Haozhe Cheng, **Chen Ju**, Haicheng Wang, Jinxiang Liu, Mengting Chen and Xiaoyun Zhang             
+arXiv preprint 2024
+
+
+
+### 📒 Topic: Innovative AIGC Creativity, Free Vision-Text-Audio Editing and Composition
+1. [DiffusionSeg: Adapting Diffusion Towards Unsupervised Object Discovery](https://arxiv.org/pdf/2303.09813.pdf) \| [[Bibtex](./CITE/cite_diffusion.txt)]               
+Chaofan Ma, Yuhuan Yang, **Chen Ju**, Fei Zhang, Jinxiang Liu, Yu Wang, Ya Zhang and Yanfeng Wang                 
+**ICCV 2023**
+
+1. [Wear-Any-Way: Manipulable Virtual Try-on via Sparse Correspondence Alignment](https://arxiv.org/pdf/2403.12965.pdf) \| [[Bibtex](./CITE/cite_wear.txt)]               
+Mengting Chen, Xi Chen, Zhonghua Zhai, **Chen Ju**, Xuewen Hong, Jinsong Lan and Shuai Xiao                
+arXiv preprint 2024
 
 
 
@@ -130,10 +149,6 @@ Weakly-Supervised Temporal Action Localization](https://ieeexplore.ieee.org/stam
 **Chen Ju**, Peisen Zhao, Siheng Chen, Ya Zhang, Xiaoyun Zhang and Qi Tian               
 **IEEE Transactions on Multimedia** 
 
-1. [DiffusionSeg: Adapting Diffusion Towards Unsupervised Object Discovery](https://arxiv.org/pdf/2303.09813.pdf) \| [[Bibtex](./CITE/cite_diffusion.txt)]               
-Chaofan Ma, Yuhuan Yang, **Chen Ju**, Fei Zhang, Jinxiang Liu, Yu Wang, Ya Zhang and Yanfeng Wang                 
-**ICCV 2023**
-
 1. [Audio-Aware Query-Enhanced Transformer for Audio-Visual Segmentation](https://arxiv.org/abs/2307.13236.pdf)   \|    [[Project & Code](https://jinxiang-liu.github.io/anno-free-AVS/)]  \|  [[Bibtex](./CITE/cite_aqt.txt)]              
 Jinxiang Liu, **Chen Ju**, Chaofan Ma, Yanfeng Wang, Yu Wang, Ya Zhang    
 arXiv preprint 2023
@@ -150,13 +165,12 @@ Zida Cheng, **Chen Ju**, Xu Chen, Zhonghua Zhai, Shuai Xiao and Junchi Yan
 arXiv preprint 2023   
 
 1. Cell Variational Information Bottleneck Network           
-Zhonghua Zhai, **Chen Ju**, Xiaoyi Zeng and Weilin Huang             
+Zhonghua Zhai, **Chen Ju**, Shuai Xiao, Jinsong Lan and Xiaoyi Zeng        
 arXiv preprint 2023 
 
 
 
 # 🗞️ Academics and Communications
-
 - PC Member & Conference Reviewer: ECCV 2024/2022, CVPR 2024/2023, AAAI 2024/2023, ICCV 2023, ACM MM 2024/2023, WACV 2024
 - Journal Reviewers: IEEE T-PAMI, Springer IJCV, IEEE T-MM, IEEE TCSVT, NPL
 
