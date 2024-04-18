@@ -12,8 +12,8 @@ redirect_from:
 
 Hello! I’m Chen Ju (鞠陈).
 
-I'm a final-year PhD candidate at <a href="https://mediabrain.sjtu.edu.cn/">MediaBrain Group</a>, Shanghai Jiao Tong University, advised by <a href="https://scholar.google.com.hk/citations?user=x_sgJskAAAAJ&hl=zh-CN">Prof. Yanfeng Wang</a> (上海AI LAB主任助理) and <a href="https://mediabrain.sjtu.edu.cn/yazhang/">Prof. Ya Zhang</a> (万人), also collaborating with <a href="https://weidixie.github.io/">Prof. Weidi Xie</a>, <a href="https://siheng-chen.github.io/">Prof. Siheng Chen</a>, <a href="https://mediabrain.sjtu.edu.cn/yuwang/">Prof. Yu Wang</a> and <a href="https://sunarker.github.io/index.html">Prof. Jiangchao Yao</a>. 
-Before that, I obtained a Bachelor's degree in Engineering from University of Electronic Science and Technology of China, where I studied under <a href="https://scholar.google.com.hk/citations?user=r0aZUfoAAAAJ&hl=zh-CN&oi=ao">Prof. Yong Liu</a> (杰青 & 长江), awarded with the honor of Outstanding Graduate.
+I'm a final-year PhD candidate at <a href="https://mediabrain.sjtu.edu.cn/">MediaBrain Group</a>, Shanghai Jiao Tong University, advised by <a href="https://scholar.google.com.hk/citations?user=x_sgJskAAAAJ&hl=zh-CN">Prof. Yanfeng Wang</a> (上海AI LAB主任助理) and <a href="https://mediabrain.sjtu.edu.cn/yazhang/">Prof. Ya Zhang</a> (国家万人), also collaborating with <a href="https://weidixie.github.io/">Prof. Weidi Xie</a>, <a href="https://siheng-chen.github.io/">Prof. Siheng Chen</a>, <a href="https://mediabrain.sjtu.edu.cn/yuwang/">Prof. Yu Wang</a> and <a href="https://sunarker.github.io/index.html">Prof. Jiangchao Yao</a>. 
+Before that, I obtained a Bachelor's degree in Engineering from University of Electronic Science and Technology of China, where I studied under <a href="https://scholar.google.com.hk/citations?user=r0aZUfoAAAAJ&hl=zh-CN&oi=ao">Prof. Yong Liu</a> (国家杰青 & 长江学者), awarded with the honor of Outstanding Graduate.
 
 
 Currently, I collaborate closely with some outstanding researchers from TAO Technology (拍立淘), Alibaba: <a href="https://scholar.google.com.hk/citations?user=78vU1IUAAAAJ&hl=zh-CN&oi=ao">Dr. Weilin Huang</a>, <a href="https://scholar.google.com.hk/citations?user=qBTDCawAAAAJ&hl=zh-CN&oi=ao">Dr. Shuai Xiao</a>, <a href="https://scholar.google.com.hk/citations?user=6Qa2JCwAAAAJ&hl=zh-CN">Dr. Xu Chen</a>, and <a href="https://scholar.google.com.hk/citations?user=o4SDCAYAAAAJ&hl=zh-CN&oi=ao">Dr. Zhonghua Zhai</a>. 
@@ -30,7 +30,7 @@ I’m now leading one small group that mainly works on <b> Efficient Data Govern
 
 
 <p> <b>Email:</b> ju_chen[at]sjtu[dot]edu[dot]cn / cju[dot]void[at]gmail[dot]com         &emsp; &emsp; &emsp; &emsp; &emsp;             
-<b> Google Scholar:</b> Citations 600+, H-index 10, I10-index 9 </p>  
+<b> Google Scholar:</b> Citations 610+, H-index 10, I10-index 9 </p>  
 
 
 
