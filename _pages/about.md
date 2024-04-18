@@ -12,7 +12,7 @@ redirect_from:
 
 Hello! I’m Chen Ju (鞠陈).
 
-I'm a final-year PhD candidate at <a href="https://mediabrain.sjtu.edu.cn/">MediaBrain Group</a>, Shanghai Jiao Tong University, advised by <a href="https://scholar.google.com.hk/citations?user=x_sgJskAAAAJ&hl=zh-CN">Prof. Yanfeng Wang</a> and <a href="https://mediabrain.sjtu.edu.cn/yazhang/">Prof. Ya Zhang</a>, also collaborating with <a href="https://weidixie.github.io/">Prof. Weidi Xie</a>, <a href="https://siheng-chen.github.io/">Prof. Siheng Chen</a>, <a href="https://mediabrain.sjtu.edu.cn/yuwang/">Prof. Yu Wang</a> and <a href="https://sunarker.github.io/index.html">Prof. Jiangchao Yao</a>. 
+I'm a final-year PhD candidate at <a href="https://mediabrain.sjtu.edu.cn/">MediaBrain Group</a>, Shanghai Jiao Tong University, advised by <a href="https://scholar.google.com.hk/citations?user=x_sgJskAAAAJ&hl=zh-CN">Prof. Yanfeng Wang</a> (上海AI LAB主任助理) and <a href="https://mediabrain.sjtu.edu.cn/yazhang/">Prof. Ya Zhang</a> (万人), also collaborating with <a href="https://weidixie.github.io/">Prof. Weidi Xie</a>, <a href="https://siheng-chen.github.io/">Prof. Siheng Chen</a>, <a href="https://mediabrain.sjtu.edu.cn/yuwang/">Prof. Yu Wang</a> and <a href="https://sunarker.github.io/index.html">Prof. Jiangchao Yao</a>. 
 Before that, I obtained a Bachelor's degree in Engineering from University of Electronic Science and Technology of China, where I studied under <a href="https://scholar.google.com.hk/citations?user=r0aZUfoAAAAJ&hl=zh-CN&oi=ao">Prof. Yong Liu</a> (杰青 & 长江), awarded with the honor of Outstanding Graduate.
 
 
@@ -35,8 +35,8 @@ I’m now leading one small group that mainly works on <b> Efficient Data Govern
 
 
 # 🔥 News
+- [*2024.04*] ![new paper](/images/new.gif) Our work, [rethinking the robustness for open-vocabulary visual understanding](https://arxiv.org/pdf/2403.12965.pdf) is out!
 - [*2024.04*] ![new paper](/images/new.gif) Our work, [wear-any-way: manipulable virtual try-on via sparse correspondence alignment](https://arxiv.org/pdf/2403.12965.pdf) is out!
-- [*2024.04*] ![new paper](/images/new.gif) Our work, [rethinking the robustness for open-vocabulary visual understanding](https://arxiv.org/pdf/2403.12965.pdf) will be out!
 - [*2024.03*] ![new paper](/images/new.gif) Our work, [vision-audio-text alignment, from large-scale self-supervised video streaming](https://arxiv.org/pdf/2403.11074.pdf) is out!
 - [*2024.01*] Remarking for 500 Citations in Google Scholar.
 - [*2023.12*] Our work, [universal VLMs acceleration architecture, from one novel perspective of data de-redundancy](https://arxiv.org/pdf/2312.07408.pdf) is out!
