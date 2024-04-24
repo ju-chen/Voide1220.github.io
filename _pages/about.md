@@ -30,12 +30,12 @@ I’m now leading one small group that mainly works on <b> Efficient Data Govern
 
 
 <p> <b>Email:</b> ju_chen[at]sjtu[dot]edu[dot]cn / cju[dot]void[at]gmail[dot]com         &emsp; &emsp; &emsp; &emsp; &emsp;             
-<b> Google Scholar:</b> Citations 610+, H-index 10, I10-index 9 </p>  
+<b> Google Scholar:</b> Citations 620+, H-index 10, I10-index 9 </p>  
 
 
 
 # 🔥 News
-- [*2024.04*] ![new paper](/images/new.gif) Our work, [rethinking the robustness for open-vocabulary visual understanding](https://arxiv.org/pdf/2403.12965.pdf) is out!
+- [*2024.04*] ![new paper](/images/new.gif) Our work, [rethinking the robustness for open-vocabulary visual understanding](https://arxiv.org/pdf/2404.14890.pdf) is out!
 - [*2024.04*] ![new paper](/images/new.gif) Our work, [wear-any-way: manipulable virtual try-on via sparse correspondence alignment](https://arxiv.org/pdf/2403.12965.pdf) is out!
 - [*2024.03*] ![new paper](/images/new.gif) Our work, [vision-audio-text alignment, from large-scale self-supervised video streaming](https://arxiv.org/pdf/2403.11074.pdf) is out!
 - [*2024.01*] Remarking for 500 Citations in Google Scholar.
