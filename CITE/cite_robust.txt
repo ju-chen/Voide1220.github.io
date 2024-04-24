@@ -1,1 +1,6 @@
-TODO
+@article{cheng2024denoiser,
+  title={DENOISER: Rethinking the Robustness for Open-Vocabulary Action Recognition},
+  author={Cheng, Haozhe and Ju, Chen and Wang, Haicheng and Liu, Jinxiang and Chen, Mengting and Hu, Qiang and Zhang, Xiaoyun and Wang, Yanfeng},
+  journal={arXiv preprint arXiv:2404.14890},
+  year={2024}
+}
