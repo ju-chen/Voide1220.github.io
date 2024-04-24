@@ -118,8 +118,8 @@ Chaofan Ma, Yuhuan Yang, **Chen Ju**, Fei Zhang, Ya Zhang and Yanfeng Wang
 Yuhuan Yang, Chaofan Ma, **Chen Ju**, Ya Zhang and Yanfeng Wang             
 arXiv preprint 2023
 
-1. DENOISER: Rethinking the Robustness for Open-Vocabulary Action Recognition                   
-Haozhe Cheng, **Chen Ju**, Haicheng Wang, Jinxiang Liu, Mengting Chen and Xiaoyun Zhang             
+1. [DENOISER: Rethinking the Robustness for Open-Vocabulary Action Recognition](https://arxiv.org/pdf/2404.14890.pdf) \| [[Bibtex](./CITE/cite_robust.txt)]                                   
+Haozhe Cheng, **Chen Ju**, Haicheng Wang, Jinxiang Liu, Mengting Chen, Qiang Hu, Xiaoyun Zhang and Yanfeng Wang            
 arXiv preprint 2024
 
 
@@ -294,7 +294,7 @@ Mengting Chen, Xi Chen, Zhonghua Zhai, **<u>Chen Ju</u>**, Xuewen Hong, Jinsong 
 
 
 # 🎖 Honors and Awards
-- [*2024*] Top Talent Program by Technology Companies (Huawei-Topminds PhD, Alibaba-Star, Tencent-Guru, BaiDu-AIDU, KuaiShou-Star, JD-DMT)
+- [*2024*] Top Talent Program by Technology Companies
 - [*2023*] First Prize of Shanghai Technology Invention Award
 - [*2022*] CMIC Outstanding Scholarship at SJTU (Top 1%)
 - [*2021*] CMIC Outstanding Scholarship at SJTU (Top 1%)
