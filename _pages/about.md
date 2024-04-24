@@ -281,8 +281,10 @@ Ya Zhang, **<u>Chen Ju</u>**, Kunhao Zheng, Jinxiang Liu, Weidi Xie, Yanfeng Wan
 Ya Zhang, **<u>Chen Ju</u>**, Haicheng Wang, Jinxiang Liu, Chaofan Ma, Yanfeng Wang.  
 - CN202310913202.4 [《基于属性分解-聚合的开放词汇语义分割方法及系统》](https://cprs.patentstar.com.cn/Search/Detail?ANE=9HBB8IAA5CBA9CFB6CDA8EEAFFIA8GBA8FAA9BHB7FCA9EHE)       
 Yanfeng Wang, Chaofan Ma, Yuhuan Yang, **<u>Chen Ju</u>**, Fei Zhang, Ya Zhang.  
-- CN202310913202.4 [《一种基于稀疏关系对齐的可自由控制的试衣方法》](https://cprs.patentstar.com.cn/Search/Detail?ANE=9HBB8IAA5CBA9CFB6CDA8EEAFFIA8GBA8FAA9BHB7FCA9EHE)       
+- CN202410913202.4 [《一种基于稀疏关系对齐的可自由控制的试衣方法》](https://cprs.patentstar.com.cn/Search/Detail?ANE=9HBB8IAA5CBA9CFB6CDA8EEAFFIA8GBA8FAA9BHB7FCA9EHE)       
 Mengting Chen, Xi Chen, Zhonghua Zhai, **<u>Chen Ju</u>**, Xuewen Hong, Jinsong Lan, Shuai Xiao. 
+- CN202410913202.4 [《一种带噪多模态开放词汇视觉样本分类方法及系统》](https://cprs.patentstar.com.cn/Search/Detail?ANE=9HBB8IAA5CBA9CFB6CDA8EEAFFIA8GBA8FAA9BHB7FCA9EHE)       
+Xiaoyun Zhang, Haozhe Cheng, **<u>Chen Ju</u>**, Qiang Hu, Yanfeng Wang. 
 
 
 # 📖 Educations
