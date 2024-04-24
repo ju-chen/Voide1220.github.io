@@ -129,7 +129,7 @@ arXiv preprint 2024
 Chaofan Ma, Yuhuan Yang, **Chen Ju**, Fei Zhang, Jinxiang Liu, Yu Wang, Ya Zhang and Yanfeng Wang                 
 **ICCV 2023**
 
-1. [Wear-Any-Way: Manipulable Virtual Try-on via Sparse Correspondence Alignment](https://arxiv.org/pdf/2403.12965.pdf) \| [[Bibtex](./CITE/cite_wear.txt)]               
+1. [Wear-Any-Way: Manipulable Virtual Try-on via Sparse Correspondence Alignment](https://arxiv.org/pdf/2403.12965.pdf) \| [[Project](https://mengtingchen.github.io/wear-any-way-page/)]  \| [[Bibtex](./CITE/cite_wear.txt)]               
 Mengting Chen, Xi Chen, Zhonghua Zhai, **Chen Ju**, Xuewen Hong, Jinsong Lan and Shuai Xiao                
 arXiv preprint 2024
 
