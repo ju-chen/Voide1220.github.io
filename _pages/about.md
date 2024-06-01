@@ -46,6 +46,7 @@ I’m now leading one small group that mainly works on <b> Efficient Data Govern
 - [*2023.04*] Our work, [multi-modal GPT prompting for vision-language foundation models](https://arxiv.org/pdf/2303.11732.pdf) is out!
 - [*2023.03*] Our work, [collaborative distillation so that multiple foundation pre-trainings complement each other](https://arxiv.org/pdf/2212.09335.pdf) is out!
 - [*2023.02*] Our work, [partial supervision with quadruple contrasts for cost-effective vision-language pre-training](https://arxiv.org/pdf/2302.09850.pdf) is out!
+- One paper is accepted to Springer IJCV, about open-Set semantic segmentation via multi-modal prototypes.
 - One paper is accepted to CVPR 2024, about audio-visual segmentation via unlabeled frame exploitation.
 - One paper is accepted to WWW 2024, about cross-domain CTR prediction via explicit feature augmentation.
 - One paper is accepted to NIPS 2023, about general semantic understanding for multi-modal large models.
@@ -116,7 +117,7 @@ Chaofan Ma, Yuhuan Yang, **Chen Ju**, Fei Zhang, Ya Zhang and Yanfeng Wang
 
 1. [Multi-Modal Prototypes for Open-Set Semantic Segmentation](https://arxiv.org/pdf/2307.02003.pdf) \| [[Bibtex](./CITE/cite_prototype.txt)]                    
 Yuhuan Yang, Chaofan Ma, **Chen Ju**, Ya Zhang and Yanfeng Wang             
-arXiv preprint 2023
+**Springer IJCV**
 
 1. [DENOISER: Rethinking the Robustness for Open-Vocabulary Action Recognition](https://arxiv.org/pdf/2404.14890.pdf) \| [[Bibtex](./CITE/cite_robust.txt)]                                   
 Haozhe Cheng, **Chen Ju**, Haicheng Wang, Jinxiang Liu, Mengting Chen, Qiang Hu, Xiaoyun Zhang and Yanfeng Wang            
