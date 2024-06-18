@@ -35,25 +35,19 @@ I’m now leading one small group that mainly works on <b> Efficient Data Govern
 
 
 # 🔥 News
+- [*2024.06*] One paper is accepted to Springer IJCV, about open-set semantic segmentation via multi-modal prototypes.
 - [*2024.04*] ![new paper](/images/new.gif) Our new work, [rethinking the robustness for open-vocabulary visual understanding](https://arxiv.org/pdf/2404.14890.pdf) is out!
 - [*2024.04*] ![new paper](/images/new.gif) Our new work, [wear-any-way: manipulable virtual try-on via sparse correspondence alignment](https://arxiv.org/pdf/2403.12965.pdf) is out!
 - [*2024.03*] ![new paper](/images/new.gif) Our new work, [vision-audio-text alignment, from large-scale self-supervised video streaming](https://arxiv.org/pdf/2403.11074.pdf) is out!
+- [*2024.03*] One paper is accepted to CVPR 2024, about audio-visual segmentation via unlabeled frame exploitation.
 - [*2024.01*] Remarking for 500 Citations in Google Scholar.
+- [*2024.01*] One paper is accepted to WWW 2024, about cross-domain CTR prediction via explicit feature augmentation.
 - [*2023.12*] Our work, [universal VLMs acceleration architecture, from one novel perspective of data de-redundancy](https://arxiv.org/pdf/2312.07408.pdf) is out!
-- [*2023.09*] Our work, [diversifying semantics' attributes via LLMs for open-set visual system](https://arxiv.org/pdf/2309.00096.pdf) is out!
-- [*2023.07*] Our work, [aligning LLMs' remarkable semantics for multi-modal understanding system](https://arxiv.org/pdf/2307.02003.pdf) is out!
-- [*2023.05*] Our work, [distilling fine-grained priors from stable diffusion for unsupervised object discovery](https://arxiv.org/pdf/2303.09813.pdf) is out!
-- [*2023.04*] Our work, [multi-modal GPT prompting for vision-language foundation models](https://arxiv.org/pdf/2303.11732.pdf) is out!
-- [*2023.03*] Our work, [collaborative distillation so that multiple foundation pre-trainings complement each other](https://arxiv.org/pdf/2212.09335.pdf) is out!
-- [*2023.02*] Our work, [partial supervision with quadruple contrasts for cost-effective vision-language pre-training](https://arxiv.org/pdf/2302.09850.pdf) is out!
-- One paper is accepted to Springer IJCV, about open-set semantic segmentation via multi-modal prototypes.
-- One paper is accepted to CVPR 2024, about audio-visual segmentation via unlabeled frame exploitation.
-- One paper is accepted to WWW 2024, about cross-domain CTR prediction via explicit feature augmentation.
-- One paper is accepted to NIPS 2023, about general semantic understanding for multi-modal large models.
-- One paper is accepted to ICCV 2023, about finer visual understanding from multiple diffusion models.
-- One paper is accepted to CVPR 2023, about effective collaboration of multiple foundation models.
-- One paper is accepted to ECCV 2022, about efficient adaptation for vision-language foundation models.  
-- One paper is accepted to ACM Multimedia 2022, about cost-effective pre-training for video-audio foundation models.     
+- [*2023.09*] One paper is accepted to NIPS 2023, about general semantic understanding for multi-modal large models.
+- [*2023.07*] One paper is accepted to ICCV 2023, about finer visual understanding from multiple diffusion models.
+- [*2023.03*] One paper is accepted to CVPR 2023, about effective collaboration of multiple foundation models.
+- [*2022.07*] One paper is accepted to ECCV 2022, about efficient adaptation for vision-language foundation models.  
+- [*2023.07*] One paper is accepted to ACM Multimedia 2022, about cost-effective pre-training for video-audio foundation models.     
 
 
 # 💻 Researches
