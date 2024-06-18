@@ -36,7 +36,7 @@ I’m now leading one small group that mainly works on <b> Efficient Data Govern
 
 # 🔥 News
 - [*2024.06*] One paper is accepted to Springer IJCV, about open-set semantic segmentation via multi-modal prototypes.
-- [*2024.04*] ![new paper](/images/new.gif) Our new work, [rethinking the robustness for open-vocabulary visual understanding](https://arxiv.org/pdf/2404.14890.pdf) is out!
+- [*2024.05*] ![new paper](/images/new.gif) Our new work, [rethinking the robustness for open-vocabulary visual understanding](https://arxiv.org/pdf/2404.14890.pdf) is out!
 - [*2024.04*] ![new paper](/images/new.gif) Our new work, [wear-any-way: manipulable virtual try-on via sparse correspondence alignment](https://arxiv.org/pdf/2403.12965.pdf) is out!
 - [*2024.03*] One paper is accepted to CVPR 2024, about audio-visual segmentation via unlabeled frame exploitation.
 - [*2024.01*] Remarking for 500 Citations in Google Scholar.
@@ -46,7 +46,7 @@ I’m now leading one small group that mainly works on <b> Efficient Data Govern
 - [*2023.07*] One paper is accepted to ICCV 2023, about finer visual understanding from multiple diffusion models.
 - [*2023.03*] One paper is accepted to CVPR 2023, about effective collaboration of multiple foundation models.
 - [*2022.07*] One paper is accepted to ECCV 2022, about efficient adaptation for vision-language foundation models.  
-- [*2023.07*] One paper is accepted to ACM Multimedia 2022, about cost-effective pre-training for video-audio foundation models.     
+- [*2022.07*] One paper is accepted to ACM Multimedia 2022, about cost-effective pre-training for video-audio foundation models.     
 
 
 # 💻 Researches
