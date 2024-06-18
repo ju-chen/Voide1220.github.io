@@ -17,7 +17,7 @@ Before that, I obtained a Bachelor's degree in Engineering from University of El
 
 
 Currently, I collaborate closely with some outstanding researchers from TAO Technology (拍立淘), Alibaba: <a href="https://scholar.google.com.hk/citations?user=78vU1IUAAAAJ&hl=zh-CN&oi=ao">Dr. Weilin Huang</a>, <a href="https://scholar.google.com.hk/citations?user=qBTDCawAAAAJ&hl=zh-CN&oi=ao">Dr. Shuai Xiao</a>, <a href="https://scholar.google.com.hk/citations?user=6Qa2JCwAAAAJ&hl=zh-CN">Dr. Xu Chen</a>, and <a href="https://scholar.google.com.hk/citations?user=o4SDCAYAAAAJ&hl=zh-CN&oi=ao">Dr. Zhonghua Zhai</a>. 
-The vision is to develop large-scale visual searching system for various e-commerce applications, such as superlarge-scale multi-modal learning (10-billion image-text product data), AIGC (GPT & Diffusion).
+The vision is to develop large-scale visual searching system for various e-commerce applications, such as superlarge-scale multi-modal learning (10-billion image-text product data), AIGC (GPT & VLLM & Diffusion).
 
 
 Before, I study with some outstanding researchers from WeChat Technology (微信技术架构), Tencent: <a href="https://scholar.google.com.hk/citations?user=38dACd4AAAAJ&hl=zh-CN&oi=ao">Dr. Fengyun Rao</a>, <a href="https://scholar.google.com.hk/citations?user=dHBNmSkAAAAJ&hl=zh-CN&oi=ao">Dr. Yizhou Zhou</a>, <a href="https://scholar.google.com.hk/citations?user=cKY8e8sAAAAJ&hl=zh-CN&oi=ao">Dr. Guangting Wang</a> and <a href="https://scholar.google.com.hk/citations?user=O00rbxoAAAAJ&hl=zh-CN&oi=sra">Dr. Yukun Su</a>, working to develop chinese pre-trainings of image-text-video-music, namely WeMM, WeCLIP, WeMU.
@@ -29,7 +29,7 @@ Earlier, I cooperate with some outstanding researchers from PanGu Large Model (�
 I’m now leading one small group that mainly works on <b> Efficient Data Governance (Cleaner; Organizer; Compressor; Distiller; Synthesizer; Evolver)</b>. Actively recruiting research interns and engineering interns, please feel free to contact me!
 
 
-<p> <b>Email:</b> cju[dot]void[at]gmail[dot]com /  ju_chen[at]alumni[dot]sjtu[dot]edu[dot]cn          &emsp; &emsp; &emsp; &emsp; &emsp;             
+<p> <b>Email:</b> cju[dot]void[at]gmail[dot]com /  ju_chen[at]alumni[dot]sjtu[dot]edu[dot]cn          &emsp; &emsp; &emsp; &emsp;             
 <b> Google Scholar:</b> Citations 660+, H-index 10, I10-index 10 </p>  
 
 
