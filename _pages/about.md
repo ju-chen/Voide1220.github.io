@@ -29,7 +29,7 @@ Earlier, I cooperate with some outstanding researchers from PanGu Large Model (ç
 Iâ€™m now leading one small group that mainly works on <b> Efficient Data Governance (Cleaner; Organizer; Compressor; Distiller; Synthesizer; Evolver)</b>. Actively recruiting research interns and engineering interns, please feel free to contact me!
 
 
-<p> <b>Email:</b> ju_chen[at]sjtu[dot]edu[dot]cn / cju[dot]void[at]gmail[dot]com         &emsp; &emsp; &emsp; &emsp; &emsp;             
+<p> <b>Email:</b> cju[dot]void[at]gmail[dot]com /  ju_chen[at]alumni[dot]sjtu[dot]edu[dot]cn          &emsp; &emsp; &emsp; &emsp; &emsp;             
 <b> Google Scholar:</b> Citations 660+, H-index 10, I10-index 10 </p>  
 
 
