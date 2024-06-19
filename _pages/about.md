@@ -253,9 +253,9 @@ MeiTuan: <a href="https://scholar.google.com.hk/citations?user=9rY7WqAAAAAJ&hl=z
 
   
 9. Hardware Company. &emsp;
-INVIDIA: <a href="https://scholar.google.com.hk/citations?user=Etmn37YAAAAJ&hl=zh-CN&oi=ao">Jie Chang</a>, <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=Xv9DcdEAAAAJ">Yangheng Zhao</a>.
+INVIDIA: <a href="https://scholar.google.com.hk/citations?user=Etmn37YAAAAJ&hl=zh-CN&oi=ao">Jie Chang</a>, <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=Xv9DcdEAAAAJ">Yangheng Zhao</a>, Yingying Xue.
 &emsp;
-Intel: <a href="https://scholar.google.com.hk/citations?user=d7r3NGQAAAAJ&hl=zh-CN&oi=ao">Yujie Pan</a>, Yingying Xue.
+Intel: <a href="https://scholar.google.com.hk/citations?user=d7r3NGQAAAAJ&hl=zh-CN&oi=ao">Yujie Pan</a>.
 &emsp;
 Hikvision: Tengfei Hou, Wanshun Gao. 
 &emsp;
@@ -282,11 +282,10 @@ Xiaoyun Zhang, Haozhe Cheng, **<u>Chen Ju</u>**, Qiang Hu, Yanfeng Wang.
 
 
 # 📖 Educations
-- *2018 - 2024*, PhD candidate, Shanghai Jiao Tong University, Shanghai, China
+- *2018 - 2024*, PhD, Shanghai Jiao Tong University, Shanghai, China
 - *2018*, Exchange Student, University of Amsterdam, Netherlands
 - *2018*, Exchange Student, KU Leuven, Belgium
 - *2014 - 2018*, Undergraduate, University of Electronic Science and Technology of China, Chengdu, China
-
 
 
 # 🎖 Honors and Awards
