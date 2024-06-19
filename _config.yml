@@ -10,7 +10,7 @@ locale                   : "zh-CN"
 title                    : "Chen Ju (鞠陈)"
 title_separator          : "-"
 name                     : "Chen Ju (鞠陈)"
-description              : "PhD Candidate"
+description              : "PhD"
 repository               : "Voide1220/Voide1220.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -31,7 +31,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=b2jNn10AAAAJ&hl=zh-CN&oi=ao"
-  email            : "ju_chen@sjtu.edu.cn"
+  email            : "cju.void@gmail.com"
   researchgate     : 
   uri              :
   bitbucket        :
@@ -48,7 +48,7 @@ author:
   lastfm           :
   linkedin         : 
   dblp             : https://dblp1.uni-trier.de/pid/221/1300.html
-  orcid            : 
+  orcid            : 0000-0001-8472-7677
   pinterest        :
   soundcloud       :
   stackoverflow    : 
