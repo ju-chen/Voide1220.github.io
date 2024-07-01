@@ -35,7 +35,7 @@ I’m now leading one small group that mainly works on <b> Efficient Data Govern
 
 
 # 🔥 News
-- [*2024.07*] Two papers are accepted to ECCV 2024.
+- [*2024.07*] Two papers are accepted to ECCV 2024. Congrats to all co-authors!
 - [*2024.06*] One paper is accepted to Springer IJCV, about open-set semantic segmentation via multi-modal prototypes.
 - [*2024.05*] ![new paper](/images/new.gif) Our new work, [rethinking the robustness for open-vocabulary visual understanding](https://arxiv.org/pdf/2404.14890.pdf) is out!
 - [*2024.04*] ![new paper](/images/new.gif) Our new work, [wear-any-way: manipulable virtual try-on via sparse correspondence alignment](https://arxiv.org/pdf/2403.12965.pdf) is out!
