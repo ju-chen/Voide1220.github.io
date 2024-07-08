@@ -259,7 +259,7 @@
 					<td align=center width=500px>
 						<center>
 							<span style="font-size:22px">
-								<span style="font-size:20px">Preprint</span>
+								<span style="font-size:20px">ECCV 2024</span>
 							</span>
 						</center>
 					</td>
@@ -283,7 +283,7 @@
                 <center>
                   <br>
                   <span style="font-size:20px">
-                    <a href="https://arxiv.org/pdf/2302.09850.pdf"> Paper </a>
+                    <a href="https://arxiv.org/pdf/2312.07408.pdf"> Paper </a>
                   </span>
                 </center>
               </td>
@@ -292,7 +292,7 @@
                 <center>
                   <br>
                   <span style="font-size:20px">
-                    <a href="./cite_partial.txt"> Bibtex </a>
+                    <a href="./cite_turbo.txt"> Bibtex </a>
                   </span>
                 </center>
               </td>
@@ -320,7 +320,7 @@
 	<center><h1>Abstract</h1></center>
 	<tr>
 		<td>
-		     Temporal sentence grounding aims to detect the event timestamps described by the natural language query from given untrimmed videos. The existing fully-supervised setting achieves great performance but requires expensive annotation costs; while the weakly-supervised setting adopts cheap labels but performs poorly. To pursue high performance with less annotation cost, this paper introduces an intermediate partially-supervised setting, i.e., only short-clip or even single-frame labels are available during training. To take full advantage of partial labels, we propose a novel quadruple constraint pipeline to comprehensively shape event-query aligned representations, covering intra- and inter-samples, uni- and multi-modalities. The former raises intra-cluster compactness and inter-cluster separability; while the latter enables event-background separation and event-query gather. To achieve more powerful performance with explicit grounding optimization, we further introduce a partial-full union framework, i.e., bridging with an additional fully-supervised branch, to enjoy its impressive grounding bonus, and be robust to partial annotations. Extensive experiments and ablations on Charades-STA and ActivityNet Captions demonstrate the significance of partial supervision and our superior performance.
+		     Vision-Language Large Models (VLMs) recently become primary backbone of AI, due to the impressive performance. However, their expensive computation costs, {\em i.e.}, throughput and delay, impede potentials in the real-world scenarios. To achieve acceleration for VLMs, most existing methods focus on the model perspective: pruning, distillation, quantization, but completely overlook the data-perspective redundancy. To fill the overlook, this paper pioneers the severity of data redundancy, and designs one plug-and-play Turbo module guided by information degree to prune inefficient tokens from visual or textual data. In pursuit of efficiency-performance trade-offs, information degree takes two crucial factors into consideration: mutual redundancy and semantic value. Concretely, the former evaluates data duplication between sequential tokens; while the latter evaluates each token by its contribution to the overall semantics. As a result, tokens with high information degree carry less redundancy and stronger semantics. For VLMs' calculation, Turbo works as a user-friendly plug-in that sorts data referring to information degree, utilizing only top-level ones to save costs. Its advantages are multifaceted, {\em e.g.}, being generally compatible to various VLMs across understanding and generation, simple use without re-training and trivial engineering efforts. On multiple VLMs benchmarks, we fully experiment to reveal good acceleration of Turbo, under negligible performance drop. 
 		</td>
 	</tr>
 	</table>
