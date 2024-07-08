@@ -75,8 +75,8 @@ As a young researcher, your interest and kind citation will definitely mean a lo
 **Chen Ju**, Kunhao Zheng, Jinxiang Liu, Peisen Zhao, Ya Zhang, Jianlong Chang, Qi Tian and Yanfeng Wang      
 **CVPR 2023** 
 
-1. [Turbo: Informativity-Driven Acceleration Plugin for Vision-Language Foundation Models](https://arxiv.org/pdf/2312.07408.pdf)   \| [[Bibtex](./CITE/cite_turbo.txt)]                       
-**Chen Ju**, Haicheng Wang, Zeqian Li, Xu Chen, Zhonghua Zhai, Weilin Huang and Shuai Xiao             
+1. [Turbo: Informativity-Driven Acceleration Plugin for Vision-Language Large Models](https://arxiv.org/pdf/2312.07408.pdf)  \|  [[Project](https://voide1220.github.io/turbo/)]   \| [[Bibtex](./CITE/cite_turbo.txt)]                       
+**Chen Ju**, Haicheng Wang, Haozhe Cheng, Xu Chen, Zhonghua Zhai, Weilin Huang, Jinsong Lan, Shuai Xiao and Bo Zheng               
 **ECCV 2024** 
 
 
