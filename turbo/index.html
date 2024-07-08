@@ -1,4 +1,5 @@
 
+
 <html>
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -177,13 +178,13 @@
             <tbody><tr>
                     <td align="center" width="160px">
               <center>
-                <span style="font-size:16px"><a href="https://voide1220.github.io/">Chen Ju</a><sup>1</sup></span>
+                <span style="font-size:16px"><a href="https://voide1220.github.io/">Chen Ju</a><sup>1,2</sup></span>
                 </center>
 			    
                 </td>
                     <td align="center" width="160px">
               <center>
-                <span style="font-size:16px"><a href="https://scholar.google.com.hk/citations?user=x0Uk7S8AAAAJ&hl=zh-CN&oi=ao">Haicheng Wang</a><sup>2</sup></span>
+                <span style="font-size:16px"><a href="https://scholar.google.com.hk/citations?user=x0Uk7S8AAAAJ&hl=zh-CN&oi=ao">Haicheng Wang</a><sup>1,2</sup></span>
                 </center>
                 </td>
                     <td align="center" width="160px">
@@ -211,7 +212,7 @@
 		</td>
                     <td align="center" width="160px">	    
               <center>
-                <span style="font-size:16px"><a href="https://scholar.google.com.hk/citations?user=hCr8Km8AAAAJ&hl=zh-CN&oi=ao">Weilin Huang</a><sup>1</sup></span>
+                <span style="font-size:16px"><a href="https://whuang.org/">Weilin Huang</a><sup>1</sup></span>
                 </center> 
 			    
 		</td>
@@ -283,7 +284,7 @@
                 <center>
                   <br>
                   <span style="font-size:20px">
-                    <a href="https://arxiv.org/pdf/2312.07408.pdf"> Paper </a>
+                    <a href="https://arxiv.org/abs/2312.07408"> Paper </a>
                   </span>
                 </center>
               </td>
@@ -292,7 +293,7 @@
                 <center>
                   <br>
                   <span style="font-size:20px">
-                    <a href="./cite_turbo.txt"> Bibtex </a>
+                    <a href="./cite_partial.txt"> Bibtex </a>
                   </span>
                 </center>
               </td>
@@ -301,26 +302,28 @@
 
 
       <br><hr>
-	<center><h1>Teaser</h1></center>
+	<center><h1>Problem</h1></center>
       <br>
         <center>
           <div class="container">
 	    <div class="row">
 	      <center>
-	        <img src="./image/intro.PNG" alt="alt text" style="width: 60%; object-fit: cover; max-width:60%;"></a>
+	        <img src="./image/intro.png" alt="alt text" style="width: 80%; object-fit: cover; max-width:80%;"></a>
 	      </center>
 		  
 	      </div>
         </center>
       </center>
-	<p> Performance vs. Annotation Costs. For temporal sentence grounding, full supervision achieves good performance, but requires expensive annotation; weak supervision significantly alleviates annotation costs, but shows poor performance. To achieve great empirical performance and maintain cheap annotation overhead at the same time, we introduce the intermediate setting: partial supervision, including short-clip or even single-frame labels. </p>
+	<p> Left: the trouble with applying VLMs is the high-cost issue. Right: to acceler-
+        ate VLMs, most existing ideas focus on the model perspective (pruning & quantization).
+        While our Turbo explores de-redundancy from the data perspective. </p>
 
       <br><hr>
         <table align=center width=850px>
 	<center><h1>Abstract</h1></center>
 	<tr>
 		<td>
-		     Vision-Language Large Models (VLMs) recently become primary backbone of AI, due to the impressive performance. However, their expensive computation costs, {\em i.e.}, throughput and delay, impede potentials in the real-world scenarios. To achieve acceleration for VLMs, most existing methods focus on the model perspective: pruning, distillation, quantization, but completely overlook the data-perspective redundancy. To fill the overlook, this paper pioneers the severity of data redundancy, and designs one plug-and-play Turbo module guided by information degree to prune inefficient tokens from visual or textual data. In pursuit of efficiency-performance trade-offs, information degree takes two crucial factors into consideration: mutual redundancy and semantic value. Concretely, the former evaluates data duplication between sequential tokens; while the latter evaluates each token by its contribution to the overall semantics. As a result, tokens with high information degree carry less redundancy and stronger semantics. For VLMs' calculation, Turbo works as a user-friendly plug-in that sorts data referring to information degree, utilizing only top-level ones to save costs. Its advantages are multifaceted, {\em e.g.}, being generally compatible to various VLMs across understanding and generation, simple use without re-training and trivial engineering efforts. On multiple VLMs benchmarks, we fully experiment to reveal good acceleration of Turbo, under negligible performance drop. 
+            Vision-Language Large Models (VLMs) recently become primary backbone of AI, due to the impressive performance. However, their expensive computation costs, i.e., throughput and delay, impede potentials in the real-world scenarios. To achieve acceleration for VLMs, most existing methods focus on the model perspective: pruning, distillation, quantization, but completely overlook the data-perspective redundancy. To fill the overlook, this paper pioneers the severity of data redundancy, and designs one plug-and-play Turbo module guided by information degree to prune inefficient tokens from visual or textual data. In pursuit of efficiency-performance trade-offs, information degree takes two crucial factors into consideration: mutual redundancy and semantic value. Concretely, the former evaluates data duplication between sequential tokens; while the latter evaluates each token by its contribution to the overall semantics. As a result, tokens with high information degree carry less redundancy and stronger semantics. For VLMs' calculation, Turbo works as a user-friendly plug-in that sorts data referring to information degree, utilizing only top-level ones to save costs. Its advantages are multifaceted, e.g., being generally compatible to various VLMs across understanding and generation, simple use without re-training and trivial engineering efforts. On multiple VLMs benchmarks, we fully experiment to reveal good acceleration of Turbo, under negligible performance drop. 
 		</td>
 	</tr>
 	</table>
@@ -333,46 +336,57 @@
           <div class="container">
 	    <div class="row">
 	      <center>
-	        <img src="./image/frame.PNG" alt="alt text" style="width: 100%; object-fit: cover; max-width:100%;"></a>
+	        <img src="./image/frame.png" alt="alt text" style="width: 100%; object-fit: cover; max-width:100%;"></a>
 	      </center>
 	      
 	      </div>
         </center>
       </center>
-	<p> Given partial labels, we use one partially-supervised branch to facilitate high-quality alignment of event-query representations, i.e., interact bi-modal features, adopt an event detector to calculate event visual features and background features, finally optimize with the constraint loss and partial grounding loss. Bridging by grounding pseudo-labels, we further unite the partially-supervised branch with a powerful fully-supervised branch, to enjoy the grounding bonus from fully-supervised research lines. </p>
-       <br><hr>
+	<p> As one plug-in module, Turbo compresses data to cut computing overheads for various VLMs, across understanding/generation and uni-/multi-modality. It sorts then merges tokens by information degree (mutual redundancy $\mathcal{R}$ and semantic value $\mathcal{A}$) for understanding tasks; while sorts, merges and restores VLMs’ tokens for generation tasks, owning good universality and practicality.
+        <br><hr>
+
+        <center><h1>Empirical Study</h1></center>
+        <br>
+          <center>
+            <div class="container">
+          <div class="row">
+            <center>
+              <img src="./image/diag.png" alt="alt text" style="width: 100%; object-fit: cover; max-width:100%;"></a>
+            </center>
+            
+            </div>
+          </center>
+        </center>
+      <p> Empirical Evaluation of Token Redundancy & Attention Concentration on BLIP fine-tuned for multi-modal retrieval. Results reveal the non-negligible redundancy in the token sequence from perspectives of semantics and similarity.
+        <br><hr>
+
+	<center><h1>Experiments</h1></center>
+        <p><img class="center"  src="./image/expb.PNG" width="900px"></p>
+        <p><img class="center"  src="./image/expa.PNG" width="900px"></p>
 
 
-	<center><h1>Ablation Studies</h1></center>
-        <p><img class="center"  src="./image/ablation.PNG" width="800px"></p>
+	<center><h1>Ablation Study</h1></center>
+        <p><center><img class="center"  src="./image/ablation.PNG" width="600px"></center></p>
+	<p> Ablation Study on Drop Ratio Y. Semantic value retains superior performance when Y is small, mutual redundancy possesses better stability on the large Y. By combining these two components, Turbo obtains competitive results and stability on the whole scope.
+        <p><img class="center"  src="./image/exp5.PNG" width="800px"></p>
 
+	<center><h1>Robustness</h1></center>
+        <p><img class="center"  src="./image/robust.PNG" width="800px"></p>
+	<p> Ablation Study of Balancing Coefficient α. On image captioning using BLIP (VIT-Base and VIT Large), these results prove our robustness, as the performance varies slightly.
 
-	<center><h1>Quadruple Constraint Pipeline</h1></center>
-        <p><center><img class="center"  src="./image/ques.PNG" width="600px"></center></p>
-	<p> We make full use of partial labels to align event-query representations with high quality. For intra-sample, $L_{raml}$ raises event-query gather, $L_{raun}$ enables event-background separation. For inter-sample, $L_{erml}$ and $L_{erun}$ urge intra-cluster compactness and inter-cluster separation. </p>
-
-
-	<center><h1>Comparison with SOTA Methods</h1></center>
-        <p><img class="center"  src="./image/sota.PNG" width="800px"></p>
-	<p> Using single-frame labels, our method outperforms most competitors by a large margin. The performance can be further improved with short-clip labels (2 seconds), and even comparable to several earlier fully-supervised methods. </p>
-
-        <center><h1>Effectiveness of Partial Annotations.</h1></center>
-        <p><center><img class="center"  src="./image/partial.PNG" width="400px"></center></p>
-	<p> Weak refers to not using the partial grounding loss $L_{grnd}$. For single-frame or short-clip labels from various types of labeling distributions, our framework demonstrates strong robustness and superiority. </p>	
-
-	<center><h1>Qualitative Grounding Results</h1></center>
-        <p><center><img class="center"  src="./image/grounding.PNG" width="600px"></center></p>
-	<p> Using partial labels as seed anchors, our method obtains great pseudo-labels from the partially-supervised branch. Short-clip labels further improve single-frame results. </p>
-
-	<center><h1>T-SNE Representation</h1></center>
-        <p><center><img class="center"  src="./image/tsne.PNG" width="600px"></center></p>
-	<p> Left refers to original video features from pre-trained extractors. Right refers to video features with quadruple constraint pipeline. Colors indicate different clusters. </p>
-
+	<center><h1>Visualization Results</h1></center>
+        <p><center><img class="center"  src="./image/merge.PNG" width="600px"></center></p>
+	<p> Left: Turbo merges background patches, while retains foreground patches with semantics, preserving more key information. Right: The quality
+        of text-to-image generation is close before and after Turbo acceleration.
+        
+    <center><h1>Comparison with Previous SOTA</h1></center>
+        <p><center><img class="center"  src="./image/res.PNG" width="600px"></center></p>
+    <p> Quality comparison on generation task for ToMe and Turbo. Compared with ToMe, Turbo retains more details and has better generation quality.  
       <br>
       <hr>
       <center> <h1> Acknowledgements </h1> </center>
 	<p>
-		This research is supported by the National Key R&D Program of China (No. 2022ZD0160702), STCSM (No. 22511106101, No. 18DZ2270700, No. 21DZ1100100), 111 plan (No. BP0719010), and State Key Laboratory of UHD Video and Audio Production and Presentation.
+		This research is supported by Alibaba Group.
 	</p>
   
       <br>
