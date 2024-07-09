@@ -18,7 +18,7 @@ Now it has become one of the largest visual/multi-modal application scenarios in
 
 I’m recently leading one small group that mainly works on Efficient Data Understanding & Generation for Multi-Modal Foundation Models(Data Flywheel/Governance, Advanced Paradigm/Framework, Creative AIGC). 
 
-<b>Actively recruiting research/engineering interns, see <a href="https://zhuanlan.zhihu.com/p/707679629?utm_campaign=shareopn&utm_medium=social&utm_psn=1793706250598506498&utm_source=wechat_session">Link</a>, please feel free to contact me!</b>  
+<b>Actively recruiting research/engineering interns, please see <a href="https://zhuanlan.zhihu.com/p/707679629?utm_campaign=shareopn&utm_medium=social&utm_psn=1793706250598506498&utm_source=wechat_session">Link</a>, feel free to contact me!</b>  
 
 
 Before that, I study with some outstanding researchers from WeChat Technology (微信技术架构), Tencent: <a href="https://scholar.google.com.hk/citations?user=38dACd4AAAAJ&hl=zh-CN&oi=ao">Dr. Fengyun Rao</a>, <a href="https://scholar.google.com.hk/citations?user=dHBNmSkAAAAJ&hl=zh-CN&oi=ao">Dr. Yizhou Zhou</a>, <a href="https://scholar.google.com.hk/citations?user=cKY8e8sAAAAJ&hl=zh-CN&oi=ao">Dr. Guangting Wang</a> and <a href="https://scholar.google.com.hk/citations?user=O00rbxoAAAAJ&hl=zh-CN&oi=sra">Dr. Yukun Su</a>, working to develop chinese pre-trainings of image-text-video-music, namely WeMM, WeCLIP, WeMU.
@@ -110,7 +110,7 @@ Jinxiang Liu, Yu Wang, **Chen Ju**, Chaofan Ma, Ya Zhang, Weidi Xie
 
 1. [Open-Vocabulary Semantic Segmentation via Attribute Decomposition-Aggregation](https://arxiv.org/pdf/2307.02003.pdf) \| [[Bibtex](./CITE/cite_attribute.txt)]                  
 Chaofan Ma, Yuhuan Yang, **Chen Ju**, Fei Zhang, Ya Zhang and Yanfeng Wang             
-**NIPS 2023**
+**NeurIPS 2023**
 
 1. [Multi-Modal Prototypes for Open-Set Semantic Segmentation](https://arxiv.org/pdf/2307.02003.pdf) \| [[Bibtex](./CITE/cite_prototype.txt)]                    
 Yuhuan Yang, Chaofan Ma, **Chen Ju**, Ya Zhang and Yanfeng Wang             
