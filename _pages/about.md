@@ -159,7 +159,7 @@ arXiv preprint 2023
 Xu Chen, Zida Cheng, Jiangchao Yao, **Chen Ju**, Weilin Huang, Xiaoyi Zeng and Shuai Xiao             
 **WWW 2024**
 
-1. [Image to Multi-Modal Retrieval Learning for Industrial Scenarios](https://arxiv.org/pdf/2305.03972)      \|  [[Bibtex](./CITE/cite_immr.txt)]               
+1. [Category-Oriented Representation Learning for Image to Multi-Modal Retrieval](https://arxiv.org/pdf/2305.03972)      \|  [[Bibtex](./CITE/cite_immr.txt)]               
 Zida Cheng, **Chen Ju**, Xu Chen, Zhonghua Zhai, Shuai Xiao and Junchi Yan           
 arXiv preprint 2023   
 
