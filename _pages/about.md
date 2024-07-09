@@ -12,12 +12,13 @@ redirect_from:
 
 Hello! I’m Chen Ju (鞠陈).
 
-I'm a final-year PhD candidate at <a href="https://mediabrain.sjtu.edu.cn/">MediaBrain Group</a>, Shanghai Jiao Tong University, advised by <a href="https://scholar.google.com.hk/citations?user=x_sgJskAAAAJ&hl=zh-CN">Prof. Yanfeng Wang</a> (上海AI LAB主任助理) and <a href="https://mediabrain.sjtu.edu.cn/yazhang/">Prof. Ya Zhang</a> (国家万人), also collaborating with <a href="https://weidixie.github.io/">Prof. Weidi Xie</a>, <a href="https://siheng-chen.github.io/">Prof. Siheng Chen</a>, <a href="https://mediabrain.sjtu.edu.cn/yuwang/">Prof. Yu Wang</a> and <a href="https://sunarker.github.io/index.html">Prof. Jiangchao Yao</a>. 
-Before that, I obtained a Bachelor's degree in Engineering from University of Electronic Science and Technology of China, where I studied under <a href="https://scholar.google.com.hk/citations?user=r0aZUfoAAAAJ&hl=zh-CN&oi=ao">Prof. Yong Liu</a> (国家杰青 & 长江学者), awarded with the honor of Outstanding Graduate.
-
-
 Currently, I collaborate closely with some outstanding researchers from TAO Technology (拍立淘), Alibaba: <a href="https://scholar.google.com.hk/citations?user=78vU1IUAAAAJ&hl=zh-CN&oi=ao">Dr. Weilin Huang</a>, <a href="https://scholar.google.com.hk/citations?user=qBTDCawAAAAJ&hl=zh-CN&oi=ao">Dr. Shuai Xiao</a>, <a href="https://scholar.google.com.hk/citations?user=6Qa2JCwAAAAJ&hl=zh-CN">Dr. Xu Chen</a>, and <a href="https://scholar.google.com.hk/citations?user=o4SDCAYAAAAJ&hl=zh-CN&oi=ao">Dr. Zhonghua Zhai</a>. 
 The vision is to develop large-scale visual searching system for various e-commerce applications, such as superlarge-scale multi-modal learning (10-billion image-text product data), AIGC (GPT & VLLM & Diffusion).
+
+
+Recently, I obtained the PhD's degree from <a href="https://mediabrain.sjtu.edu.cn/">MediaBrain Group</a>, Shanghai Jiao Tong University, advised by <a href="https://scholar.google.com.hk/citations?user=x_sgJskAAAAJ&hl=zh-CN">Prof. Yanfeng Wang</a> (上海AI LAB主任助理) and <a href="https://mediabrain.sjtu.edu.cn/yazhang/">Prof. Ya Zhang</a> (国家万人), also collaborating with <a href="https://weidixie.github.io/">Prof. Weidi Xie</a>, <a href="https://siheng-chen.github.io/">Prof. Siheng Chen</a>, <a href="https://mediabrain.sjtu.edu.cn/yuwang/">Prof. Yu Wang</a> and <a href="https://sunarker.github.io/index.html">Prof. Jiangchao Yao</a>. 
+
+Before that, I obtained a Bachelor's degree in Engineering from University of Electronic Science and Technology of China, where I studied under <a href="https://scholar.google.com.hk/citations?user=r0aZUfoAAAAJ&hl=zh-CN&oi=ao">Prof. Yong Liu</a> (国家杰青 & 长江学者), awarded with the honor of Outstanding Graduate.
 
 
 Before, I study with some outstanding researchers from WeChat Technology (微信技术架构), Tencent: <a href="https://scholar.google.com.hk/citations?user=38dACd4AAAAJ&hl=zh-CN&oi=ao">Dr. Fengyun Rao</a>, <a href="https://scholar.google.com.hk/citations?user=dHBNmSkAAAAJ&hl=zh-CN&oi=ao">Dr. Yizhou Zhou</a>, <a href="https://scholar.google.com.hk/citations?user=cKY8e8sAAAAJ&hl=zh-CN&oi=ao">Dr. Guangting Wang</a> and <a href="https://scholar.google.com.hk/citations?user=O00rbxoAAAAJ&hl=zh-CN&oi=sra">Dr. Yukun Su</a>, working to develop chinese pre-trainings of image-text-video-music, namely WeMM, WeCLIP, WeMU.
@@ -40,7 +41,6 @@ I’m now leading one small group that mainly works on <b> Efficient Data Govern
 - [*2024.05*] ![new paper](/images/new.gif) Our new work, [rethinking the robustness for open-vocabulary visual understanding](https://arxiv.org/pdf/2404.14890.pdf) is out!
 - [*2024.04*] ![new paper](/images/new.gif) Our new work, [wear-any-way: manipulable virtual try-on via sparse correspondence alignment](https://arxiv.org/pdf/2403.12965.pdf) is out!
 - [*2024.03*] One paper is accepted to CVPR 2024, about audio-visual segmentation via unlabeled frame exploitation.
-- [*2024.01*] Remarking for 500 Citations in Google Scholar.
 - [*2024.01*] One paper is accepted to WWW 2024, about cross-domain CTR prediction via explicit feature augmentation.
 - [*2023.12*] ![new paper](/images/new.gif) Our new work, [universal VLMs acceleration architecture, from one novel perspective of data de-redundancy](https://arxiv.org/pdf/2312.07408.pdf) is out!
 - [*2023.09*] One paper is accepted to NIPS 2023, about general semantic understanding for multi-modal large models.
