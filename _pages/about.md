@@ -30,7 +30,7 @@ I’m now leading one small group that mainly works on <b> Efficient Data Unders
 Actively recruiting research interns and engineering interns, please feel free to contact me!
 
 
-I obtained the PhD's degree from <a href="https://mediabrain.sjtu.edu.cn/">MediaBrain Group</a>, Shanghai Jiao Tong University, advised by <a href="https://scholar.google.com.hk/citations?user=x_sgJskAAAAJ&hl=zh-CN">Prof. Yanfeng Wang</a> (交大人工智能学院院长) and <a href="https://mediabrain.sjtu.edu.cn/yazhang/">Prof. Ya Zhang</a> (国家万人), also collaborating with <a href="https://weidixie.github.io/">Prof. Weidi Xie</a>(海外优青), <a href="https://siheng-chen.github.io/">Prof. Siheng Chen</a>(海外优青), <a href="https://mediabrain.sjtu.edu.cn/yuwang/">Prof. Yu Wang</a> and <a href="https://sunarker.github.io/index.html">Prof. Jiangchao Yao</a>. Before that, I obtained a Bachelor's degree in Engineering from University of Electronic Science and Technology of China, where I studied under <a href="https://scholar.google.com.hk/citations?user=r0aZUfoAAAAJ&hl=zh-CN&oi=ao">Prof. Yong Liu</a> (国家杰青 & 长江学者), awarded with the honor of Outstanding Graduate.
+I obtained the PhD's degree from <a href="https://mediabrain.sjtu.edu.cn/">MediaBrain Group</a>, Shanghai Jiao Tong University, advised by <a href="https://scholar.google.com.hk/citations?user=x_sgJskAAAAJ&hl=zh-CN">Prof. Yanfeng Wang</a> (人工智能学院院长) and <a href="https://mediabrain.sjtu.edu.cn/yazhang/">Prof. Ya Zhang</a> (国家万人), also collaborating with <a href="https://weidixie.github.io/">Prof. Weidi Xie</a>(海外优青), <a href="https://siheng-chen.github.io/">Prof. Siheng Chen</a>(海外优青), <a href="https://mediabrain.sjtu.edu.cn/yuwang/">Prof. Yu Wang</a> and <a href="https://sunarker.github.io/index.html">Prof. Jiangchao Yao</a>. Before that, I obtained a Bachelor's degree in Engineering from University of Electronic Science and Technology of China, where I studied under <a href="https://scholar.google.com.hk/citations?user=r0aZUfoAAAAJ&hl=zh-CN&oi=ao">Prof. Yong Liu</a> (国家杰青 & 长江学者), awarded with the honor of outstanding graduate.
 
 
 <p> <b>Email:</b> cju[dot]void[at]gmail[dot]com /  ju_chen[at]alumni[dot]sjtu[dot]edu[dot]cn          &emsp;         
@@ -39,7 +39,6 @@ I obtained the PhD's degree from <a href="https://mediabrain.sjtu.edu.cn/">Media
 
 
 # 🔥 News
-
 - ![new paper](/images/new.gif) Our work, [universal VLMs acceleration architecture, from one novel perspective of data de-redundancy](https://arxiv.org/pdf/2312.07408.pdf) is out!
 - ![new paper](/images/new.gif) Our work, [rethinking the robustness for open-vocabulary visual understanding](https://arxiv.org/pdf/2404.14890.pdf) is out!
 - ![new paper](/images/new.gif) Our work, [wear-any-way: manipulable virtual try-on via sparse correspondence alignment](https://arxiv.org/pdf/2403.12965.pdf) is out!
@@ -53,21 +52,22 @@ I obtained the PhD's degree from <a href="https://mediabrain.sjtu.edu.cn/">Media
 - [*2022.07*] One paper is accepted to ECCV 2022, about efficient adaptation for vision-language foundation models.  
 - [*2022.07*] One paper is accepted to ACM Multimedia 2022, about cost-effective pre-training for video-audio foundation models.     
 
-Cleaner; Organizer; Compressor; Distiller; Synthesizer; Evolver
 
 
 # 💻 Researches
 My primary research interests lie in 
 
-- **Vision-Language-Music Learning**: Pre-training Alignment, Efficient Adaptation/Fine-Tuning, Accelerate Deployment for Downstream Tasks.
+- **Vision-Language-Music Learning**: Pre-training Alignment, Efficient Adaptation/Fine-Tuning, Training/Deployment Acceleration.
 
 - **Data Governance/Flywheel & Mining**: Clean/Compress/Distill/Synthesize Data, Cross-Modal Retrieval/Recommendation/Advert. 
 
-- **Creative AIGC**：Generation or Editing for Image/Video/Music, Conversation-Driven Multi-Modal Understanding and Composition.
+- **Creative AIGC**：Generation/Fine Editing for Image/Video/Music, Conversation-Driven Understanding/Composition, RLHF Evalution.
 
 - **Video Understanding**: Retrieval/Caption/Summary for Video Clips, Alignment/Detection/Classification for Untrimmed Long Videos.
 
-As a young researcher, your interest and kind citation will definitely mean a lot for me and my collaborators. Also feel free to drop me an email for any suggestions or potential collaborations.
+As a young researcher, your interest and kind citation will definitely mean a lot for me and my collaborators. 
+
+Also feel free to drop me an email for any suggestions or potential collaborations.
 
 
 
@@ -162,7 +162,7 @@ arXiv preprint 2023
 Xu Chen, Zida Cheng, Jiangchao Yao, **Chen Ju**, Weilin Huang, Xiaoyi Zeng and Shuai Xiao             
 **WWW 2024**
 
-1. [Image to Multi-Modal Retrieval Learning for Industrial Scenarios](https://arxiv.org/pdf/2305.03972.pdf)      \|  [[Bibtex](./CITE/cite_immr.txt)]               
+1. [Image to Multi-Modal Retrieval Learning for Industrial Scenarios](https://arxiv.org/pdf/2305.03972)      \|  [[Bibtex](./CITE/cite_immr.txt)]               
 Zida Cheng, **Chen Ju**, Xu Chen, Zhonghua Zhai, Shuai Xiao and Junchi Yan           
 arXiv preprint 2023   
 
