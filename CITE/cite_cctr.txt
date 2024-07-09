@@ -1,6 +1,7 @@
-@inproceedings{chen2023enhancing,
-  title={Enhancing Cross-domain Click-Through Rate Prediction via Explicit Feature Augmentation},
-  author={Chen, Xu and Cheng, Zida and Yao, Jiangchao and Ju, Chen and Huang, Weilin and Zeng, Xiaoyi and Xiao, Shuai},
-  booktitle={Proceedings of the ACM Web Conference},
-  year={2023}
+@inproceedings{chen2024enhancing,
+  title={Enhancing cross-domain click-through rate prediction via explicit feature augmentation},
+  author={Chen, Xu and Cheng, Zida and Yao, Jiangchao and Ju, Chen and Huang, Weilin and Lan, Jinsong and Zeng, Xiaoyi and Xiao, Shuai},
+  booktitle={Companion Proceedings of the ACM on Web Conference 2024},
+  pages={423--432},
+  year={2024}
 }
