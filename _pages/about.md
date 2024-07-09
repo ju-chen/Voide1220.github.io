@@ -284,8 +284,6 @@ Ya Zhang, **<u>Chen Ju</u>**, Haicheng Wang, Jinxiang Liu, Chaofan Ma, Yanfeng W
 Yanfeng Wang, Chaofan Ma, Yuhuan Yang, **<u>Chen Ju</u>**, Fei Zhang, Ya Zhang.  
 - CN202410913202.4 [《一种基于稀疏关系对齐的可自由控制的试衣方法》](https://cprs.patentstar.com.cn/Search/Detail?ANE=9HBB8IAA5CBA9CFB6CDA8EEAFFIA8GBA8FAA9BHB7FCA9EHE)       
 Mengting Chen, Xi Chen, Zhonghua Zhai, **<u>Chen Ju</u>**, Xuewen Hong, Jinsong Lan, Shuai Xiao. 
-- CN202410913202.4 [《一种带噪多模态开放词汇视觉样本分类方法及系统》](https://cprs.patentstar.com.cn/Search/Detail?ANE=9HBB8IAA5CBA9CFB6CDA8EEAFFIA8GBA8FAA9BHB7FCA9EHE)       
-Xiaoyun Zhang, Haozhe Cheng, **<u>Chen Ju</u>**, Qiang Hu, Yanfeng Wang. 
 
 
 # 📖 Educations
@@ -296,7 +294,7 @@ Xiaoyun Zhang, Haozhe Cheng, **<u>Chen Ju</u>**, Qiang Hu, Yanfeng Wang.
 
 
 # 🎖 Honors and Awards
-- [*2024*] Top Talent Program by Technology Companies
+- [*2024*] Top Talent Program by Technology Companies (Alibaba-Star, Huawei-Topminds, Tencent-QingYun, BaiDu-AIDU, KuaiShou-Star, JD-DMT)
 - [*2023*] First Prize of Shanghai Technology Invention Award
 - [*2022*] CMIC Outstanding Scholarship at SJTU (Top 1%)
 - [*2021*] CMIC Outstanding Scholarship at SJTU (Top 1%)
