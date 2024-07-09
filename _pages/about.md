@@ -12,22 +12,25 @@ redirect_from:
 
 Hello! I’m Chen Ju (鞠陈).
 
-Currently, I collaborate closely with some outstanding researchers from TAO Technology (拍立淘), Alibaba: <a href="https://scholar.google.com.hk/citations?user=78vU1IUAAAAJ&hl=zh-CN&oi=ao">Dr. Weilin Huang</a>, <a href="https://scholar.google.com.hk/citations?user=qBTDCawAAAAJ&hl=zh-CN&oi=ao">Dr. Shuai Xiao</a>, <a href="https://scholar.google.com.hk/citations?user=6Qa2JCwAAAAJ&hl=zh-CN">Dr. Xu Chen</a>, and <a href="https://scholar.google.com.hk/citations?user=o4SDCAYAAAAJ&hl=zh-CN&oi=ao">Dr. Zhonghua Zhai</a>. 
+Now, I'm an algorithm researcher 
+
+Currently, 
+
+I collaborate closely with some outstanding researchers from PaiLiTao (拍立淘), Alibaba: <a href="https://scholar.google.com.hk/citations?user=78vU1IUAAAAJ&hl=zh-CN&oi=ao">Dr. Weilin Huang</a>, <a href="https://scholar.google.com.hk/citations?user=qBTDCawAAAAJ&hl=zh-CN&oi=ao">Dr. Shuai Xiao</a>, <a href="https://scholar.google.com.hk/citations?user=6Qa2JCwAAAAJ&hl=zh-CN">Dr. Xu Chen</a>, and <a href="https://scholar.google.com.hk/citations?user=o4SDCAYAAAAJ&hl=zh-CN&oi=ao">Dr. Zhonghua Zhai</a>. 
 The vision is to develop large-scale visual searching system for various e-commerce applications, such as superlarge-scale multi-modal learning (10-billion image-text product data), AIGC (GPT & VLLM & Diffusion).
 
 
-Recently, I obtained the PhD's degree from <a href="https://mediabrain.sjtu.edu.cn/">MediaBrain Group</a>, Shanghai Jiao Tong University, advised by <a href="https://scholar.google.com.hk/citations?user=x_sgJskAAAAJ&hl=zh-CN">Prof. Yanfeng Wang</a> (上海AI LAB主任助理) and <a href="https://mediabrain.sjtu.edu.cn/yazhang/">Prof. Ya Zhang</a> (国家万人), also collaborating with <a href="https://weidixie.github.io/">Prof. Weidi Xie</a>, <a href="https://siheng-chen.github.io/">Prof. Siheng Chen</a>, <a href="https://mediabrain.sjtu.edu.cn/yuwang/">Prof. Yu Wang</a> and <a href="https://sunarker.github.io/index.html">Prof. Jiangchao Yao</a>. 
-
-Before that, I obtained a Bachelor's degree in Engineering from University of Electronic Science and Technology of China, where I studied under <a href="https://scholar.google.com.hk/citations?user=r0aZUfoAAAAJ&hl=zh-CN&oi=ao">Prof. Yong Liu</a> (国家杰青 & 长江学者), awarded with the honor of Outstanding Graduate.
-
-
-Before, I study with some outstanding researchers from WeChat Technology (微信技术架构), Tencent: <a href="https://scholar.google.com.hk/citations?user=38dACd4AAAAJ&hl=zh-CN&oi=ao">Dr. Fengyun Rao</a>, <a href="https://scholar.google.com.hk/citations?user=dHBNmSkAAAAJ&hl=zh-CN&oi=ao">Dr. Yizhou Zhou</a>, <a href="https://scholar.google.com.hk/citations?user=cKY8e8sAAAAJ&hl=zh-CN&oi=ao">Dr. Guangting Wang</a> and <a href="https://scholar.google.com.hk/citations?user=O00rbxoAAAAJ&hl=zh-CN&oi=sra">Dr. Yukun Su</a>, working to develop chinese pre-trainings of image-text-video-music, namely WeMM, WeCLIP, WeMU.
+Before that, I study with some outstanding researchers from WeChat Technology (微信技术架构), Tencent: <a href="https://scholar.google.com.hk/citations?user=38dACd4AAAAJ&hl=zh-CN&oi=ao">Dr. Fengyun Rao</a>, <a href="https://scholar.google.com.hk/citations?user=dHBNmSkAAAAJ&hl=zh-CN&oi=ao">Dr. Yizhou Zhou</a>, <a href="https://scholar.google.com.hk/citations?user=cKY8e8sAAAAJ&hl=zh-CN&oi=ao">Dr. Guangting Wang</a> and <a href="https://scholar.google.com.hk/citations?user=O00rbxoAAAAJ&hl=zh-CN&oi=sra">Dr. Yukun Su</a>, working to develop chinese pre-trainings of image-text-video-music, namely WeMM, WeCLIP, WeMU.
 
 
 Earlier, I cooperate with some outstanding researchers from PanGu Large Model (盘古大模型), Huawei: <a href="https://scholar.google.com/citations?user=61b6eYkAAAAJ">Prof. Qi Tian</a>, <a href="https://scholar.google.com/citations?user=EEMm7hwAAAAJ&hl=zh-CN&oi=ao">Dr. Lingxi Xie</a>, <a href="https://scholar.google.com.hk/citations?user=Ud6aBAcAAAAJ&hl=zh-CN&oi=ao">Dr. Xiaopeng Zhang</a>, <a href="https://scholar.google.com.hk/citations?user=RDwnNsQAAAAJ&hl=zh-CN&oi=ao">Dr. Jianlong Chang</a>, <a href="https://scholar.google.com.hk/citations?user=-JcFoOoAAAAJ&hl=zh-CN&oi=ao">Dr. Jiemin Fang</a>, and <a href="https://scholar.google.com.hk/citations?user=hCr8Km8AAAAJ&hl=zh-CN&oi=ao">Dr. Peisen Zhao</a>, to explore MLLM for B-side industrial scenarios.
 
 
-I’m now leading one small group that mainly works on <b> Efficient Data Governance (Cleaner; Organizer; Compressor; Distiller; Synthesizer; Evolver)</b>. Actively recruiting research interns and engineering interns, please feel free to contact me!
+I’m now leading one small group that mainly works on <b> Efficient Data Understanding & Generation for Multi-Modal Foundation Models</b> (Data Flywheel/Governance, Advanced Paradigm/Framework, Creative AIGC). 
+Actively recruiting research interns and engineering interns, please feel free to contact me!
+
+
+I obtained the PhD's degree from <a href="https://mediabrain.sjtu.edu.cn/">MediaBrain Group</a>, Shanghai Jiao Tong University, advised by <a href="https://scholar.google.com.hk/citations?user=x_sgJskAAAAJ&hl=zh-CN">Prof. Yanfeng Wang</a> (交大人工智能学院院长) and <a href="https://mediabrain.sjtu.edu.cn/yazhang/">Prof. Ya Zhang</a> (国家万人), also collaborating with <a href="https://weidixie.github.io/">Prof. Weidi Xie</a>(海外优青), <a href="https://siheng-chen.github.io/">Prof. Siheng Chen</a>(海外优青), <a href="https://mediabrain.sjtu.edu.cn/yuwang/">Prof. Yu Wang</a> and <a href="https://sunarker.github.io/index.html">Prof. Jiangchao Yao</a>. Before that, I obtained a Bachelor's degree in Engineering from University of Electronic Science and Technology of China, where I studied under <a href="https://scholar.google.com.hk/citations?user=r0aZUfoAAAAJ&hl=zh-CN&oi=ao">Prof. Yong Liu</a> (国家杰青 & 长江学者), awarded with the honor of Outstanding Graduate.
 
 
 <p> <b>Email:</b> cju[dot]void[at]gmail[dot]com /  ju_chen[at]alumni[dot]sjtu[dot]edu[dot]cn          &emsp;         
@@ -49,17 +52,19 @@ I’m now leading one small group that mainly works on <b> Efficient Data Govern
 - [*2022.07*] One paper is accepted to ECCV 2022, about efficient adaptation for vision-language foundation models.  
 - [*2022.07*] One paper is accepted to ACM Multimedia 2022, about cost-effective pre-training for video-audio foundation models.     
 
+Cleaner; Organizer; Compressor; Distiller; Synthesizer; Evolver
+
 
 # 💻 Researches
 My primary research interests lie in 
 
-- **Vision-Language-Music Learning**: Multi-Modal Pre-training, Efficient Adaptation, Accelerate Deployment for Downstream Tasks.
+- **Vision-Language-Music Learning**: Pre-training Alignment, Efficient Adaptation/Fine-Tuning, Accelerate Deployment for Downstream Tasks.
 
-- **Data Governance & Mining**: Clean & Compress & Synthesize Data, Cross-Modal Retrieval & Recommendation & Advert. 
+- **Data Governance/Flywheel & Mining**: Clean/Compress/Distill/Synthesize Data, Cross-Modal Retrieval/Recommendation/Advert. 
 
-- **AIGC**：Generation or Editing for Image & Video & Music, Conversation-Driven Multi-Modal Understanding and Composition.
+- **Creative AIGC**：Generation or Editing for Image/Video/Music, Conversation-Driven Multi-Modal Understanding and Composition.
 
-- **Video Understanding**: Retrieval & Caption & Summary for Video Clips, Detection & Classification for Untrimmed Long Videos.
+- **Video Understanding**: Retrieval/Caption/Summary for Video Clips, Alignment/Detection/Classification for Untrimmed Long Videos.
 
 As a young researcher, your interest and kind citation will definitely mean a lot for me and my collaborators. Also feel free to drop me an email for any suggestions or potential collaborations.
 
@@ -71,13 +76,13 @@ As a young researcher, your interest and kind citation will definitely mean a lo
 **Chen Ju**, Tengda Han, Kunhao Zheng, Ya Zhang and Weidi Xie  
 **ECCV 2022**  
 
-1. [Collaborating Vision-Language Pre-training with Weakly-Supervised Video Understanding](https://arxiv.org/pdf/2212.09335.pdf)  \|  [[Project & Code](https://voide1220.github.io/distillation_collaboration/)]  \| [[Bibtex](./CITE/cite_distilling.txt)]                                 
-**Chen Ju**, Kunhao Zheng, Jinxiang Liu, Peisen Zhao, Ya Zhang, Jianlong Chang, Qi Tian and Yanfeng Wang      
-**CVPR 2023** 
-
 1. [Turbo: Informativity-Driven Acceleration Plugin for Vision-Language Large Models](https://arxiv.org/pdf/2312.07408.pdf)  \|  [[Project](https://voide1220.github.io/turbo/)]   \| [[Bibtex](./CITE/cite_turbo.txt)]                       
 **Chen Ju**, Haicheng Wang, Haozhe Cheng, Xu Chen, Zhonghua Zhai, Weilin Huang, Jinsong Lan, Shuai Xiao and Bo Zheng               
 **ECCV 2024** 
+
+1. [Collaborating Vision-Language Pre-training with Weakly-Supervised Video Understanding](https://arxiv.org/pdf/2212.09335.pdf)  \|  [[Project & Code](https://voide1220.github.io/distillation_collaboration/)]  \| [[Bibtex](./CITE/cite_distilling.txt)]                                 
+**Chen Ju**, Kunhao Zheng, Jinxiang Liu, Peisen Zhao, Ya Zhang, Jianlong Chang, Qi Tian and Yanfeng Wang      
+**CVPR 2023** 
 
 
 
