@@ -39,7 +39,7 @@ I obtained the PhD's degree from <a href="https://mediabrain.sjtu.edu.cn/">Media
 - ![new paper](/images/new.gif) Our work, [universal VLMs acceleration architecture, from one novel perspective of data de-redundancy](https://arxiv.org/pdf/2312.07408.pdf) is out!
 - ![new paper](/images/new.gif) Our work, [rethinking the robustness for open-vocabulary visual understanding](https://arxiv.org/pdf/2404.14890.pdf) is out!
 - ![new paper](/images/new.gif) Our work, [wear-any-way: manipulable virtual try-on via sparse correspondence alignment](https://arxiv.org/pdf/2403.12965.pdf) is out!
-- [*2024.07*] Two papers are accepted to ECCV 2024. Congrats to all co-authors!
+- [*2024.07*] Two papers are accepted to ECCV 2024, about innovative acceleration of foundation models, and interactive virtual try-on. Congrats to all co-authors!
 - [*2024.06*] One paper is accepted to Springer IJCV, about open-set semantic segmentation via multi-modal prototypes.
 - [*2024.03*] One paper is accepted to CVPR 2024, about audio-visual segmentation via unlabeled frame exploitation.
 - [*2024.01*] One paper is accepted to WWW 2024, about cross-domain CTR prediction via explicit feature augmentation.
