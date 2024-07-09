@@ -1,7 +1,7 @@
-@article{liu2024audio,
+@inproceedings{liu2024audio,
   title={Audio-Visual Segmentation via Unlabeled Frame Exploitation},
   author={Liu, Jinxiang and Liu, Yikun and Zhang, Fei and Ju, Chen and Zhang, Ya and Wang, Yanfeng},
-  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
-  journal={arXiv preprint arXiv:2403.11074},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={26328--26339},
   year={2024}
 }
