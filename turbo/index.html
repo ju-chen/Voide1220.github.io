@@ -225,7 +225,7 @@
 		</td>
                     <td align="center" width="160px">	    
               <center>
-                <span style="font-size:16px"><a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=3gHhO9QAAAAJ&view_op=list_works&sortby=pubdate">Bo Zheng</a><
+		<span style="font-size:16px"><a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=3gHhO9QAAAAJ&view_op=list_works&sortby=pubdate">Shuai Xiao</a><sup>1</sup></span>      
                 </center>    
 		
         </tbody></table><br>
@@ -313,9 +313,7 @@
 	      </div>
         </center>
       </center>
-	<p> Left: the trouble with applying VLMs is the high-cost issue. Right: to acceler-
-        ate VLMs, most existing ideas focus on the model perspective (pruning & quantization).
-        While our Turbo explores de-redundancy from the data perspective. </p>
+	<p> Left: the trouble with applying VLMs is the high-cost issue. Right: to accelerate VLMs, most existing ideas focus on the model perspective (pruning & quantization). While our Turbo explores de-redundancy from the data perspective. </p>
 
       <br><hr>
         <table align=center width=850px>
@@ -341,7 +339,7 @@
 	      </div>
         </center>
       </center>
-	<p> As one plug-in module, Turbo compresses data to cut computing overheads for various VLMs, across understanding/generation and uni-/multi-modality. It sorts then merges tokens by information degree (mutual redundancy $\mathcal{R}$ and semantic value $\mathcal{A}$) for understanding tasks; while sorts, merges and restores VLMs’ tokens for generation tasks, owning good universality and practicality.
+	<p> As one plug-in module, Turbo compresses data to cut computing overheads for various VLMs, across understanding/generation and uni-/multi-modality. It sorts then merges tokens by information degree (mutual redundancy and semantic value) for understanding tasks; while sorts, merges and restores VLMs’ tokens for generation tasks, owning good universality and practicality.
         <br><hr>
 
         <center><h1>Empirical Study</h1></center>
@@ -366,7 +364,7 @@
 
 	<center><h1>Ablation Study</h1></center>
         <p><center><img class="center"  src="./image/ablation.png" width="600px"></center></p>
-	<p> Ablation Study on Drop Ratio Y. Semantic value retains superior performance when Y is small, mutual redundancy possesses better stability on the large Y. By combining these two components, Turbo obtains competitive results and stability on the whole scope.
+	<p> Ablation Study on Drop Ratio. Semantic value retains superior performance when ratio is small, mutual redundancy possesses better stability on the large ratio. By combining two components, Turbo gets competitive results and stability on the whole scope.
         <p><img class="center"  src="./image/exp5.png" width="800px"></p>
 
 	<center><h1>Robustness</h1></center>
@@ -385,7 +383,7 @@
       <hr>
       <center> <h1> Acknowledgements </h1> </center>
 	<p>
-		This research is supported by Alibaba Group.
+		This research is supported by Alibaba Group. 
 	</p>
   
       <br>
