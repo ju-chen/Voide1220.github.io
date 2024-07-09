@@ -18,7 +18,7 @@ Now it has become one of the largest visual/multi-modal application scenarios in
 
 I’m recently leading one small group that mainly works on Efficient Data Understanding & Generation for Multi-Modal Foundation Models(Data Flywheel/Governance, Advanced Paradigm/Framework, Creative AIGC). 
 
-<b>Actively recruiting research/engineering interns, please feel free to contact me!</b> 
+<b>Actively recruiting research/engineering interns, see <a href="https://zhuanlan.zhihu.com/p/707679629?utm_campaign=shareopn&utm_medium=social&utm_psn=1793706250598506498&utm_source=wechat_session">Link, please feel free to contact me!</b>  
 
 
 Before that, I study with some outstanding researchers from WeChat Technology (微信技术架构), Tencent: <a href="https://scholar.google.com.hk/citations?user=38dACd4AAAAJ&hl=zh-CN&oi=ao">Dr. Fengyun Rao</a>, <a href="https://scholar.google.com.hk/citations?user=dHBNmSkAAAAJ&hl=zh-CN&oi=ao">Dr. Yizhou Zhou</a>, <a href="https://scholar.google.com.hk/citations?user=cKY8e8sAAAAJ&hl=zh-CN&oi=ao">Dr. Guangting Wang</a> and <a href="https://scholar.google.com.hk/citations?user=O00rbxoAAAAJ&hl=zh-CN&oi=sra">Dr. Yukun Su</a>, working to develop chinese pre-trainings of image-text-video-music, namely WeMM, WeCLIP, WeMU.
@@ -39,7 +39,7 @@ I obtained the PhD's degree from <a href="https://mediabrain.sjtu.edu.cn/">Media
 - ![new paper](/images/new.gif) Our work, [universal VLMs acceleration architecture, from one novel perspective of data de-redundancy](https://arxiv.org/pdf/2312.07408.pdf) is out!
 - ![new paper](/images/new.gif) Our work, [rethinking the robustness for open-vocabulary visual understanding](https://arxiv.org/pdf/2404.14890.pdf) is out!
 - ![new paper](/images/new.gif) Our work, [wear-any-way: manipulable virtual try-on via sparse correspondence alignment](https://arxiv.org/pdf/2403.12965.pdf) is out!
-- [*2024.07*] Two papers are accepted to ECCV 2024, about innovative acceleration of foundation models, and interactive virtual try-on. Congrats to all co-authors!
+- [*2024.07*] Two papers are accepted to ECCV 2024, about innovative acceleration of foundation models, and interactive virtual try-on.
 - [*2024.06*] One paper is accepted to Springer IJCV, about open-set semantic segmentation via multi-modal prototypes.
 - [*2024.03*] One paper is accepted to CVPR 2024, about audio-visual segmentation via unlabeled frame exploitation.
 - [*2024.01*] One paper is accepted to WWW 2024, about cross-domain CTR prediction via explicit feature augmentation.
